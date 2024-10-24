@@ -1,6 +1,8 @@
 # Copyright (C) 2022 The Qt Company Ltd.
 # SPDX-License-Identifier: BSD-3-Clause
 
+find_package(Python3 COMPONENTS Interpreter)
+
 add_custom_target(ts-all)
 add_custom_target(ts-untranslated)
 
@@ -28,6 +30,18 @@ function(generate_empty_ts_file file_name)
     endif()
 endfunction()
 
+# Generate .ts file for mimetypes database
+set(tika_output_file "${CMAKE_CURRENT_BINARY_DIR}/tika_for_ts.ts")
+set(tika_input_file "${repo_root_directory}/qtbase/src/corelib/mimetypes/3rdparty/tika-mimetypes.xml")
+add_custom_command(OUTPUT "${tika_output_file}"
+    COMMAND
+        "${Python3_EXECUTABLE}" "${CMAKE_CURRENT_SOURCE_DIR}/add_tika_to_ts.py"
+        "${tika_input_file}" "${tika_output_file}"
+    DEPENDS
+        "${tika_input_file}"
+        "${CMAKE_CURRENT_SOURCE_DIR}/add_tika_to_ts.py"
+)
+
 function(add_ts_target target input_file)
     set(no_value_options "")
     set(single_value_options "")
@@ -51,7 +65,7 @@ function(add_ts_target target input_file)
 endfunction()
 
 function(add_ts_targets catalog)
-    cmake_parse_arguments(arg "" "" "DIRECTORIES;EXCLUDE;MODULES" ${ARGN})
+    cmake_parse_arguments(arg "" "" "DIRECTORIES;EXCLUDE;MODULES;SOURCES" ${ARGN})
     generate_empty_ts_file("${catalog}_en.ts")
     file(GLOB ts_files "${catalog}_*.ts")
 
@@ -111,6 +125,7 @@ function(add_ts_targets catalog)
     set(source_files_list_file "${CMAKE_CURRENT_BINARY_DIR}/${catalog}_file_list.txt")
     set(inclusion_regex "\\.h$|\\.cpp$|\\.hpp$|\\.cxx$|\\.cc$|\\.mm$|\\.qml$|\\.ui$")
     list(FILTER file_list INCLUDE REGEX "${inclusion_regex}")
+    list(APPEND file_list "${arg_SOURCES}")
     list(JOIN file_list "\n" file_list_string)
 
     file(GENERATE
@@ -164,6 +179,8 @@ add_ts_targets(qtbase
         qtbase/src
         qtactiveqt/src # just 4 strings from QAxSelect
         qtimageformats/src # just 10 error messages from tga reader. uses bad context.
+    SOURCES
+        "${tika_output_file}"
 )
 add_ts_targets(qtdeclarative DIRECTORIES qtdeclarative/src
                EXCLUDE declarative/src/quickcontrols/designer)
