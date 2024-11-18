@@ -1,6 +1,11 @@
 # Copyright (C) 2022 The Qt Company Ltd.
 # SPDX-License-Identifier: BSD-3-Clause
 
+# Avoid running xmllint on each ts file to extract the ts file language.
+# We only need to do that for qt apps, not the qt translations. Speeds up
+# configuration of the repo on macOS hosts.
+set(QT_SKIP_STORE_LANGUAGES_FROM_TS_FILES TRUE)
+
 add_custom_target(ts-all)
 add_custom_target(ts-untranslated)
 
