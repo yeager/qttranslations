@@ -51,7 +51,7 @@ function(add_ts_targets catalog)
 
     set(languages)
     foreach(file IN LISTS ts_files)
-        if(file MATCHES "([a-z][a-z](_[A-Z][A-Z])?).ts$")
+        if(file MATCHES "_([a-z][a-z](_[A-Z][A-Z])?).ts$")
             list(APPEND languages ${CMAKE_MATCH_1})
         endif()
     endforeach()
