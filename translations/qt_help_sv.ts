@@ -9,7 +9,7 @@
         <translation>Lägg till filter</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/assistant/help/Help_autogen/include/ui_qfilternamedialog.h" line="+1"/>
         <source>Filter Name:</source>
         <translation>Filternamn:</translation>
     </message>
@@ -22,32 +22,32 @@
         <translation>Formulär</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/assistant/help/Help_autogen/include/ui_qhelpfiltersettingswidget.h" line="+1"/>
         <source>Filter</source>
         <translation>Filter</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/assistant/help/Help_autogen/include/ui_qhelpfiltersettingswidget.h" line="+1"/>
         <source>Components</source>
         <translation>Komponenter</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/assistant/help/Help_autogen/include/ui_qhelpfiltersettingswidget.h" line="+1"/>
         <source>Versions</source>
         <translation>Versioner</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/assistant/help/Help_autogen/include/ui_qhelpfiltersettingswidget.h" line="+1"/>
         <source>Add...</source>
         <translation>Lägg till...</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/assistant/help/Help_autogen/include/ui_qhelpfiltersettingswidget.h" line="+1"/>
         <source>Rename...</source>
         <translation>Byt namn...</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/assistant/help/Help_autogen/include/ui_qhelpfiltersettingswidget.h" line="+1"/>
         <source>Remove</source>
         <translation>Ta bort</translation>
     </message>

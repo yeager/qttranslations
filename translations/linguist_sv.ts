@@ -17,57 +17,57 @@
         <translation>Qt Linguist - Mängdöversättning</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_batchtranslation.h" line="+1"/>
         <source>Options</source>
         <translation>Alternativ</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_batchtranslation.h" line="+4"/>
         <source>Set translated entries to finished</source>
         <translation>Ange översatta poster som slutförda</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_batchtranslation.h" line="+1"/>
         <source>Retranslate entries with existing translation</source>
         <translation>Återöversätt poster med befintlig översättning</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_batchtranslation.h" line="+2"/>
         <source>Note that the modified entries will be reset to unfinished if &apos;Set translated entries to finished&apos; above is unchecked</source>
         <translation>Notera att ändrade poster kommer att nollställas till ofärdiga, om &quot;Ange översatta poster som färdiga&quot; är avmarkerat</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_batchtranslation.h" line="+2"/>
         <source>Translate also finished entries</source>
         <translation>Översätt även slutförda poster</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_batchtranslation.h" line="+1"/>
         <source>Phrase book preference</source>
         <translation>Ordboksinställning</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_batchtranslation.h" line="+1"/>
         <source>Move up</source>
         <translation>Flytta upp</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_batchtranslation.h" line="+1"/>
         <source>Move down</source>
         <translation>Flytta ner</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_batchtranslation.h" line="+1"/>
         <source>The batch translator will search through the selected phrase books in the order given above</source>
         <translation>Mängdöversättaren kommer att söka igenom de valda ordböckerna i den ordning som anges ovan</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_batchtranslation.h" line="+1"/>
         <source>&amp;Run</source>
         <translation>&amp;Kör</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_batchtranslation.h" line="+1"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
@@ -235,107 +235,107 @@ Kommer att anta en enskild universell form.</translation>
         <translation>Sök</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+2"/>
         <source>This window allows you to search for some text in the translation source file.</source>
         <translation>Detta fönster låter dig söka efter text i översättningens källfil.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+2"/>
         <source>&amp;Find what:</source>
         <translation>&amp;Sök efter:</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+2"/>
         <source>Type in the text to search for.</source>
         <translation>Skriv in text att söka efter.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+2"/>
         <source>Options</source>
         <translation>Alternativ</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+2"/>
         <source>Lets you use a Perl-compatible regular expression</source>
         <translation>Låter dig använda en Perl-kompatibel regular expression</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+2"/>
         <source>Regular &amp;expression</source>
         <translation>Regular &amp;expression</translation>
     </message>
     <message>
-        <location line="+15"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+15"/>
         <source>Texts such as &apos;TeX&apos; and &apos;tex&apos; are considered as different when checked.</source>
         <translation>Text såsom &quot;TeX&quot; och &quot;tex&quot; betraktas som olika om markerad.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+2"/>
         <source>&amp;Match case</source>
         <translation>Skiftl&amp;ägeskänslig</translation>
     </message>
     <message>
-        <location line="-11"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="-11"/>
         <source>Source texts are searched when checked.</source>
         <translation>Källtexter genomsöks vid markering.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+2"/>
         <source>&amp;Source texts</source>
         <translation>&amp;Källtexter</translation>
     </message>
     <message>
-        <location line="-6"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="-6"/>
         <source>Obsoleted messages are skipped when checked.</source>
         <translation>Föråldrade meddelanden undantas om markerad.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+2"/>
         <source>Skip &amp;obsolete</source>
         <translation>&amp;Undanta föråldrade</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+7"/>
         <source>Comments and contexts are searched when checked.</source>
         <translation>Kommentarer och kontext genomsöks vid markering.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+2"/>
         <source>&amp;Comments</source>
         <translation>K&amp;ommentarer</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+8"/>
         <source>Ignore &amp;accelerators</source>
         <translation>Ignorera &amp;acceleratorer</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+2"/>
         <source>Translations are searched when checked.</source>
         <translation>Översättningar genomsöks vid markering.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+2"/>
         <source>&amp;Translations</source>
         <translation>&amp;Översättningar</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+2"/>
         <source>Click here to find the next occurrence of the text you typed in.</source>
         <translation>Klicka här för att hitta nästa förekomst av den text du söker.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+2"/>
         <source>Find Next</source>
         <translation>Sök nästa</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+2"/>
         <source>Click here to close this window.</source>
         <translation>Klicka här för att stänga detta fönster.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+2"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
@@ -345,12 +345,12 @@ Kommer att anta en enskild universell form.</translation>
         <translation></translation>
     </message>
     <message>
-        <location line="-24"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="-24"/>
         <source>T&amp;ranslation status:</source>
         <translation>Ö&amp;versättningsstatus:</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_finddialog.h" line="+10"/>
         <source>Lets you filter the search target by translation status</source>
         <translation>Låter dig filtrera sökningsmålet efter översättningsstatus</translation>
     </message>
@@ -440,402 +440,402 @@ Kommer att anta en enskild universell form.</translation>
         <translation>Huvudfönster</translation>
     </message>
     <message>
-        <location line="+318"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+318"/>
         <source>&amp;Phrases</source>
         <translation>&amp;Fraser</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>&amp;Close Phrase Book</source>
         <translation>&amp;Stäng ordbok</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>&amp;Edit Phrase Book</source>
         <translation>&amp;Redigera ordbok</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>&amp;Print Phrase Book</source>
         <translation>S&amp;kriv ut ordbok</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>V&amp;alidation</source>
         <translation>Va&amp;lidering</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>&amp;View</source>
         <translation>&amp;Visa</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>Vie&amp;ws</source>
         <translation>V&amp;yer</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>&amp;Toolbars</source>
         <translation>V&amp;erktygsfält</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>&amp;Zoom</source>
         <translation>&amp;Zoom</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>Guesses</source>
         <translation>Gissningar</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>&amp;Help</source>
         <translation>&amp;Hjälp</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>&amp;Translation</source>
         <translation>&amp;Översättning</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>&amp;File</source>
         <translation>&amp;Arkiv</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>Recently Opened &amp;Files</source>
         <translation>Tidigare öppnade &amp;filer</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>&amp;Edit</source>
         <translation>&amp;Redigera</translation>
     </message>
     <message>
-        <location line="-331"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="-331"/>
         <source>&amp;Open...</source>
         <translation>&amp;Öppna...</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Open a Qt translation source file (TS file) for editing</source>
         <translation>Öppna en Qt översättningsfil (TS-fil) för redigering</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Ctrl+O</source>
         <translation>Ctrl+O</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>E&amp;xit</source>
         <translation>A&amp;vsluta</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+5"/>
         <source>Close this window and exit.</source>
         <translation>Stäng detta fönster och avsluta.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Ctrl+Q</source>
         <translation>Ctrl+Q</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Save</source>
         <translation>Spara</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Save changes made to this Qt translation source file</source>
         <translation>Spara ändringar gjorda i denna Qt översättningsfil</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+723"/>
         <location line="+11"/>
         <source>Save &amp;As...</source>
         <translation>S&amp;para som...</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>Save As...</source>
         <translation>Spara som...</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Save changes made to this Qt translation source file into a new file.</source>
         <translation>Spara ändringar gjorda i denna Qt översättningsfil, i en ny fil.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="-1265"/>
         <location line="+1255"/>
         <source>Release</source>
         <translation>Kompilera</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Create a Qt message file suitable for released applications from the current message file.</source>
         <translation>Skapa en QT meddelandefil, passande för publicerade program, från den aktuella meddelandefilen.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Print...</source>
         <translation>Skriv &amp;ut...</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Print a list of all the translation units in the current translation source file.</source>
         <translation>Skriv ut en lista med alla översättningsposter i den aktuella översättningsfilen.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Ctrl+P</source>
         <translation>Ctrl+P</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Undo</source>
         <translation>&amp;Ångra</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Undo the last editing operation performed on the current translation.</source>
         <translation>Ångra den senaste redigeringen av aktuell översättningspost.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Ctrl+Z</source>
         <translation>Ctrl+Z</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Redo</source>
         <translation>&amp;Upprepa</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Redo an undone editing operation performed on the translation.</source>
         <translation>Upprepa en ångrad redigering i översättningen.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Ctrl+Y</source>
         <translation>Ctrl+Y</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Cu&amp;t</source>
         <translation>Kli&amp;pp ut</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Copy the selected translation text to the clipboard and deletes it.</source>
         <translation>Kopiera markerad översättningstext till urklipp och tar bort den.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Ctrl+X</source>
         <translation>Ctrl+X</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Copy</source>
         <translation>K&amp;opiera</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Copy the selected translation text to the clipboard.</source>
         <translation>Kopiera markerad översättningstext till urklipp.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Ctrl+C</source>
         <translation>Ctrl+C</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Paste</source>
         <translation>&amp;Klistra in</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Paste the clipboard text into the translation.</source>
         <translation>Klistra in urklippstext i översättningen.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Ctrl+V</source>
         <translation>Ctrl+V</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Select &amp;All</source>
         <translation>&amp;Markera allt</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Select the whole translation text.</source>
         <translation>Markera hela översättningstexten.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Ctrl+A</source>
         <translation>Ctrl+A</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Find...</source>
         <translation>&amp;Sök...</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Search for some text in the translation source file.</source>
         <translation>Sök efter text i översättningsfilen.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Ctrl+F</source>
         <translation>Ctrl+F</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Find &amp;Next</source>
         <translation>Sök &amp;nästa</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Continue the search where it was left.</source>
         <translation>Fortsätt sökningen från senaste träff.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>F3</source>
         <translation>F3</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Prev Unfinished</source>
         <translation>&amp;Föregående oavslutade</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Previous unfinished item</source>
         <translation>Föregående oavslutade post</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Move to the previous unfinished item.</source>
         <translation>Flytta till föregående oavslutade post.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Next Unfinished</source>
         <translation>&amp;Nästa oavslutade</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Next unfinished item</source>
         <translation>Nästa oavslutade post</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Move to the next unfinished item.</source>
         <translation>Flytta till nästa oavslutade post.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Ctrl+J</source>
         <translation>Ctrl+J</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>P&amp;rev</source>
         <translation>F&amp;öregående</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Move to previous item</source>
         <translation>Flytta till föregående post</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Move to the previous item.</source>
         <translation>Flytta till föregående post.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Ctrl+Shift+K</source>
         <translation>Ctrl+Shift+K</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Ne&amp;xt</source>
         <translation>N&amp;ästa</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Next item</source>
         <translation>Nästa post</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Move to the next item.</source>
         <translation>Flytta till nästa post.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Ctrl+Shift+J</source>
         <translation>Ctrl+Shift+J</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Done and Next</source>
         <translation>&amp;Slutför och nästa</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Mark item as done and move to the next unfinished item</source>
         <translation>Markera posten som slutförd och fortsätt till nästa oavslutade post</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Mark this item as done and move to the next unfinished item.</source>
         <translation>Markera denna post som slutförd och fortsätt till nästa oavslutade post.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <location line="+1"/>
         <source>Copy from source text</source>
         <translation>Kopiera från källtext</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Copies the source text into the translation field</source>
         <translation>Kopiera källtexten till översättningsfältet</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Copies the source text into the translation field.</source>
         <translation>Kopiera källtexten till översättningsfältet.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Ctrl+B</source>
         <translation>Ctrl+B</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Accelerators</source>
         <translation>&amp;Acceleratorer</translation>
     </message>
@@ -844,199 +844,199 @@ Kommer att anta en enskild universell form.</translation>
         <translation type="vanished">Validering av acceleratorer</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+5"/>
         <source>Toggles the validity check of accelerators, i.e. whether the number of ampersands in the source and translation text is the same. If the check fails, a message is shown in the warnings window.</source>
         <translation>Validering av acceleratorer, t.ex. om antalet et-tecken i käll- och översättningstexten är desamma. Om kontrollen misslyckas visas ett meddelande i varningsfönstret.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Surrounding &amp;Whitespace</source>
         <translation>&amp;Omgivande blanksteg</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Toggles the validity check of surrounding whitespace.</source>
         <translation>Validering av omgivande blanksteg.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Toggles the validity check of surrounding whitespace. If the check fails, a message is shown in the warnings window.</source>
         <translation>Validering av omgivande blanksteg. Om kontrollen misslyckas visas ett meddelande i varningsfönstret.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Ending Punctuation</source>
         <translation>A&amp;vslutande skiljetecken</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Toggles the validity check of ending punctuation</source>
         <translation>Validering av avslutande skiljetecken</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Toggles the validity check of ending punctuation. If the check fails, a message is shown in the warnings window.</source>
         <translation>Validering av avslutande skiljetecken. Om kontrollen misslyckas visas ett meddelande i varningsfönstret.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Phrase matches</source>
         <translation>&amp;Frasmatchning</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Toggles checking that phrase suggestions are used</source>
         <translation>Kontrollera om frasförslag används</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Toggles checking that phrase suggestions are used. If the check fails, a message is shown in the warnings window.</source>
         <translation>Kontrollera om frasförslag används. Om kontrollen misslyckas visas ett meddelande i varningsfönstret.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Place &amp;Marker Matches</source>
         <translation>&amp;Platsmarkörmatchning</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Toggles the validity check of place markers</source>
         <translation>Validering av platsmarkörer</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Toggles the validity check of place markers, i.e. whether %1, %2, ... are used consistently in the source text and translation text. If the check fails, a message is shown in the warnings window.</source>
         <translation>Validering av platsmarkörer, t.ex. om %1, %2, o.s.v, används genomgående i källtext och översättningstext. Om kontrollen misslyckas, visas ett meddelande i varningsfönstret.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;New Phrase Book...</source>
         <translation>&amp;Ny ordbok...</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Create a new phrase book.</source>
         <translation>Skapa ny ordbok.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Ctrl+N</source>
         <translation>Ctrl+N</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Open Phrase Book...</source>
         <translation>&amp;Öppna ordbok...</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Open a phrase book to assist translation.</source>
         <translation>Öppna en ordbok för att assistera översättningen.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Ctrl+H</source>
         <translation>Ctrl+H</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Reset Sorting</source>
         <translation>&amp;Återställ sortering</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Sort the items back in the same order as in the message file.</source>
         <translation>Sortera tillbaka objekten till samma ordning som i meddelandefilen.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Display guesses</source>
         <translation>Visa &amp;gissningar</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Set whether or not to display translation guesses.</source>
         <translation>Ange om gissningar skall visas eller inte.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Statistics</source>
         <translation>&amp;Statistik</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Display translation statistics.</source>
         <translation>Visa översättningsstatistik.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Manual</source>
         <translation>&amp;Manual</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+5"/>
         <source>F1</source>
         <translation>F1</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>About Qt Linguist</source>
         <translation>Om Qt Linguist</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>About Qt</source>
         <translation>Om Qt</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Display information about the Qt toolkit by Digia.</source>
         <translation>Visa information om Qt toolkit av Digia.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;What&apos;s This?</source>
         <translation>&amp;Vad är detta?</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <location line="+2"/>
         <source>What&apos;s This?</source>
         <translation>Vad är detta?</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Enter What&apos;s This? mode.</source>
         <translation>Gå in i &quot;Vad är detta?&quot;-läget.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Shift+F1</source>
         <translation>Shift+F1</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>&amp;Search And Translate...</source>
         <translation>&amp;Sök och översätt...</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Replace the translation on all entries that matches the search source text.</source>
         <translation>Ersätt översättningen i alla poster som matchar sökningens källtext.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+35"/>
         <source>&amp;Batch Translation...</source>
         <translation>M&amp;ängdöversättning...</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Batch translate all entries using the information in the phrase books.</source>
         <translation>Mängdöversätt alla poster med hjälp av informationen i ordböckerna.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <location line="+1"/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="-34"/>
         <location line="+10"/>
@@ -1044,115 +1044,115 @@ Kommer att anta en enskild universell form.</translation>
         <translation>Kompilera som...</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Create a Qt message file suitable for released applications from the current message file. The filename will automatically be determined from the name of the TS file.</source>
         <translation>Skapa en QT meddelandefil, passande för publicerade program, från den aktuella meddelandefilen. Filnamnet hämtas automatiskt från namnet på TS-filen.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+76"/>
         <source>File</source>
         <translation>Arkiv</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+7"/>
         <source>Edit</source>
         <translation>Redigera</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+6"/>
         <source>Translation</source>
         <translation>Översättning</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+6"/>
         <source>Validation</source>
         <translation>Validering</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+7"/>
         <source>Help</source>
         <translation>Hjälp</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>Open/Refresh Form &amp;Preview</source>
         <translation>Öppna/Uppdatera form&amp;granskning</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <location line="+2"/>
         <source>Form Preview Tool</source>
         <translation>Formgranskningsverktyg</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>F5</source>
         <translation>F5</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="-79"/>
         <source>Translation File &amp;Settings...</source>
         <translation>&amp;Översättningsfilens inställningar...</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>&amp;Add to Phrase Book</source>
         <translation>&amp;Lägg till i ordbok</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Ctrl+T</source>
         <translation>Ctrl+T</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Open Read-O&amp;nly...</source>
         <translation>Öppna &amp;med skrivskydd...</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>&amp;Save All</source>
         <translation>&amp;Spara alla</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="-28"/>
         <source>&amp;Release All</source>
         <translation>&amp;Kompilera alla</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>Close</source>
         <translation>Stäng</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>&amp;Close All</source>
         <translation>St&amp;äng alla</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Ctrl+W</source>
         <translation>Ctrl+W</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Length Variants</source>
         <translation>Längdvarianter</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+1"/>
         <source>Visualize whitespace</source>
         <translation>Visualisera blanksteg</translation>
     </message>
@@ -1161,73 +1161,73 @@ Kommer att anta en enskild universell form.</translation>
         <translation type="vanished">Visualisera blanksteg i redigerare</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+4"/>
         <source>Increase</source>
         <translation>Öka</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Ctrl++</source>
         <translation>Ctrl++</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Decrease</source>
         <translation>Minska</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Ctrl+-</source>
         <translation>Ctrl+-</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <location line="+12"/>
         <source>Reset to default</source>
         <translation>Återställ standard</translation>
     </message>
     <message>
-        <location line="-10"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="-10"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Show more</source>
         <translation>Visa mer</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Alt++</source>
         <translation>Alt++</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Show fewer</source>
         <translation>Visa mindre</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Alt+-</source>
         <translation>Alt+-</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+4"/>
         <source>Alt+0</source>
         <translation>Alt+0</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>D&amp;one</source>
         <translation>Sl&amp;utför</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Mark item as done</source>
         <translation>Markera objekt som slutfört</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+3"/>
         <source>Mark this item as done.</source>
         <translation>Markera detta objekt som slutfört.</translation>
     </message>
@@ -1697,17 +1697,17 @@ Alla filer (*)</translation>
         <translation>Växlar giltighetskontroll för acceleratorer</translation>
     </message>
     <message>
-        <location line="+127"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+127"/>
         <source>Toggles visualize whitespace in editors</source>
         <translation>Växlar visualisera blanksteg i redigerare</translation>
     </message>
     <message>
-        <location line="+33"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+33"/>
         <source>Find P&amp;revious</source>
         <translation>Sök &amp;föregående</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_mainwindow.h" line="+2"/>
         <source>Shift+F3</source>
         <translation>Skift+F3</translation>
     </message>
@@ -1834,82 +1834,82 @@ Rad: %2</translation>
         <translation>Redigera ordbok</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_phrasebookbox.h" line="+2"/>
         <source>This window allows you to add, modify, or delete entries in a phrase book.</source>
         <translation>Detta fönster låter dig lägga till, ändra eller ta bort poster i en ordbok.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_phrasebookbox.h" line="+2"/>
         <source>&amp;Translation:</source>
         <translation>&amp;Översättning:</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_phrasebookbox.h" line="+2"/>
         <source>This is the phrase in the target language corresponding to the source phrase.</source>
         <translation>Detta är den fras på målspråket som motsvarar källfrasen.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_phrasebookbox.h" line="+2"/>
         <source>S&amp;ource phrase:</source>
         <translation>&amp;Källfras:</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_phrasebookbox.h" line="+2"/>
         <source>This is a definition for the source phrase.</source>
         <translation>Detta är en definition på källfrasen.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_phrasebookbox.h" line="+3"/>
         <source>This is the phrase in the source language.</source>
         <translation>Detta är en fras på källspråket.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_phrasebookbox.h" line="+2"/>
         <source>&amp;Definition:</source>
         <translation>&amp;Definition:</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_phrasebookbox.h" line="+2"/>
         <source>Click here to add the phrase to the phrase book.</source>
         <translation>Klicka här för att lägga till frasen i ordboken.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_phrasebookbox.h" line="+2"/>
         <source>&amp;New Entry</source>
         <translation>&amp;Ny post</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_phrasebookbox.h" line="+2"/>
         <source>Click here to remove the entry from the phrase book.</source>
         <translation>Klicka här för att ta bort posten från ordboken.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_phrasebookbox.h" line="+2"/>
         <source>&amp;Remove Entry</source>
         <translation>&amp;Ta bort post</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_phrasebookbox.h" line="+1"/>
         <source>Settin&amp;gs...</source>
         <translation>&amp;Inställningar...</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_phrasebookbox.h" line="+2"/>
         <source>Click here to save the changes made.</source>
         <translation>Klicka här för att spara utförda ändringar.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_phrasebookbox.h" line="+2"/>
         <source>&amp;Save</source>
         <translation>&amp;Spara</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_phrasebookbox.h" line="+2"/>
         <source>Click here to close this window.</source>
         <translation>Klicka här för att stänga detta fönster.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_phrasebookbox.h" line="+2"/>
         <source>Close</source>
         <translation>Stäng</translation>
     </message>
@@ -2036,22 +2036,22 @@ Rad: %2</translation>
         <translation>Statistik</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_statistics.h" line="+1"/>
         <source>Close</source>
         <translation>Stäng</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_statistics.h" line="+1"/>
         <source>Translation</source>
         <translation>Översättning</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_statistics.h" line="+1"/>
         <source>Source</source>
         <translation>Källa</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_statistics.h" line="+2"/>
         <location line="+1"/>
         <location line="+1"/>
         <location line="+2"/>
@@ -2072,54 +2072,54 @@ Rad: %2</translation>
         <translation>0</translation>
     </message>
     <message>
-        <location line="-24"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_statistics.h" line="-24"/>
         <source>Words:</source>
         <translation>Ord:</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_statistics.h" line="+4"/>
         <source>Characters:</source>
         <translation>Tecken:</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_statistics.h" line="+1"/>
         <source>Characters (with spaces):</source>
         <translation>Tecken (inkl. blanksteg):</translation>
     </message>
     <message>
-        <location line="-9"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_statistics.h" line="-9"/>
         <source>Unfinished</source>
         <translation>Ofärdiga</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_statistics.h" line="+13"/>
         <source>Total translatable messages:</source>
         <translation>Totalt översättningsbara meddelanden:</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_statistics.h" line="+1"/>
         <source>Total finished:</source>
         <translation>Totalt färdiga:</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_statistics.h" line="+1"/>
         <location line="+3"/>
         <source>Without warnings:</source>
         <translation>Utan varningar:</translation>
     </message>
     <message>
-        <location line="-2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_statistics.h" line="-2"/>
         <location line="+3"/>
         <source>With warnings:</source>
         <translation>Med varningar:</translation>
     </message>
     <message>
-        <location line="-2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_statistics.h" line="-2"/>
         <source>Unfinished:</source>
         <translation>Ofärdiga:</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_statistics.h" line="+3"/>
         <source>Total messages including obsolete:</source>
         <translation>Totalt meddelanden inklusive föråldrade:</translation>
     </message>
@@ -2132,68 +2132,68 @@ Rad: %2</translation>
         <translation>Detta fönster låter dig söka efter text översättningsfilen.</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_translatedialog.h" line="+3"/>
         <location line="+5"/>
         <source>Type in the text to search for.</source>
         <translation>Skriv in text att söka efter.</translation>
     </message>
     <message>
-        <location line="-3"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_translatedialog.h" line="-3"/>
         <source>Find &amp;source text:</source>
         <translation>Sök &amp;källtext:</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_translatedialog.h" line="+1"/>
         <source>&amp;Translate to:</source>
         <translation>&amp;Översätt till:</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_translatedialog.h" line="+4"/>
         <source>Search options</source>
         <translation>Sökalternativ</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_translatedialog.h" line="+2"/>
         <source>Texts such as &apos;TeX&apos; and &apos;tex&apos; are considered as different when checked.</source>
         <translation>Texter som &quot;TeX&quot; och &quot;tex&quot; betraktas som olika när detta är markerat.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_translatedialog.h" line="+2"/>
         <source>Match &amp;case</source>
         <translation>Skift&amp;lägeskänslig</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_translatedialog.h" line="+1"/>
         <source>Mark new translation as &amp;finished</source>
         <translation>Markera ny översättning som sl&amp;utförd</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_translatedialog.h" line="+2"/>
         <source>Click here to find the next occurrence of the text you typed in.</source>
         <translation>Klicka här för att hitta nästa förekomst av den text du söker.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_translatedialog.h" line="+2"/>
         <source>Find Next</source>
         <translation>Sök nästa</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_translatedialog.h" line="+1"/>
         <source>Translate</source>
         <translation>Översätt</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_translatedialog.h" line="+1"/>
         <source>Translate All</source>
         <translation>Översätt alla</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_translatedialog.h" line="+2"/>
         <source>Click here to close this window.</source>
         <translation>Klicka här för att stänga detta fönster.</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_translatedialog.h" line="+2"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
@@ -2206,19 +2206,19 @@ Rad: %2</translation>
         <translation>Källspråk</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_translationsettings.h" line="+1"/>
         <location line="+3"/>
         <source>Language</source>
         <translation>Språk</translation>
     </message>
     <message>
-        <location line="-2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_translationsettings.h" line="-2"/>
         <location line="+3"/>
         <source>Country/Region</source>
         <translation>Land/Region</translation>
     </message>
     <message>
-        <location line="-2"/>
+        <location filename="../../qttools/src/linguist/linguist/linguist_autogen/include/ui_translationsettings.h" line="-2"/>
         <source>Target language</source>
         <translation>Målspråk</translation>
     </message>
