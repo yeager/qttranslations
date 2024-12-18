@@ -31,15 +31,22 @@ endfunction()
 function(add_ts_target target input_file)
     set(no_value_options "")
     set(single_value_options "")
-    set(multi_value_options TS_FILES)
+    set(multi_value_options TS_FILES DEPENDS)
     cmake_parse_arguments(PARSE_ARGV 2 arg
         "${no_value_options}" "${single_value_options}" "${multi_value_options}"
     )
     _qt_internal_validate_all_args_are_parsed(arg)
+    _qt_internal_forward_function_args(
+        FORWARD_PREFIX arg
+        FORWARD_OUT_VAR add_custom_target_args
+        FORWARD_MULTI
+            DEPENDS
+    )
     add_custom_target(${target}
         COMMAND ${QT_CMAKE_EXPORT_NAMESPACE}::lupdate -locations relative -no-ui-lines -no-sort
                 "@${input_file}" -ts ${arg_TS_FILES}
         VERBATIM
+        ${add_custom_target_args}
     )
 endfunction()
 
@@ -119,6 +126,7 @@ function(add_ts_targets catalog)
         add_ts_target(${lang_target_name}
             ${source_files_list_file}
             TS_FILES "${ts_file}"
+            DEPENDS ${file_list}
         )
 
         if(NOT TARGET ts-${lang})
@@ -134,6 +142,7 @@ function(add_ts_targets catalog)
     add_ts_target(ts-${catalog}-untranslated
         ${source_files_list_file}
         TS_FILES "${untranslated_ts_file}"
+        DEPENDS ${file_list}
     )
     add_dependencies(ts-untranslated ts-${catalog}-untranslated)
 
@@ -141,6 +150,7 @@ function(add_ts_targets catalog)
     add_ts_target(ts-${catalog}-all
         ${source_files_list_file}
         TS_FILES ${ts_files}
+        DEPENDS ${file_list}
     )
     add_dependencies(ts-all ts-${catalog}-all)
 endfunction()
