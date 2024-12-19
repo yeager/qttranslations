@@ -255,52 +255,52 @@ Please select another name.</source>
     <message>
         <location line="+22"/>
         <source>QPalette UI file (*.xml)</source>
-        <translation type="unfinished"></translation>
+        <translation>QPalette gränssnittsfil (*.xml)</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Cannot open %1 for writing: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna %1 för skrivning: %2</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Cannot write %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skriva %1: %2</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Cannot read palette from %1:%2:%3</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte läsa palett från %1:%2:%3</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Cannot open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna %1 för läsning: %2</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Invalid element &quot;%1&quot;, expected &quot;palette&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt element &quot;%1&quot;, förväntade &quot;palette&quot;.</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Save Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara palett</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Error Writing Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skrivning av palett</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Load Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in palett</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Error Reading Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid läsning av palett</translation>
     </message>
 </context>
 <context>
@@ -939,7 +939,7 @@ Do you want overwrite the template?</source>
     <message>
         <location line="+1"/>
         <source>Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Synlig</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -955,7 +955,7 @@ Do you want overwrite the template?</source>
     <message>
         <location line="-2"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1027,7 +1027,7 @@ Do you want overwrite the template?</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/Designer_autogen/include/ui_newformwidget.h" line="+145"/>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1037,22 +1037,22 @@ Do you want overwrite the template?</source>
     <message>
         <location line="+1"/>
         <source>Embedded Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Inbäddad design</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhet:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Screen Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skärmstorlek:</translation>
     </message>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/newformwidget.cpp" line="+70"/>
         <source>Default size</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardstorlek</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1088,7 +1088,7 @@ Do you want overwrite the template?</source>
     <message>
         <location line="+18"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen</translation>
     </message>
     <message>
         <location line="+55"/>
@@ -1506,7 +1506,7 @@ to
         <location line="+2"/>
         <location line="+9"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <location line="-7"/>
@@ -1612,13 +1612,13 @@ to
     <message>
         <location line="+2"/>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location line="+2"/>
         <location line="+2"/>
         <source>Reset Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ zoom</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1674,7 +1674,7 @@ to
         <location line="+4"/>
         <location line="+2"/>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>Alfa</translation>
     </message>
     <message>
         <location line="-4"/>
@@ -1684,7 +1684,7 @@ to
     <message>
         <location line="+6"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1694,7 +1694,7 @@ to
     <message>
         <location line="+2"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Färg</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1729,17 +1729,17 @@ to
     <message>
         <location line="+2"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma in</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma ut</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1749,7 +1749,7 @@ to
     <message>
         <location line="+2"/>
         <source>&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1764,7 +1764,7 @@ to
         <location line="+4"/>
         <location line="+4"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location line="-18"/>
@@ -1774,7 +1774,7 @@ to
     <message>
         <location line="+4"/>
         <source>Conical Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Konisk typ</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1794,7 +1794,7 @@ to
     <message>
         <location filename="../../qttools/src/shared/qtgradienteditor/qtgradienteditor.cpp" line="+144"/>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Linjär</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1804,7 +1804,7 @@ to
     <message>
         <location line="+1"/>
         <source>Conical</source>
-        <translation type="unfinished"></translation>
+        <translation>Konisk</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1814,12 +1814,12 @@ to
     <message>
         <location line="+1"/>
         <source>Repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Upprepa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Reflect</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflektera</translation>
     </message>
     <message>
         <location line="+329"/>
@@ -1866,12 +1866,12 @@ to
     <message>
         <location line="+4"/>
         <source>Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Radie</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Vinkel</translation>
     </message>
 </context>
 <context>
@@ -2274,7 +2274,7 @@ to
         <location filename="../../qttools/src/designer/src/components/formeditor/formeditor_optionspage.cpp" line="+51"/>
         <source>%1 %</source>
         <extracomment>Zoom percentage</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 %</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2879,7 +2879,7 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <location line="+103"/>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -3167,22 +3167,22 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <location filename="../../qttools/src/designer/src/components/propertyeditor/paletteeditor.cpp" line="+155"/>
         <source>Color Role</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgroll</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktiv</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktiverad</translation>
     </message>
 </context>
 <context>
@@ -3190,7 +3190,7 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <location filename="../../qttools/src/designer/src/components/propertyeditor/paletteeditorbutton.cpp" line="+19"/>
         <source>Change Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra palett</translation>
     </message>
 </context>
 <context>
@@ -3352,7 +3352,7 @@ Class: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/components/propertyeditor/stringlisteditorbutton.cpp" line="+18"/>
         <source>Change String List</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra stränglista</translation>
     </message>
 </context>
 <context>
@@ -3531,7 +3531,7 @@ Class: %2</source>
         <location line="+224"/>
         <location line="+74"/>
         <source>Move Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta sida</translation>
     </message>
     <message>
         <location line="-266"/>
@@ -3539,13 +3539,13 @@ Class: %2</source>
         <location line="+178"/>
         <location line="+659"/>
         <source>Delete Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort sida</translation>
     </message>
     <message>
         <location line="-919"/>
         <location line="+118"/>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Sida</translation>
     </message>
     <message>
         <location line="-113"/>
@@ -3618,7 +3618,7 @@ Class: %2</source>
     <message>
         <location line="+3"/>
         <source>Subwindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Underfönster</translation>
     </message>
     <message>
         <location line="+387"/>
@@ -3634,7 +3634,7 @@ Class: %2</source>
         <location line="+74"/>
         <location line="+147"/>
         <source>Add action</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till åtgärd</translation>
     </message>
     <message>
         <location line="-121"/>
@@ -3645,7 +3645,7 @@ Class: %2</source>
     <message>
         <location line="+53"/>
         <source>Add menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till meny</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -3910,32 +3910,32 @@ Class: %2</source>
     <message>
         <location line="+118"/>
         <source>Assign to button group</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilldela till knappgrupp</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Button group</source>
-        <translation type="unfinished"></translation>
+        <translation>Knappgrupp</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>New button group</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny knappgrupp</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Change text...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra text...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen</translation>
     </message>
     <message>
         <location line="+98"/>
         <source>Button group &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Knappgrupp &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -3943,7 +3943,7 @@ Class: %2</source>
     <message>
         <location line="+156"/>
         <source>Change description...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra beskrivning...</translation>
     </message>
 </context>
 <context>
@@ -3974,27 +3974,27 @@ Class: %2</source>
     <message>
         <location line="+3"/>
         <source>Insert Page Before Current Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga sida före aktuell sida</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Insert Page After Current Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga sida efter aktuell sida</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Add Subwindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till underfönster</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Subwindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Underfönster</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Sida</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4020,12 +4020,12 @@ Class: %2</source>
     <message>
         <location line="+35"/>
         <source>Next Subwindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa underfönster</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Previous Subwindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Föregående underfönster</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4060,12 +4060,12 @@ Class: %2</source>
     <message>
         <location line="+40"/>
         <source>Selectable</source>
-        <translation type="unfinished"></translation>
+        <translation>Valbar</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigerbar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4085,7 +4085,7 @@ Class: %2</source>
     <message>
         <location line="+1"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiverad</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4105,7 +4105,7 @@ Class: %2</source>
     <message>
         <location line="+1"/>
         <source>Checked</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerad</translation>
     </message>
 </context>
 <context>
@@ -4113,12 +4113,12 @@ Class: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/components/taskmenu/label_taskmenu.cpp" line="+50"/>
         <source>Change rich text...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra rik text...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Change plain text...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra vanlig text...</translation>
     </message>
 </context>
 <context>
@@ -4480,12 +4480,12 @@ Class: %2</source>
     <message>
         <location line="+1"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktyg</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5161,7 +5161,7 @@ Reason: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/actionrepository.cpp" line="+52"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5171,12 +5171,12 @@ Reason: %2</source>
     <message>
         <location line="+1"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Genväg</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5310,7 +5310,7 @@ Reason: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/iconselector.cpp" line="+130"/>
         <source>Choose Resource</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj resurs</translation>
     </message>
 </context>
 <context>
@@ -5529,7 +5529,7 @@ Reason: %2</source>
     <message>
         <location line="+24"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -5674,7 +5674,7 @@ Reason: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/propertylineedit.cpp" line="+51"/>
         <source>Insert line break</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga radbrytning</translation>
     </message>
 </context>
 <context>
@@ -6236,7 +6236,7 @@ Reason: %2</source>
     <message>
         <location line="+73"/>
         <source>&apos;%1&apos; could not be converted to a flag value of type &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; kunde inte konverteras till ett flaggvärde av typen &apos;%2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -6245,7 +6245,7 @@ Reason: %2</source>
         <location filename="../../qttools/src/designer/src/lib/shared/qdesigner_widgetbox.cpp" line="+175"/>
         <location line="+13"/>
         <source>Unexpected element &lt;%1&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntat element &lt;%1&gt;</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -6303,7 +6303,7 @@ Reason: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/richtexteditor.cpp" line="+246"/>
         <source>Insert HTML entity</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga HTML-entitet</translation>
     </message>
 </context>
 <context>
@@ -6793,7 +6793,7 @@ This indicates an inconsistency in the ui-file.</source>
     <message>
         <location filename="../../qttools/src/designer/src/plugins/tools/view3d/view3d_plugin.cpp" line="+30"/>
         <source>3D View</source>
-        <translation type="unfinished"></translation>
+        <translation>3D-vy</translation>
     </message>
 </context>
 <context>
@@ -6801,7 +6801,7 @@ This indicates an inconsistency in the ui-file.</source>
     <message>
         <location filename="../../qttools/src/designer/src/plugins/tools/view3d/view3d_tool.cpp" line="+13"/>
         <source>3DView</source>
-        <translation type="unfinished"></translation>
+        <translation>3d-vy</translation>
     </message>
 </context>
 <context>
@@ -6867,32 +6867,32 @@ This indicates an inconsistency in the ui-file.</source>
     <message>
         <location filename="../../qttools/src/shared/findwidget/abstractfindwidget.cpp" line="+95"/>
         <source>&amp;Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Föregående</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nästa</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;kiftlägeskänslig</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Whole &amp;words</source>
-        <translation type="unfinished"></translation>
+        <translation>Hela &amp;ord</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>&lt;img src=&quot;:/qt-project.org/shared/images/wrap.png&quot;&gt;&amp;nbsp;Search wrapped</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;img src=&quot;:/qt-project.org/shared/images/wrap.png&quot;&gt;&amp;nbsp;Sökningen började om</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>&amp;Find in Text...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sö&amp;k i text...</translation>
     </message>
 </context>
 <context>
@@ -6928,17 +6928,17 @@ This indicates an inconsistency in the ui-file.</source>
     <message>
         <location filename="../../qttools/src/shared/qtgradienteditor/qtgradientstopscontroller.cpp" line="+202"/>
         <source>H</source>
-        <translation type="unfinished"></translation>
+        <translation>H</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation>S</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>V</source>
-        <translation type="unfinished"></translation>
+        <translation>V</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -6959,42 +6959,42 @@ This indicates an inconsistency in the ui-file.</source>
     <message>
         <location line="+3"/>
         <source>Saturation</source>
-        <translation type="unfinished"></translation>
+        <translation>Mättnad</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Värde</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation>R</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>G</source>
-        <translation type="unfinished"></translation>
+        <translation>G</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation>B</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Röd</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Grön</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Blå</translation>
     </message>
 </context>
 <context>
@@ -7048,7 +7048,7 @@ This indicates an inconsistency in the ui-file.</source>
     <message>
         <location line="+601"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
