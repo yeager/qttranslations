@@ -284,12 +284,12 @@ Please register at https://developer.here.com/ to get your personal application 
         <location line="+15"/>
         <source> and take the %1 exit</source>
         <extracomment>Always appended to one of the following strings: - &quot;Enter the roundabout&quot; - &quot;Enter the rotary&quot; - &quot;Enter the rotary &lt;rotaryname&gt;&quot;</extracomment>
-        <translation>och ta %1 avfarten</translation>
+        <translation> och ta %1 avfarten</translation>
     </message>
     <message>
         <location line="+1"/>
         <source> and take the %1 exit onto %2</source>
-        <translation type="unfinished"></translation>
+        <translation> och ta %1 avfarten in på %2</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -371,7 +371,7 @@ Please register at https://developer.here.com/ to get your personal application 
         <location line="+104"/>
         <location line="+196"/>
         <source>Make a U-turn</source>
-        <translation type="unfinished"></translation>
+        <translation>Gör en u-sväng</translation>
     </message>
     <message>
         <location line="-411"/>
@@ -379,7 +379,7 @@ Please register at https://developer.here.com/ to get your personal application 
         <location line="+104"/>
         <location line="+196"/>
         <source>Make a U-turn onto %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gör en u-sväng in på %1</translation>
     </message>
     <message>
         <location line="-410"/>
@@ -468,7 +468,7 @@ Please register at https://developer.here.com/ to get your personal application 
     <message>
         <location line="+6"/>
         <source>Take the ferry</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta färjan</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -860,43 +860,43 @@ Please register at https://developer.here.com/ to get your personal application 
     <message>
         <location line="+9"/>
         <source>Turn</source>
-        <translation type="unfinished"></translation>
+        <translation>Sväng</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Turn onto %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sväng in på %1</translation>
     </message>
     <message>
         <location line="+29"/>
         <source> and continue straight</source>
         <extracomment>This string will be prepended with lane instructions. E.g., &quot;Use the left or the right lane and continue straight&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> och fortsätt rakt fram</translation>
     </message>
     <message>
         <location line="+2"/>
         <source> and continue straight onto %1</source>
-        <translation type="unfinished"></translation>
+        <translation> och fortsätt rakt fram in på %1</translation>
     </message>
     <message>
         <location line="+3"/>
         <source> and make a sharp left</source>
-        <translation type="unfinished"></translation>
+        <translation> och gör en skarp vänstersväng</translation>
     </message>
     <message>
         <location line="+2"/>
         <source> and make a sharp left onto %1</source>
-        <translation type="unfinished"></translation>
+        <translation> och gör en skarp vänstersväng in på %1</translation>
     </message>
     <message>
         <location line="+3"/>
         <source> and turn left</source>
-        <translation type="unfinished"></translation>
+        <translation> och sväng vänster</translation>
     </message>
     <message>
         <location line="+2"/>
         <source> and turn left onto %1</source>
-        <translation type="unfinished"></translation>
+        <translation> och sväng vänster in på %1</translation>
     </message>
     <message>
         <location line="+4"/>
