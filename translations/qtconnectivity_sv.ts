@@ -15,17 +15,17 @@
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothdevicediscoveryagent_bluez.cpp" line="-11"/>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothdevicediscoveryagent_winrt.cpp" line="+748"/>
         <source>Cannot find valid Bluetooth adapter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte hitta giltig Bluetooth-adapter.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Input Output Error</source>
-        <translation type="unfinished"></translation>
+        <translation>In-/ut-fel</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Bluetooth LE is not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth LE stöds inte</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -40,79 +40,79 @@
     <message>
         <location line="+1"/>
         <source>Cannot start device inquiry</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte starta enhetsförfrågan</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot start low energy device inquiry</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte starta lågenergienhetsförfrågan</translation>
     </message>
     <message>
         <location line="+1"/>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothdevicediscoveryagent_android.cpp" line="+223"/>
         <source>Discovery cannot be stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>Discovery kan inte stoppas</translation>
     </message>
     <message>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothdevicediscoveryagent.cpp" line="+194"/>
         <source>Invalid Bluetooth adapter address</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig adress för Bluetooth-adapter</translation>
     </message>
     <message>
         <location line="+127"/>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothdevicediscoveryagent_bluez.cpp" line="+35"/>
         <source>One or more device discovery methods are not supported on this platform</source>
-        <translation type="unfinished"></translation>
+        <translation>En eller flera discovery-enhetsmetoder stöds inte på denna plattform</translation>
     </message>
     <message>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothdevicediscoveryagent_android.cpp" line="-236"/>
         <source>Classic Discovery cannot be started</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassisk Discovery kan inte startas</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Device does not support Bluetooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Enheten har inte stöd för Bluetooth</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Passed address is not a local device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skickad adress är inte en lokal enhet.</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Failed to start device discovery due to missing permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att starta enhetsupptäckt på grund av saknad behörighet.</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Location permission not granted. Search is not possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Platsrättigheter har inte tilldelats. Sökning är inte möjlig.</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Location service turned off. Search is not possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Platstjänsten avstängd. Sökning är inte möjlig.</translation>
     </message>
     <message>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothdevicediscoveryagent_bluez.cpp" line="+246"/>
         <source>Bluetooth adapter error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel i Bluetooth-adapter</translation>
     </message>
     <message>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothdevicediscoveryagent_p.cpp" line="+43"/>
         <source>Device discovery not supported on this platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhetsupptäckt stöds inte på denna plattform</translation>
     </message>
     <message>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothdevicediscoveryagent_winrt.cpp" line="+6"/>
         <source>Bluetooth adapter powered off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth-adaptern är nerstängd.</translation>
     </message>
     <message>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothservicediscoveryagent_bluez.cpp" line="+54"/>
         <source>Cannot access adapter during service discovery</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte komma åt adaptern under tjänsteupptäckt</translation>
     </message>
 </context>
 <context>
@@ -121,131 +121,131 @@
         <location filename="../../qtconnectivity/src/bluetooth/darwin/uistrings.cpp" line="+3"/>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothservicediscoveryagent_bluez.cpp" line="+27"/>
         <source>Local device is powered off</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokal enhet är nerstängd</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Minimal service discovery failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimal tjänsteupptäckt misslyckades</translation>
     </message>
     <message>
         <location line="+1"/>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothservicediscoveryagent.cpp" line="+160"/>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothservicediscoveryagent_android.cpp" line="+104"/>
         <source>Invalid Bluetooth adapter address</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig adress för Bluetooth-adapter</translation>
     </message>
     <message>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothservicediscoveryagent_android.cpp" line="-15"/>
         <source>Failed to start service discovery due to missing permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att starta tjänsteupptäckt på grund av saknad behörighet.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Platform does not support Bluetooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Plattformen har inte stöd för Bluetooth</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Cannot create Android BluetoothDevice</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa Android BluetoothDevice</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Cannot obtain service uuids</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte få tag på tjänste-uuid:er</translation>
     </message>
     <message>
         <location line="+221"/>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothuuid.cpp" line="+647"/>
         <source>Serial Port Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Serieportsprofil</translation>
     </message>
     <message>
         <location line="+92"/>
         <source>Device is powered off</source>
-        <translation type="unfinished">Enheten är avstängd</translation>
+        <translation>Enheten är avstängd</translation>
     </message>
     <message>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothservicediscoveryagent_bluez.cpp" line="-15"/>
         <source>Cannot find local Bluetooth adapter</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte hitta lokal Bluetooth-adapter</translation>
     </message>
     <message>
         <location line="+43"/>
         <source>Unable to find sdpscanner</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hitta sdpscanner</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>Unable to perform SDP scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte genomföra SDP-sökning</translation>
     </message>
     <message>
         <location line="+80"/>
         <location line="+139"/>
         <source>Custom Service</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassad tjänst</translation>
     </message>
     <message>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothuuid.cpp" line="-3"/>
         <source>Service Discovery</source>
-        <translation type="unfinished"></translation>
+        <translation>Tjänsteupptäckt</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Browse Group Descriptor</source>
-        <translation type="unfinished"></translation>
+        <translation>Bläddra grupp-beskrivare</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Public Browse Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Publik bläddringsgrupp</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>LAN Access Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>LAN-åtkomstprofil</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Dial-Up Networking</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppringt nätverk</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Synchronization</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronisering</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Object Push</source>
-        <translation type="unfinished"></translation>
+        <translation>Object Push</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>File Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>Filöverföring</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Synchronization Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkroniseringskommando</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Headset</source>
-        <translation type="unfinished"></translation>
+        <translation>Hörlurar</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Audio Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljudkälla</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Audio Sink</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljud-sink</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -255,7 +255,7 @@
     <message>
         <location line="+1"/>
         <source>Advanced Audio Distribution</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancerad ljuddistribution</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -446,7 +446,7 @@
     <message>
         <location line="+1"/>
         <source>Device Identification</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhetsidentifikation</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -456,22 +456,22 @@
     <message>
         <location line="+1"/>
         <source>Generic File Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmän filöverföring</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Generic Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmänt ljud</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Generic Telephony</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmän telefoni</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Video Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Videokälla</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -481,7 +481,7 @@
     <message>
         <location line="+1"/>
         <source>Video Distribution</source>
-        <translation type="unfinished"></translation>
+        <translation>Videodistribution</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -501,7 +501,7 @@
     <message>
         <location line="+1"/>
         <source>Generic Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmän åtkomst</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -526,7 +526,7 @@
     <message>
         <location line="+1"/>
         <source>Current Time Service</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell tidstjänst</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -551,12 +551,12 @@
     <message>
         <location line="+1"/>
         <source>Device Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhetsinformation</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Heart Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Hjärtfrekvens</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -571,7 +571,7 @@
     <message>
         <location line="+1"/>
         <source>Blood Pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Blodtryck</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -616,7 +616,7 @@
     <message>
         <location line="+1"/>
         <source>User Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Användardata</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -812,7 +812,7 @@
     <message>
         <location line="+1"/>
         <source>Day Of Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Veckodag</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -832,7 +832,7 @@
     <message>
         <location line="+1"/>
         <source>Time Zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidszon</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -852,7 +852,7 @@
     <message>
         <location line="+1"/>
         <source>Time Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidskälla</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -877,7 +877,7 @@
     <message>
         <location line="+1"/>
         <source>Battery Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Batterinivå</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -947,7 +947,7 @@
     <message>
         <location line="+1"/>
         <source>Current Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell tid</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1069,7 +1069,7 @@
     <message>
         <location line="+1"/>
         <source>Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapport</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1196,7 +1196,7 @@
     <message>
         <location line="+1"/>
         <source>Temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>Temperatur</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1291,7 +1291,7 @@
         <location line="+2"/>
         <source>Age</source>
         <extracomment>Age of person</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ålder</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1311,7 +1311,7 @@
     <message>
         <location line="+1"/>
         <source>Date Of Birth</source>
-        <translation type="unfinished"></translation>
+        <translation>Födelsedag</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1321,7 +1321,7 @@
     <message>
         <location line="+1"/>
         <source>Email Address</source>
-        <translation type="unfinished"></translation>
+        <translation>E-postadress</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1336,7 +1336,7 @@
     <message>
         <location line="+1"/>
         <source>First Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Förnamn</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1346,7 +1346,7 @@
     <message>
         <location line="+1"/>
         <source>Gender</source>
-        <translation type="unfinished"></translation>
+        <translation>Kön</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1357,7 +1357,7 @@
         <location line="+2"/>
         <source>Height</source>
         <extracomment>Height of a person</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Längd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1367,7 +1367,7 @@
     <message>
         <location line="+1"/>
         <source>Last Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Efternamn</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1407,7 +1407,7 @@
     <message>
         <location line="+1"/>
         <source>Weight</source>
-        <translation type="unfinished"></translation>
+        <translation>Vikt</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1458,7 +1458,7 @@
     <message>
         <location line="+1"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Språk</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1528,7 +1528,7 @@
     <message>
         <location filename="../../qtconnectivity/src/bluetooth/qlowenergyservice.cpp" line="+544"/>
         <source>Unknown Service</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänd tjänst</translation>
     </message>
 </context>
 <context>
@@ -1566,7 +1566,7 @@
         <location line="+1"/>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothsocket.cpp" line="+649"/>
         <source>Service cannot be found</source>
-        <translation type="unfinished"></translation>
+        <translation>Tjänsten kan inte hittas</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1589,7 +1589,7 @@
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothsocket_android.cpp" line="-438"/>
         <source>Cannot connect to %1</source>
         <comment>%1 = uuid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ansluta till %1</translation>
     </message>
     <message>
         <location line="+43"/>
@@ -1599,24 +1599,24 @@
     <message>
         <location line="+11"/>
         <source>Device does not support Bluetooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Enheten har inte stöd för Bluetooth</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Device is powered off</source>
-        <translation type="unfinished">Enheten är avstängd</translation>
+        <translation>Enheten är avstängd</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Cannot access address %1</source>
         <comment>%1 = Bt address e.g. 11:22:33:44:55:66</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte komma åt adressen %1</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Cannot connect to %1 on %2</source>
         <comment>%1 = uuid, %2 = Bt address</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ansluta till %1 på %2</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -1676,7 +1676,7 @@
         <location line="+29"/>
         <location line="+30"/>
         <source>Unknown socket error</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt uttagsfel</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -1687,7 +1687,7 @@
         <location line="+197"/>
         <location line="+229"/>
         <source>Network Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nätverksfel: %1</translation>
     </message>
     <message>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothsocket_bluezdbus.cpp" line="-152"/>
@@ -1697,7 +1697,7 @@
     <message>
         <location line="+27"/>
         <source>Cannot register profile on DBus</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte registrera profilen på DBus</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1723,7 +1723,7 @@
     <message>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothsocket_winrt.cpp" line="-65"/>
         <source>Network error</source>
-        <translation type="unfinished"></translation>
+        <translation>Nätverksfel</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1738,7 +1738,7 @@
     <message>
         <location line="+6"/>
         <source>Host not reachable</source>
-        <translation type="unfinished"></translation>
+        <translation>Värden är inte nåbar</translation>
     </message>
     <message>
         <location line="+6"/>
