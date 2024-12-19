@@ -1874,7 +1874,7 @@ Tryck ESC för att avbryta</translation>
     <message>
         <location line="+6"/>
         <source>Invalid address</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig adress</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -1935,7 +1935,7 @@ Tryck ESC för att avbryta</translation>
     <message>
         <location line="+28"/>
         <source>No handshake in progress, nothing to abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen handskakning pågår, ingenting att avbryta</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1971,7 +1971,7 @@ Tryck ESC för att avbryta</translation>
     <message>
         <location line="+275"/>
         <source>BIO_ADD_new failed, cannot start handshake</source>
-        <translation type="unfinished"></translation>
+        <translation>BIO_ADD_new misslyckades, kan inte starta handskakning</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1986,22 +1986,22 @@ Tryck ESC för att avbryta</translation>
     <message>
         <location line="+131"/>
         <source>The DTLS connection has been closed</source>
-        <translation type="unfinished"></translation>
+        <translation>DTLS-anslutningen har stängts</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Error while writing: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skrivning: %1</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>The DTLS connection has been shutdown</source>
-        <translation type="unfinished"></translation>
+        <translation>DTLS-anslutningen har stängts ner</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Error while reading: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid läsning: %1</translation>
     </message>
     <message>
         <location filename="../../qtbase/src/plugins/tls/shared/qdtls_base.cpp" line="+45"/>
@@ -2070,7 +2070,7 @@ Tryck ESC för att avbryta</translation>
     <message>
         <location filename="../../qtbase/src/corelib/plugin/qfactoryloader.cpp" line="+205"/>
         <source>Metadata parsing error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolkningsfel av metadata: %1</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2080,7 +2080,7 @@ Tryck ESC för att avbryta</translation>
     <message>
         <location line="+3"/>
         <source>Unexpected metadata contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntat metadatainnehåll</translation>
     </message>
 </context>
 <context>
@@ -3202,47 +3202,47 @@ Vill du ta bort den ändå?</translation>
     <message>
         <location filename="../../qtbase/src/network/socket/qhttpsocketengine.cpp" line="-127"/>
         <source>Did not receive HTTP response from proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Tog inte emot något HTTP-svar från proxyn</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Error parsing authentication request from proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid tolkning av autentiseringsbegäran från proxy</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Authentication required</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentisering krävs</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Proxy denied connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxyn nekade anslutningen</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Error communicating with HTTP proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid kommunicering med HTTP-proxy</translation>
     </message>
     <message>
         <location line="+55"/>
         <source>Proxy server not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxyservern hittades inte</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Proxy connection refused</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxyanslutningen vägrades</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Proxy server connection timed out</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslutningen till proxyservern gick över tidsgränsen</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Proxy connection closed prematurely</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxyanslutningen stängdes i förtid</translation>
     </message>
 </context>
 <context>
@@ -3520,7 +3520,7 @@ Vill du ta bort den ändå?</translation>
     <message>
         <location line="+1"/>
         <source>missing name separator</source>
-        <translation type="unfinished"></translation>
+        <translation>saknar namnavgränsare</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3530,12 +3530,12 @@ Vill du ta bort den ändå?</translation>
     <message>
         <location line="+1"/>
         <source>missing value separator</source>
-        <translation type="unfinished"></translation>
+        <translation>saknar värdesavgränsare</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>illegal value</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltigt värde</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3555,7 +3555,7 @@ Vill du ta bort den ändå?</translation>
     <message>
         <location line="+1"/>
         <source>invalid UTF8 string</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltig UTF8-sträng</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3565,7 +3565,7 @@ Vill du ta bort den ändå?</translation>
     <message>
         <location line="+1"/>
         <source>object is missing after a comma</source>
-        <translation type="unfinished"></translation>
+        <translation>objekt saknas efter ett komma</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3575,12 +3575,12 @@ Vill du ta bort den ändå?</translation>
     <message>
         <location line="+1"/>
         <source>too large document</source>
-        <translation type="unfinished"></translation>
+        <translation>för stort dokument</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>garbage at the end of the document</source>
-        <translation type="unfinished"></translation>
+        <translation>skräp på slutet av dokumentet</translation>
     </message>
 </context>
 <context>
@@ -3833,7 +3833,7 @@ Vill du ta bort den ändå?</translation>
         <location filename="../../qtbase/src/corelib/plugin/qlibrary_unix.cpp" line="+239"/>
         <location filename="../../qtbase/src/corelib/plugin/qlibrary_win.cpp" line="+74"/>
         <source>Cannot load library %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte läsa in biblioteket %1: %2</translation>
     </message>
     <message>
         <location line="+26"/>
@@ -4008,7 +4008,7 @@ Vill du ta bort den ändå?</translation>
         <location line="+58"/>
         <location filename="../../qtbase/src/network/socket/qlocalsocket_win.cpp" line="+53"/>
         <source>Trying to connect while connection is in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Försöker ansluta när en anslutning pågår</translation>
     </message>
     <message>
         <location filename="../../qtbase/src/network/socket/qlocalsocket_unix.cpp" line="+4"/>
@@ -4779,7 +4779,7 @@ Vill du ta bort den ändå?</translation>
     <message>
         <location line="+7"/>
         <source>Unable to connect - Driver doesn&apos;t support all functionality required</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte ansluta - Drivrutinen har inte stöd för all funktionalitet som krävs</translation>
     </message>
     <message>
         <location line="+290"/>
@@ -5835,42 +5835,42 @@ Vill du ta bort den ändå?</translation>
     <message>
         <location filename="../../qtbase/src/printsupport/dialogs/qpagesetupdialog_unix.cpp" line="-155"/>
         <source>Left to Right, Top to Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänster till höger, topp till botten</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Left to Right, Bottom to Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänster till höger, botten till toppen</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Right to Left, Bottom to Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Höger till vänster, botten till toppen</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Right to Left, Top to Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Höger till vänster, toppen till botten</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Bottom to Top, Left to Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Botten till toppen, vänster till höger</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Bottom to Top, Right to Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Botten till toppen, höger till vänster</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Top to Bottom, Left to Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Topp till botten, vänster till höger</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Top to Bottom, Right to Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Topp till botten, höger till vänster</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -5921,22 +5921,22 @@ Vill du ta bort den ändå?</translation>
         <location line="+11"/>
         <location line="+224"/>
         <source>&amp;Options &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;lternativ &gt;&gt;</translation>
     </message>
     <message>
         <location line="-219"/>
         <source>&amp;Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv &amp;ut</translation>
     </message>
     <message>
         <location line="+223"/>
         <source>&amp;Options &lt;&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;lternativ &lt;&lt;</translation>
     </message>
     <message>
         <location line="+146"/>
         <source>Invalid Pages Definition</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig siddefinition</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5977,7 +5977,8 @@ Vill du ta bort den ändå?</translation>
         <location line="+22"/>
         <source>%1 is a directory.
 Please choose a different file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är en katalog.
+Välj ett annat filnamn.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -6352,7 +6353,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+2"/>
         <source>Specify pages or ranges separated by commas. Ranges are specified by two numbers separated by a hyphen. E.g: 3,5-7,9 prints pages 3, 5, 6, 7 and 9.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange sidor eller intervall separerade med kommatecken. Intervall anges med två siffror separerade med ett skiljetecken. T.ex 3,5-7,9 skriver ut sidorna 3, 5, 6, 7 och 9.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -6367,12 +6368,12 @@ Please turn one of those options off.</source>
     <message>
         <location line="+1"/>
         <source>Page Set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Siduppsättning:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Output Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Utskriftsinställningar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -6422,12 +6423,12 @@ Please turn one of those options off.</source>
     <message>
         <location line="+1"/>
         <source>Long side binding</source>
-        <translation type="unfinished"></translation>
+        <translation>Långsidesbindning</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Short side binding</source>
-        <translation type="unfinished"></translation>
+        <translation>Kortsidesbindning</translation>
     </message>
 </context>
 <context>
@@ -7438,7 +7439,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+1"/>
         <source>invalid syntax</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltig syntax</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -7990,7 +7991,7 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>Toggle Media Play/Pause</source>
         <extracomment>Media player button to toggle between playing and paused</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Växla media spela upp/paus</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -8130,17 +8131,17 @@ Please turn one of those options off.</source>
     <message>
         <location line="+1"/>
         <source>Keyboard Light On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Tangentbord ljus på/av</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Keyboard Brightness Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Tangentbord ljusstyrka upp</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Keyboard Brightness Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Tangentbord ljusstyrka ner</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -8345,7 +8346,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+1"/>
         <source>Keyboard Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Tangentbordsmeny</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -8395,7 +8396,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+1"/>
         <source>Rotate Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotera fönster</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -8590,7 +8591,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+2"/>
         <source>Microphone Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>Mikrofon tyst</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -8640,12 +8641,12 @@ Please turn one of those options off.</source>
     <message>
         <location line="+2"/>
         <source>Microphone Volume Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Mikrofon volym upp</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Microphone Volume Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Mikrofon volym ner</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -8778,7 +8779,7 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>Toggle Call/Hangup</source>
         <extracomment>Button that will hang up if we&apos;re in call, or make a call if we&apos;re not.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Växla ring upp/lägg på</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -8795,7 +8796,7 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>Last Number Redial</source>
         <extracomment>Button to redial the last number called</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ring upp senaste nummer</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9162,19 +9163,19 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>title bar</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>titelrad</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>menu bar</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>menyrad</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>scroll bar</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>rullningslist</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9192,7 +9193,7 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>cursor</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>markör</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9228,25 +9229,25 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>menu item</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>menyrad</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>tool tip</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>verktygstips</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>application</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>program</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>document</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>dokument</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9254,7 +9255,7 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>panel</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>panel</translation>
     </message>
     <message>
         <location line="-6"/>
@@ -9266,43 +9267,43 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>dialog</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>dialogruta</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>separator</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>avgränsare</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>tool bar</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>verktygsrad</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>status bar</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>statusrad</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>table</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>tabell</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>column header</source>
         <extracomment>Role of an accessible object - part of a table</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>kolumnhuvud</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>row header</source>
         <extracomment>Role of an accessible object - part of a table</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>radhuvud</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9314,19 +9315,19 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>row</source>
         <extracomment>Role of an accessible object - part of a table</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>rad</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>cell</source>
         <extracomment>Role of an accessible object - part of a table</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>cell</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>link</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>länk</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9344,7 +9345,7 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>list</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>lista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9356,7 +9357,7 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>tree</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>träd</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9368,13 +9369,13 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>page tab</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>sidflik</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>property page</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>egenskapssida</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9386,49 +9387,49 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>graphic</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>grafik</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>label</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>etikett</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>text</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>text</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>push button</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>tryckknapp</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>check box</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>kryssruta</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>radio button</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>radioknapp</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>combo box</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>kombinationsruta</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>progress bar</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>förloppsmätare</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9446,7 +9447,7 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>slider</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>draglist</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9464,13 +9465,13 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>animation</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>animering</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>equation</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9483,7 +9484,7 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>button menu</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>knappmeny</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -9525,7 +9526,7 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>web document</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>webbdokument</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9537,13 +9538,13 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>section</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>sektion</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>color chooser</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>färgväljare</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9555,13 +9556,13 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>form</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>formulär</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>heading</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>rubrik</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9579,19 +9580,19 @@ Please turn one of those options off.</source>
         <location line="+2"/>
         <source>terminal</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>terminal</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>desktop</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>skrivbord</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>notification</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>avisering</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9677,37 +9678,37 @@ Please turn one of those options off.</source>
     <message>
         <location filename="../../qtbase/src/network/ssl/qsslerror.cpp" line="+205"/>
         <source>No error</source>
-        <translation type="unfinished">Inget fel</translation>
+        <translation>Inget fel</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The issuer certificate could not be found</source>
-        <translation type="unfinished"></translation>
+        <translation>Utfärdarcertifikatet kunde inte hittas</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The certificate signature could not be decrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Certifikatsignaturen kunde inte dekrypteras</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The public key in the certificate could not be read</source>
-        <translation type="unfinished"></translation>
+        <translation>Publika nyckeln i certifikatet kunde inte läsas</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The signature of the certificate is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Signaturen för certifikatet är ogiltig</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The certificate is not yet valid</source>
-        <translation type="unfinished"></translation>
+        <translation>Certifikatet är ännu inte giltigt</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The certificate has expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Certifikatet har gått ut</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -9727,22 +9728,22 @@ Please turn one of those options off.</source>
     <message>
         <location line="+3"/>
         <source>The root certificate of the certificate chain is self-signed, and untrusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotcertifikatet för certifikatskedjan är självsignerat och inte pålitligt</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The issuer certificate of a locally looked up certificate could not be found</source>
-        <translation type="unfinished"></translation>
+        <translation>Utfärdarcertifikatet för ett lokalt uppslaget certifikat kunde inte hittas</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>No certificates could be verified</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga certifikat kunde verifieras</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>One of the CA certificates is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett av CA-certifikaten var ogiltigt</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -9757,7 +9758,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+3"/>
         <source>The root CA certificate is not trusted for this purpose</source>
-        <translation type="unfinished"></translation>
+        <translation>Rot-CA-certifikatet är inte pålitligt för detta syfte</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -9767,7 +9768,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+3"/>
         <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuellt kandidatutfärdarcertifikat nekades därför att dess ämnesrad inte matchade utfärdarnamnet för det aktuella certifikatet</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -9782,7 +9783,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+3"/>
         <source>The host name did not match any of the valid hosts for this certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdnamnet matchade inte någon av de giltiga värdar för detta certifikat</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -9817,7 +9818,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+3"/>
         <source>The server requires the client to sign the OCSP request in order to construct a response</source>
-        <translation type="unfinished"></translation>
+        <translation>Servern kräver att klienten signerar OCSP-begäran för att kunna konstruera ett svar</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -9832,22 +9833,22 @@ Please turn one of those options off.</source>
     <message>
         <location line="+3"/>
         <source>The identity of a certificate in an OCSP response cannot be established</source>
-        <translation type="unfinished"></translation>
+        <translation>Identiteten för ett certifikat i ett OCSP-svar kan inte etableras</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The certificate status response has expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Certifikatets statussvar har gått över tidsgränsen</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The certificate&apos;s status is unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Certifikatets status är okänt</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unknown error</source>
-        <translation type="unfinished">Okänt fel</translation>
+        <translation>Okänt fel</translation>
     </message>
     <message>
         <location filename="../../qtbase/src/network/ssl/qsslsocket.cpp" line="+495"/>
@@ -9860,7 +9861,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+325"/>
         <source>Attempted to use an unsupported protocol.</source>
-        <translation type="unfinished"></translation>
+        <translation>Försökte använda ett protokoll som inte stöds.</translation>
     </message>
     <message>
         <location filename="../../qtbase/src/plugins/tls/openssl/qsslcontext_openssl.cpp" line="+58"/>
@@ -9882,40 +9883,40 @@ Please turn one of those options off.</source>
     <message>
         <location line="+1"/>
         <source>unsupported protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>protokollet stöds inte</translation>
     </message>
     <message>
         <location line="+99"/>
         <source>Error while setting the minimal protocol version</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid inställning av minimum protokollversion</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Error while setting the maximum protocol version</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid inställning av minimal protokollversion</translation>
     </message>
     <message>
         <location line="+38"/>
         <location line="+10"/>
         <location line="+7"/>
         <source>Invalid or empty cipher list (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig eller tom chifferlista (%1)</translation>
     </message>
     <message>
         <location line="+51"/>
         <location filename="../../qtbase/src/plugins/tls/schannel/qtls_schannel.cpp" line="+873"/>
         <source>Cannot provide a certificate with no key</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tillhandahålla ett certifikat utan en nyckel</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Error loading local certificate, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid inläsning av lokalt certifikat, %1</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Error loading private key, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid inläsning av privat nyckel, %1</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -9925,7 +9926,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+67"/>
         <source>Diffie-Hellman parameters are not valid</source>
-        <translation type="unfinished"></translation>
+        <translation>Diffie-Hellman-parametrar är inte giltiga</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -9935,7 +9936,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+50"/>
         <source>Expecting QByteArray for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade QByteArray för %1</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -9945,22 +9946,22 @@ Please turn one of those options off.</source>
     <message>
         <location line="+5"/>
         <source>Wrong value for %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel värde för %1 (%2)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unrecognized command %1 = %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommandot känns inte igen %1 = %2</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>SSL_CONF_finish() failed</source>
-        <translation type="unfinished"></translation>
+        <translation>SSL_CONF_finish() misslyckades</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>SSL_CONF_CTX_new() failed</source>
-        <translation type="unfinished"></translation>
+        <translation>SSL_CONF_CTX_new() misslyckades</translation>
     </message>
     <message>
         <location filename="../../qtbase/src/plugins/tls/openssl/qtls_openssl.cpp" line="+517"/>
@@ -9971,12 +9972,12 @@ Please turn one of those options off.</source>
     <message>
         <location line="+374"/>
         <source>Unable to write data: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skriva data: %1</translation>
     </message>
     <message>
         <location line="+74"/>
         <source>Unable to decrypt data: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte dekryptera data: %1</translation>
     </message>
     <message>
         <location line="+65"/>
@@ -9996,17 +9997,17 @@ Please turn one of those options off.</source>
         <location line="+11"/>
         <location line="+13"/>
         <source>Error while reading: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid läsning: %1</translation>
     </message>
     <message>
         <location line="+279"/>
         <source>Error creating SSL session, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skapandet av SSL-session, %1</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Error creating SSL session: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skapande av SSL-session: %1</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -10051,12 +10052,12 @@ Please turn one of those options off.</source>
     <message>
         <location filename="../../qtbase/src/plugins/tls/openssl/qtlsbackend_openssl.cpp" line="+590"/>
         <source>Error during SSL handshake: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel under SSL-handskakning: %1</translation>
     </message>
     <message>
         <location filename="../../qtbase/src/plugins/tls/schannel/qtls_schannel.cpp" line="-864"/>
         <source>Insufficient memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Otillräckligt med minne</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -10091,7 +10092,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+2"/>
         <source>The target is unknown or unreachable</source>
-        <translation type="unfinished"></translation>
+        <translation>Målet är okänt eller inte möjligt att nå</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -10106,22 +10107,22 @@ Please turn one of those options off.</source>
     <message>
         <location line="+2"/>
         <source>No common protocol exists between the client and the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget gemensamt protokoll finns mellan klient och servern</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Unexpected or badly-formatted message received</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntat eller felaktigt formaterat meddelande togs emot</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The data could not be encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta data kunde inte krypteras</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>No cipher suites in common</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga chiffersviter gemensamt</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -10131,7 +10132,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+4"/>
         <source>The message was tampered with, damaged or out of sequence.</source>
-        <translation type="unfinished"></translation>
+        <translation>Meddelandet har mixtrats med, skadats eller utanför sekvensen.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -10141,12 +10142,12 @@ Please turn one of those options off.</source>
     <message>
         <location line="+4"/>
         <source>Unknown error occurred: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt fel inträffade: %1</translation>
     </message>
     <message>
         <location line="+408"/>
         <source>Invalid protocol chosen</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt protkoll valt</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -10161,7 +10162,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+368"/>
         <source>Server did not accept any certificate we could present.</source>
-        <translation type="unfinished"></translation>
+        <translation>Servern accepterade inte något certifikat vi kunde presentera.</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -10171,7 +10172,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+9"/>
         <source>Handshake failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Handskakningsfel: %1</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -10186,7 +10187,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+34"/>
         <source>Unwanted protocol was negotiated</source>
-        <translation type="unfinished"></translation>
+        <translation>Oönskat protokoll förhandlades</translation>
     </message>
     <message>
         <location line="+119"/>
@@ -10455,7 +10456,7 @@ Please turn one of those options off.</source>
     <message>
         <location filename="../../qtimageformats/src/plugins/imageformats/tga/qtgafile.cpp" line="+103"/>
         <source>Could not read image data</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte läsa bilddata</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -10475,7 +10476,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+6"/>
         <source>Image type not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildtypen stöds inte</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -10485,7 +10486,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+5"/>
         <source>Image size exceeds limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildstorleken överstiger gränsen</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -10495,7 +10496,7 @@ Please turn one of those options off.</source>
     <message>
         <location line="+5"/>
         <source>Could not read footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte läsa sidfot</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -10670,22 +10671,22 @@ Please turn one of those options off.</source>
     <message>
         <location line="+1"/>
         <source>LRI Left-to-right isolate</source>
-        <translation type="unfinished"></translation>
+        <translation>U+2066</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>RLI Right-to-left isolate</source>
-        <translation type="unfinished"></translation>
+        <translation>U+2067</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>FSI First strong isolate</source>
-        <translation type="unfinished"></translation>
+        <translation>U+2068</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>PDI Pop directional isolate</source>
-        <translation type="unfinished"></translation>
+        <translation>U+2069</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -11062,12 +11063,12 @@ The minimum Direct2D version required is %1. The Direct2D version on this system
     <message>
         <location line="+254"/>
         <source>Invalid entity value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt entitetsvärde.</translation>
     </message>
     <message>
         <location line="+106"/>
         <source>Invalid XML character.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt XML-tecken.</translation>
     </message>
     <message>
         <location line="+262"/>
@@ -11096,7 +11097,7 @@ The minimum Direct2D version required is %1. The Direct2D version on this system
     <message>
         <location line="+34"/>
         <source>Attribute &apos;%1&apos; redefined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributet &apos;%1&apos; omdefinierat.</translation>
     </message>
     <message>
         <location line="+112"/>
@@ -11106,12 +11107,12 @@ The minimum Direct2D version required is %1. The Direct2D version on this system
     <message>
         <location line="+28"/>
         <source>Invalid XML version string.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig XML-versionssträng.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Unsupported XML version.</source>
-        <translation type="unfinished"></translation>
+        <translation>XML-versionen stöds inte.</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -11121,12 +11122,12 @@ The minimum Direct2D version required is %1. The Direct2D version on this system
     <message>
         <location line="+2"/>
         <source>%1 is an invalid encoding name.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är ett ogiltigt enkodningsnamn.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Encoding %1 is unsupported</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkodningen %1 stöds inte</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -11184,7 +11185,7 @@ The minimum Direct2D version required is %1. The Direct2D version on this system
     <message>
         <location line="+3"/>
         <source>Expected %1, but got &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade %1, men fick &apos;%2&apos;.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -11194,7 +11195,7 @@ The minimum Direct2D version required is %1. The Direct2D version on this system
     <message>
         <location line="+258"/>
         <source>Expected character data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade teckendata.</translation>
     </message>
     <message>
         <location line="+1810"/>
@@ -11249,7 +11250,7 @@ The minimum Direct2D version required is %1. The Direct2D version on this system
     <message>
         <location line="+117"/>
         <source>Invalid XML name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt XML-namn.</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -11276,7 +11277,7 @@ The minimum Direct2D version required is %1. The Direct2D version on this system
     <message>
         <location line="+36"/>
         <source>Invalid character reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig teckenreferens.</translation>
     </message>
 </context>
 <context>
