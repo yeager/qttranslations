@@ -44,7 +44,7 @@
     <message>
         <location line="+1"/>
         <source>&amp;Include Hints</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Inkludera tips</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -54,7 +54,7 @@
     <message>
         <location line="+1"/>
         <source>ID-based</source>
-        <translation type="unfinished"></translation>
+        <translation>ID-baserad</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -64,12 +64,12 @@
     <message>
         <location line="+1"/>
         <source>&amp;Author</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Upphovsperson</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Embedded Design</source>
-        <translation type="unfinished">Inbäddad design</translation>
+        <translation>Inbäddad design</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -84,7 +84,7 @@
     <message>
         <location line="+1"/>
         <source>&amp;Margin:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Marginal:</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -94,7 +94,7 @@
     <message>
         <location line="+1"/>
         <source>Ma&amp;rgin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma&amp;rginal:</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -104,12 +104,12 @@
     <message>
         <location line="+1"/>
         <source>Connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslutningar</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Connect slots by name</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslut platser efter namn</translation>
     </message>
 </context>
 <context>
@@ -122,18 +122,18 @@
     <message>
         <location line="+1"/>
         <source>Additional Template Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytterligare mallsökvägar</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+1"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../qttools/src/designer/src/components/formeditor/templateoptionspage.cpp" line="+102"/>
         <source>Pick a directory to save templates in</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en katalog att spara mallar i</translation>
     </message>
 </context>
 <context>
@@ -160,7 +160,7 @@
     <message>
         <location filename="../../qttools/src/designer/src/components/propertyeditor/newdynamicpropertydialog.cpp" line="+126"/>
         <source>Set Property Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in egenskapsnamn</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -315,7 +315,7 @@ Please select another name.</source>
         <location line="+1"/>
         <source>Buttons</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Knappar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -369,13 +369,13 @@ Please select another name.</source>
         <location line="+1"/>
         <source>Menu</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation type="unfinished">Meny</translation>
+        <translation>Meny</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Item Views</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Objektvyer</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -441,19 +441,19 @@ Please select another name.</source>
         <location line="+2"/>
         <source>Display Widgets</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Visningswidgetar</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>QLabel</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>QLabel</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>QLabel with frame</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>QLabel med ram</translation>
     </message>
     <message>
         <location filename="../../qttools/src/designer/src/components/propertyeditor/previewwidget.cpp" line="+24"/>
@@ -476,12 +476,12 @@ Please select another name.</source>
     <message>
         <location line="+1"/>
         <source>StringList</source>
-        <translation type="unfinished"></translation>
+        <translation>Stränglista</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>New String</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny sträng</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -491,12 +491,12 @@ Please select another name.</source>
     <message>
         <location line="+2"/>
         <source>Delete String</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort sträng</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ta bort</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -506,22 +506,22 @@ Please select another name.</source>
     <message>
         <location line="+2"/>
         <source>Move String Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta sträng upp</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Upp</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Move String Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta sträng ner</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Ner</translation>
     </message>
 </context>
 <context>
@@ -613,48 +613,48 @@ Please select another name.</source>
     <message>
         <location filename="../../qttools/src/designer/src/components/lib/DesignerComponentsPrivate_autogen/include/ui_tablewidgeteditor.h" line="+116"/>
         <source>Edit Table Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera tabellwidget</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>&amp;Items</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Redigera</translation>
     </message>
     <message>
         <location line="-3"/>
         <source>Table Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabellobjekt</translation>
     </message>
     <message>
         <location line="+2"/>
         <location filename="../../qttools/src/designer/src/components/taskmenu/tablewidgeteditor.cpp" line="+220"/>
         <source>Properties &amp;&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskaper &amp;&gt;&gt;</translation>
     </message>
     <message>
         <location filename="../../qttools/src/designer/src/components/taskmenu/tablewidgeteditor.cpp" line="-188"/>
         <source>New Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny kolumn</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>New Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny rad</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>&amp;Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kolumner</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rader</translation>
     </message>
     <message>
         <location line="+176"/>
         <source>Properties &amp;&lt;&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskaper &amp;&lt;&lt;</translation>
     </message>
 </context>
 <context>
@@ -667,28 +667,28 @@ Please select another name.</source>
     <message>
         <location line="+35"/>
         <source>&amp;Items</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Objekt</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>Tree Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Trädobjekt</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <location line="+5"/>
         <location filename="../../qttools/src/designer/src/components/taskmenu/treewidgeteditor.cpp" line="+200"/>
         <source>New Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt objekt</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;New</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ny</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -709,7 +709,7 @@ Please select another name.</source>
     <message>
         <location line="+2"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ta bort</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -729,7 +729,7 @@ Please select another name.</source>
     <message>
         <location line="+2"/>
         <source>R</source>
-        <translation type="unfinished">R</translation>
+        <translation>R</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -755,17 +755,17 @@ Please select another name.</source>
         <location line="+1"/>
         <location filename="../../qttools/src/designer/src/components/taskmenu/treewidgeteditor.cpp" line="+176"/>
         <source>Properties &amp;&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskaper &amp;&gt;&gt;</translation>
     </message>
     <message>
         <location filename="../../qttools/src/designer/src/components/taskmenu/treewidgeteditor.cpp" line="-363"/>
         <source>New Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny kolumn</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>&amp;Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kolumner</translation>
     </message>
     <message>
         <location line="+100"/>
@@ -780,7 +780,7 @@ Please select another name.</source>
     <message>
         <location line="+254"/>
         <source>Properties &amp;&lt;&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskaper &amp;&lt;&lt;</translation>
     </message>
 </context>
 <context>
@@ -801,7 +801,7 @@ Please select another name.</source>
     <message>
         <location line="+1"/>
         <source>User Interface Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Läge för användargränssnitt</translation>
     </message>
 </context>
 <context>
@@ -891,37 +891,37 @@ Do you want overwrite the template?</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/Designer_autogen/include/ui_formlayoutrowdialog.h" line="+158"/>
         <source>Add Form Layout Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till layoutrad i formulär</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Label text:</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;tiketttext:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Field &amp;type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fält&amp;typ:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Field name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fältnamn:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Buddy:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kompis:</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Row:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rad:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Label &amp;name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Etikett&amp;namn:</translation>
     </message>
 </context>
 <context>
@@ -934,7 +934,7 @@ Do you want overwrite the template?</source>
     <message>
         <location line="+1"/>
         <source>Grid</source>
-        <translation type="unfinished">Rutnät</translation>
+        <translation>Rutnät</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -944,13 +944,13 @@ Do you want overwrite the template?</source>
     <message>
         <location line="+1"/>
         <source>Grid &amp;X</source>
-        <translation type="unfinished"></translation>
+        <translation>Rutnät &amp;X</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+3"/>
         <source>Snap</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäst</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -960,7 +960,7 @@ Do you want overwrite the template?</source>
     <message>
         <location line="+1"/>
         <source>Grid &amp;Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Rutnät &amp;Y</translation>
     </message>
 </context>
 <context>
@@ -968,58 +968,58 @@ Do you want overwrite the template?</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/Designer_autogen/include/ui_newactiondialog.h" line="+255"/>
         <source>New Action...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny åtgärd...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Text:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Object &amp;name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt&amp;namn:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>T&amp;oolTip:</source>
-        <translation type="unfinished"></translation>
+        <translation>V&amp;erktygstips:</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+6"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Icon &amp;XDG theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonens &amp;XDG-tema:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Icon:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ikon:</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Checkable:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Markerbar:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Genväg:</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Menu role:</source>
-        <translation type="unfinished"></translation>
+        <translation>M&amp;enyroll:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Icon &amp;theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikon&amp;tema:</translation>
     </message>
 </context>
 <context>
@@ -1032,7 +1032,7 @@ Do you want overwrite the template?</source>
     <message>
         <location line="+1"/>
         <source>Choose a template for a preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en mall för en förhandsvisning</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1057,33 +1057,33 @@ Do you want overwrite the template?</source>
     <message>
         <location line="+1"/>
         <source>QVGA portrait (240x320)</source>
-        <translation type="unfinished"></translation>
+        <translation>Stående QVGA  (240x320)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>QVGA landscape (320x240)</source>
-        <translation type="unfinished"></translation>
+        <translation>Liggande QVGA (320x240)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>VGA portrait (480x640)</source>
-        <translation type="unfinished"></translation>
+        <translation>Stående VGA (480x640)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>VGA landscape (640x480)</source>
-        <translation type="unfinished"></translation>
+        <translation>Liggande VGA (640x480)</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>Widgets</source>
         <extracomment>New Form Dialog Categories</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Widgetar</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Custom Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassade widgetar</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -1093,17 +1093,17 @@ Do you want overwrite the template?</source>
     <message>
         <location line="+55"/>
         <source>Error loading form</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid läsning av fomulär</translation>
     </message>
     <message>
         <location line="+244"/>
         <source>Unable to open the form template file &apos;%1&apos;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte öppna mallfil för formulär &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>Internal error: No template selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt fel: Ingen mall vald.</translation>
     </message>
 </context>
 <context>
@@ -1144,12 +1144,12 @@ Do you want overwrite the template?</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/Designer_autogen/include/ui_plugindialog.h" line="+98"/>
         <source>Plugin Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksinformation</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
 </context>
 <context>
@@ -1162,29 +1162,29 @@ Do you want overwrite the template?</source>
     <message>
         <location line="+1"/>
         <source>Print/Preview Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguration för utskrift/förhandsvisning</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Style</source>
-        <translation type="unfinished">Stil</translation>
+        <translation>Stil</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Style sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Stilmall</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+1"/>
         <location line="+2"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Device skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhetsskal</translation>
     </message>
 </context>
 <context>
@@ -1219,28 +1219,29 @@ Do you want overwrite the template?</source>
     <message>
         <location line="-9"/>
         <source>I</source>
-        <translation type="unfinished"></translation>
+        <translation>I</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>New Resource</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny resurs</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Remove Resource or File</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort resurs eller fil</translation>
     </message>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/qtresourceeditordialog.cpp" line="+42"/>
         <source>%1 already exists.
 Do you want to replace it?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 finns redan.
+Vill du ersätta den?</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1250,13 +1251,13 @@ Do you want to replace it?</source>
     <message>
         <location line="+880"/>
         <source>%1 [read-only]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [skrivskyddad]</translation>
     </message>
     <message>
         <location line="+2"/>
         <location line="+198"/>
         <source>%1 [missing]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [saknas]</translation>
     </message>
     <message>
         <location line="-72"/>
@@ -1267,7 +1268,7 @@ Do you want to replace it?</source>
         <location line="+311"/>
         <location line="+569"/>
         <source>New Resource File</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny resursfil</translation>
     </message>
     <message>
         <location line="-567"/>
@@ -1278,7 +1279,7 @@ Do you want to replace it?</source>
     <message>
         <location line="-2"/>
         <source>Import Resource File</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera resursfil</translation>
     </message>
     <message>
         <location line="+112"/>
@@ -1298,12 +1299,12 @@ Do you want to replace it?</source>
     <message>
         <location line="+25"/>
         <source>Add Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till filer</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Incorrect Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Felaktig sökväg</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1311,27 +1312,27 @@ Do you want to replace it?</source>
         <location line="+210"/>
         <location line="+7"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera</translation>
     </message>
     <message>
         <location line="-234"/>
         <source>Copy As...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera som...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Keep</source>
-        <translation type="unfinished"></translation>
+        <translation>Behåll</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppa över</translation>
     </message>
     <message>
         <location line="+87"/>
         <source>Clone Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>Klona prefix</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1343,7 +1344,7 @@ This could for example be a language extension like &quot;_de&quot;.</source>
         <location line="+111"/>
         <location line="+4"/>
         <source>Copy As</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera som</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1353,7 +1354,7 @@ This could for example be a language extension like &quot;_de&quot;.</source>
     <message>
         <location line="+20"/>
         <source>Could not overwrite %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skriva över %1.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1361,7 +1362,10 @@ This could for example be a language extension like &quot;_de&quot;.</source>
 %1
 to
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte kopiera
+%1
+till
+%2</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -1372,17 +1376,17 @@ to
     <message>
         <location line="+12"/>
         <source>Save Resource File</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara resursfil</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Could not write %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skriva %1: %2</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Edit Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera resurser</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -1397,7 +1401,7 @@ to
     <message>
         <location line="+1"/>
         <source>Open Resource File</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna resursfil</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1409,13 +1413,13 @@ to
         <location line="-10"/>
         <location line="+11"/>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta upp</translation>
     </message>
     <message>
         <location line="-10"/>
         <location line="+11"/>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta ner</translation>
     </message>
     <message>
         <location line="-9"/>
@@ -1466,7 +1470,7 @@ to
     <message>
         <location line="+2"/>
         <source>Resource Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursvarning</translation>
     </message>
 </context>
 <context>
@@ -1495,12 +1499,12 @@ to
     <message>
         <location filename="../../qttools/src/designer/src/lib/Designer_autogen/include/ui_signalslotdialog.h" line="+137"/>
         <source>Signals and slots</source>
-        <translation type="unfinished"></translation>
+        <translation>Signaler och platser</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Slots</source>
-        <translation type="unfinished"></translation>
+        <translation>Platser</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1514,7 +1518,7 @@ to
         <location line="+5"/>
         <location line="+4"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -1525,7 +1529,7 @@ to
     <message>
         <location line="-6"/>
         <source>Signals</source>
-        <translation type="unfinished"></translation>
+        <translation>Signaler</translation>
     </message>
 </context>
 <context>
@@ -1567,7 +1571,7 @@ to
     <message>
         <location line="+2"/>
         <source>Gradient Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradientredigerare</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1879,7 +1883,7 @@ to
     <message>
         <location filename="../../qttools/src/designer/src/lib/Designer_autogen/include/ui_qtgradientview.h" line="+108"/>
         <source>Gradient View</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradientvy</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1908,7 +1912,7 @@ to
     <message>
         <location filename="../../qttools/src/shared/qtgradienteditor/qtgradientview.cpp" line="-104"/>
         <source>Grad</source>
-        <translation type="unfinished"></translation>
+        <translation>Grad</translation>
     </message>
     <message>
         <location line="+26"/>
@@ -1918,7 +1922,7 @@ to
     <message>
         <location line="+1"/>
         <source>Are you sure you want to remove the selected gradient?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill ta bort markerad gradient?</translation>
     </message>
 </context>
 <context>
@@ -1935,12 +1939,12 @@ to
     <message>
         <location filename="../../qttools/src/designer/src/designer/designer_autogen/include/ui_qttoolbardialog.h" line="+182"/>
         <source>Customize Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassa verktygsrader</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1950,22 +1954,22 @@ to
     <message>
         <location line="+1"/>
         <source>Toolbars</source>
-        <translation type="unfinished">Verktygsrader</translation>
+        <translation>Verktygsrader</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Add new toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till ny verktygsrad</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Remove selected toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort markerad verktygsrad</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1975,7 +1979,7 @@ to
     <message>
         <location line="+2"/>
         <source>Rename toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Byt namn på verktygsrad</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1985,57 +1989,57 @@ to
     <message>
         <location line="+2"/>
         <source>Move action up</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta åtgärd upp</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Upp</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Remove action from toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta åtgärd från verktygsrad</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;-</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;-</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Add action to toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till åtgärd till verktygsrad</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>-&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>-&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Move action down</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta åtgärd ner</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Ner</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Current Toolbar Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuella verktygsradsåtgärder</translation>
     </message>
     <message>
         <location filename="../../qttools/src/shared/qttoolbardialog/qttoolbardialog.cpp" line="+1146"/>
         <source>Custom Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassad verktygsrad</translation>
     </message>
     <message>
         <location line="+530"/>
         <source>&lt; S E P A R A T O R &gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; A V G R Ä N S A R E &gt;</translation>
     </message>
 </context>
 <context>
@@ -2043,33 +2047,33 @@ to
     <message>
         <location filename="../../qttools/src/designer/src/components/buddyeditor/buddyeditor.cpp" line="+215"/>
         <source>Add buddy</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till kompis</translation>
     </message>
     <message>
         <location line="+52"/>
         <source>Remove buddies</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort kompisar</translation>
     </message>
     <message numerus="yes">
         <location line="+24"/>
         <source>Remove %n buddies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Ta bort %n kompis</numerusform>
+            <numerusform>Ta bort %n kompisar</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location line="+51"/>
         <source>Add %n buddies</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Lägg till %n kompis</numerusform>
+            <numerusform>Lägg till %n kompisar</numerusform>
         </translation>
     </message>
     <message>
         <location line="+48"/>
         <source>Set automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in automatiskt</translation>
     </message>
 </context>
 <context>
@@ -2077,7 +2081,7 @@ to
     <message>
         <location filename="../../qttools/src/designer/src/components/buddyeditor/buddyeditor_plugin.cpp" line="+32"/>
         <source>Edit Buddies</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera kompisar</translation>
     </message>
 </context>
 <context>
@@ -2085,7 +2089,7 @@ to
     <message>
         <location filename="../../qttools/src/designer/src/components/buddyeditor/buddyeditor_tool.cpp" line="+18"/>
         <source>Edit Buddies</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera kompisar</translation>
     </message>
 </context>
 <context>
@@ -2143,19 +2147,19 @@ to
         <location filename="../../qttools/src/designer/src/components/formeditor/dpi_chooser.cpp" line="+30"/>
         <source>Standard (96 x 96)</source>
         <extracomment>Embedded device standard screen resolution</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Standard (96 x 96)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Greenphone (179 x 185)</source>
         <extracomment>Embedded device screen resolution</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Greenphone (179 x 185)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>High (192 x 192)</source>
         <extracomment>Embedded device high definition screen resolution</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hög (192 x 192)</translation>
     </message>
 </context>
 <context>
@@ -2290,7 +2294,7 @@ to
         <location line="+29"/>
         <source>Forms</source>
         <extracomment>Tab in preferences dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Formulär</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -2315,7 +2319,7 @@ to
     <message>
         <location line="+1"/>
         <source>Underscore</source>
-        <translation type="unfinished"></translation>
+        <translation>Understruken</translation>
     </message>
 </context>
 <context>
@@ -2323,22 +2327,22 @@ to
     <message>
         <location filename="../../qttools/src/designer/src/components/formeditor/formwindow.cpp" line="+415"/>
         <source>Edit contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera innehåll</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>F2</source>
-        <translation type="unfinished"></translation>
+        <translation>F2</translation>
     </message>
     <message>
         <location line="+741"/>
         <source>Insert widget &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga widgeten &apos;%1&apos;</translation>
     </message>
     <message>
         <location line="+74"/>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Storleksändra</translation>
     </message>
     <message>
         <location line="+246"/>
@@ -2436,7 +2440,7 @@ to
     <message>
         <location filename="../../qttools/src/designer/src/components/formeditor/formwindowmanager.cpp" line="+347"/>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>Klipp &amp;ut</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2446,7 +2450,7 @@ to
     <message>
         <location line="+6"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kopiera</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2456,7 +2460,7 @@ to
     <message>
         <location line="+6"/>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Klistra &amp;in</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2466,7 +2470,7 @@ to
     <message>
         <location line="+7"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ta bort</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2476,12 +2480,12 @@ to
     <message>
         <location line="+5"/>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera &amp;allt</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Selects all widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerar alla widgetar</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -2508,7 +2512,7 @@ to
     <message>
         <location line="+5"/>
         <source>Adjust &amp;Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera st&amp;orlek</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2578,7 +2582,7 @@ to
     <message>
         <location line="+8"/>
         <source>&amp;Break Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bryt layout</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2598,7 +2602,7 @@ to
     <message>
         <location line="+5"/>
         <source>&amp;Preview...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Förhandsvisa...</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2608,17 +2612,17 @@ to
     <message>
         <location line="+15"/>
         <source>Form &amp;Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Formuläri&amp;nställningar...</translation>
     </message>
     <message>
         <location line="+80"/>
         <source>Break Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Bryt layout</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Adjust Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera storlek</translation>
     </message>
     <message>
         <location line="+43"/>
@@ -2629,7 +2633,7 @@ to
     <message>
         <location line="+312"/>
         <source>Form Settings - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulärinställningar - %1</translation>
     </message>
 </context>
 <context>
@@ -2650,7 +2654,7 @@ to
     <message>
         <location filename="../../qttools/src/designer/src/components/formeditor/previewactiongroup.cpp" line="+52"/>
         <source>%1 Style</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-stil</translation>
     </message>
 </context>
 <context>
@@ -2658,7 +2662,7 @@ to
     <message>
         <location filename="../../qttools/src/designer/src/components/formeditor/qdesigner_resource.cpp" line="+498"/>
         <source>Qt Widgets Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Widgets Designer</translation>
     </message>
     <message>
         <location line="+169"/>
@@ -2673,7 +2677,7 @@ to
     <message>
         <location line="+16"/>
         <source>Unable to launch %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte starta %1: %2</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2683,12 +2687,12 @@ to
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/qsimpleresource.cpp" line="+155"/>
         <source>Custom Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassade widgetar</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Promoted Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>Promoterade widgetar</translation>
     </message>
 </context>
 <context>
@@ -2915,7 +2919,7 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <location line="+14"/>
         <source>id</source>
-        <translation type="unfinished"></translation>
+        <translation>id</translation>
     </message>
     <message>
         <location line="+538"/>
@@ -2957,80 +2961,80 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <location line="+588"/>
         <source>%1, %2</source>
-        <translation type="unfinished">%1, %2</translation>
+        <translation>%1, %2</translation>
     </message>
     <message numerus="yes">
         <location line="+7"/>
         <source>Customized (%n roles)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Anpassad (%n roll)</numerusform>
+            <numerusform>Anpassad (%n roller)</numerusform>
         </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Inherited</source>
-        <translation type="unfinished"></translation>
+        <translation>Ärvd</translation>
     </message>
     <message>
         <location line="+535"/>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horisontell</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>XDG Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>XDG-tema</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Normal Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal av</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Normal On</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal på</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Disabled Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktiverad av</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Disabled On</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktiverad på</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Active Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv av</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Active On</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv på</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Selected Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerad av</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Selected On</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerad på</translation>
     </message>
 </context>
 <context>
@@ -3100,7 +3104,7 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <location line="+61"/>
         <source>Antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Antialiasing</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -3111,7 +3115,7 @@ Container pages should only be added by specifying them in XML returned by the d
         <location filename="../../qttools/src/shared/qtpropertybrowser/qtpropertymanager.cpp" line="+5835"/>
         <source>Thin</source>
         <comment>QFont::Weight combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tunn</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3123,19 +3127,19 @@ Container pages should only be added by specifying them in XML returned by the d
         <location line="+1"/>
         <source>Light</source>
         <comment>QFont::Weight combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ljus</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Normal</source>
         <comment>QFont::Weight combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Medium</source>
         <comment>QFont::Weight combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Medel</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3147,7 +3151,7 @@ Container pages should only be added by specifying them in XML returned by the d
         <location line="+1"/>
         <source>Bold</source>
         <comment>QFont::Weight combo</comment>
-        <translation type="unfinished">Fet stil</translation>
+        <translation>Fet stil</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3159,7 +3163,7 @@ Container pages should only be added by specifying them in XML returned by the d
         <location line="+1"/>
         <source>Black</source>
         <comment>QFont::Weight combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Svart</translation>
     </message>
 </context>
 <context>
@@ -3198,12 +3202,12 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <location filename="../../qttools/src/designer/src/components/propertyeditor/pixmapeditor.cpp" line="+53"/>
         <source>Set Icon From XDG Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in ikon från XDG-tema</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Select icon name from XDG theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ikonnamn från XDG-tema:</translation>
     </message>
 </context>
 <context>
@@ -3211,12 +3215,12 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <location line="+15"/>
         <source>Set Icon From Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in ikon från tema</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Select icon name from theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ikonnamn från tema:</translation>
     </message>
 </context>
 <context>
@@ -3234,7 +3238,7 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <location line="+1"/>
         <source>Set Icon From Theme...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in ikon från tema...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3280,7 +3284,8 @@ Container pages should only be added by specifying them in XML returned by the d
         <source>The moose in the noose
 ate the goose who was loose.</source>
         <extracomment>Palette editor background</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Baka, baka liten kaka
+rulla, rulla liten bulla.</translation>
     </message>
 </context>
 <context>
@@ -3288,12 +3293,12 @@ ate the goose who was loose.</source>
     <message>
         <location filename="../../qttools/src/designer/src/components/propertyeditor/propertyeditor.cpp" line="+187"/>
         <source>Add Dynamic Property...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till dynamisk egenskap...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Remove Dynamic Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort dynamisk egenskap</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3303,12 +3308,12 @@ ate the goose who was loose.</source>
     <message>
         <location line="+1"/>
         <source>Color Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Färggrupper</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Tree View</source>
-        <translation type="unfinished"></translation>
+        <translation>Trädvy</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3318,7 +3323,7 @@ ate the goose who was loose.</source>
     <message>
         <location line="+36"/>
         <source>String...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sträng...</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3333,18 +3338,19 @@ ate the goose who was loose.</source>
     <message>
         <location line="+7"/>
         <source>Configure Property Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera egenskapsredigerare</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location line="+473"/>
         <source>Object: %1
 Class: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt: %1
+Klass: %2</translation>
     </message>
 </context>
 <context>
@@ -3360,7 +3366,7 @@ Class: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/components/signalsloteditor/signalsloteditor.cpp" line="+118"/>
         <source>SENDER(%1), SIGNAL(%2), RECEIVER(%3), SLOT(%4)</source>
-        <translation type="unfinished"></translation>
+        <translation>AVSÄNDARE(%1), SIGNAL(%2), MOTTAGARE (%3), PLATS(%4)</translation>
     </message>
 </context>
 <context>
@@ -3369,13 +3375,13 @@ Class: %2</source>
         <location line="+56"/>
         <location line="+289"/>
         <source>Change signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra signal</translation>
     </message>
     <message>
         <location line="-287"/>
         <location line="+299"/>
         <source>Change slot</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra plats</translation>
     </message>
     <message>
         <location line="-251"/>
@@ -3385,22 +3391,22 @@ Class: %2</source>
     <message>
         <location line="+265"/>
         <source>Change sender</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra avsändare</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Change receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra mottagare</translation>
     </message>
     <message>
         <location filename="../../qttools/src/designer/src/components/taskmenu/button_taskmenu.cpp" line="+183"/>
         <source>Create button group</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa knappgrupp</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Break button group</source>
-        <translation type="unfinished"></translation>
+        <translation>Bryt knappgrupp</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -3410,50 +3416,50 @@ Class: %2</source>
     <message>
         <location line="+17"/>
         <source>Add buttons to group</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till knappar till grupp</translation>
     </message>
     <message>
         <location line="+8"/>
         <location filename="../../qttools/src/designer/src/lib/shared/formlayoutmenu.cpp" line="+415"/>
         <source>Add &apos;%1&apos; to &apos;%2&apos;</source>
         <extracomment>Command description for adding buttons to a QButtonGroup</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till &quot;%1&quot; till &quot;%2&quot;</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Remove buttons from group</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort knappar från grupp</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Remove &apos;%1&apos; from &apos;%2&apos;</source>
         <extracomment>Command description for removing buttons from a QButtonGroup</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort &apos;%1&apos; från &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/connectionedit.cpp" line="+105"/>
         <source>Add connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till anslutning</translation>
     </message>
     <message>
         <location line="+54"/>
         <source>Adjust connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera anslutning</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Delete connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort anslutningar</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>Change source</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra källa</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Change target</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra mål</translation>
     </message>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/morphmenu.cpp" line="+307"/>
@@ -3464,7 +3470,7 @@ Class: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/qdesigner_command.cpp" line="+113"/>
         <source>Insert &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga &apos;%1&apos;</translation>
     </message>
     <message>
         <location line="+128"/>
@@ -3474,17 +3480,17 @@ Class: %2</source>
     <message>
         <location line="+34"/>
         <source>Raise &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Höj &apos;%1&apos;</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Lower &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Sänk &apos;%1&apos;</translation>
     </message>
     <message>
         <location line="+101"/>
         <source>Delete &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+119"/>
@@ -3494,7 +3500,7 @@ Class: %2</source>
     <message>
         <location line="+54"/>
         <source>Promote to custom widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Promotera till anpassad widget</translation>
     </message>
     <message>
         <location line="+42"/>
@@ -3519,7 +3525,7 @@ Class: %2</source>
     <message>
         <location line="+41"/>
         <source>Break layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Bryt layout</translation>
     </message>
     <message>
         <location line="+105"/>
@@ -3558,32 +3564,32 @@ Class: %2</source>
     <message>
         <location line="-640"/>
         <source>Change Tab order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra flikordning</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Create Menu Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa menyrad</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Delete Menu Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort menyrad</translation>
     </message>
     <message>
         <location line="+47"/>
         <source>Create Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa statusrad</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Delete Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort statusrad</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Add Tool Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till verktygsrad</translation>
     </message>
     <message>
         <location line="+58"/>
@@ -3593,7 +3599,7 @@ Class: %2</source>
     <message>
         <location line="+53"/>
         <source>Adjust Size of &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera storlek för &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -3608,12 +3614,12 @@ Class: %2</source>
     <message>
         <location line="+134"/>
         <source>Delete Subwindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort underfönster</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Insert Subwindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga underfönster</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3623,12 +3629,12 @@ Class: %2</source>
     <message>
         <location line="+387"/>
         <source>Change Table Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra tabellinnehåll</translation>
     </message>
     <message>
         <location line="+99"/>
         <source>Change Tree Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra trädinnehåll</translation>
     </message>
     <message>
         <location line="+74"/>
@@ -3640,7 +3646,7 @@ Class: %2</source>
         <location line="-121"/>
         <location line="+127"/>
         <source>Remove action</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort åtgärd</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -3650,17 +3656,17 @@ Class: %2</source>
     <message>
         <location line="+6"/>
         <source>Remove menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort meny</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Create submenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa undermeny</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Delete Tool Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort verktygsrad</translation>
     </message>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/qdesigner_command2.cpp" line="+116"/>
@@ -3675,28 +3681,28 @@ Class: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/qdesigner_menu.cpp" line="+1167"/>
         <source>Set action text</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in åtgärdstext</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Insert action</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga åtgärd</translation>
     </message>
     <message>
         <location line="+91"/>
         <location filename="../../qttools/src/designer/src/lib/shared/qdesigner_menubar.cpp" line="+866"/>
         <source>Move action</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta åtgärd</translation>
     </message>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/qdesigner_menubar.cpp" line="-426"/>
         <source>Change Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra titel</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Insert Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga meny</translation>
     </message>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/qdesigner_propertycommand.cpp" line="+1240"/>
@@ -3753,7 +3759,7 @@ Class: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/signalslotdialog.cpp" line="+132"/>
         <source>Change signals/slots</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra signaler/platser</translation>
     </message>
 </context>
 <context>
@@ -3761,12 +3767,12 @@ Class: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/components/signalsloteditor/signalsloteditor_plugin.cpp" line="+31"/>
         <source>Edit Signals/Slots</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera signaler/platser</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>F4</source>
-        <translation type="unfinished"></translation>
+        <translation>F4</translation>
     </message>
 </context>
 <context>
@@ -3774,7 +3780,7 @@ Class: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/components/signalsloteditor/signalsloteditor_tool.cpp" line="+21"/>
         <source>Edit Signals/Slots</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera signaler/platser</translation>
     </message>
 </context>
 <context>
@@ -3782,52 +3788,52 @@ Class: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/components/signalsloteditor/signalsloteditorwindow.cpp" line="+156"/>
         <source>Sender</source>
-        <translation type="unfinished"></translation>
+        <translation>Avsändare</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Signal</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Mottagare</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Slot</source>
-        <translation type="unfinished"></translation>
+        <translation>Plats</translation>
     </message>
     <message>
         <location line="+99"/>
         <source>&lt;sender&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;avsändare&gt;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&lt;signal&gt;</source>
-        <translation type="unfinished">&lt;signal&gt;</translation>
+        <translation>&lt;signal&gt;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&lt;receiver&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;mottagare&gt;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&lt;slot&gt;</source>
-        <translation type="unfinished">&lt;plats&gt;</translation>
+        <translation>&lt;plats&gt;</translation>
     </message>
     <message>
         <location line="+100"/>
         <source>The connection already exists!&lt;br&gt;%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslutningen finns redan! &lt;bt&gt;%1</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Signal and Slot Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera signal och platser</translation>
     </message>
 </context>
 <context>
@@ -3873,7 +3879,7 @@ Class: %2</source>
     <message>
         <location line="+1"/>
         <source>Tab Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Flikordning</translation>
     </message>
 </context>
 <context>
@@ -3881,7 +3887,7 @@ Class: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/components/tabordereditor/tabordereditor_plugin.cpp" line="+32"/>
         <source>Edit Tab Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera flikordning</translation>
     </message>
 </context>
 <context>
@@ -3889,7 +3895,7 @@ Class: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/components/tabordereditor/tabordereditor_tool.cpp" line="+20"/>
         <source>Edit Tab Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera flikordning</translation>
     </message>
 </context>
 <context>
@@ -3897,12 +3903,12 @@ Class: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/components/taskmenu/button_taskmenu.cpp" line="+7"/>
         <source>Select members</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj medlemmar</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Bryt</translation>
     </message>
 </context>
 <context>
@@ -3951,12 +3957,12 @@ Class: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/components/taskmenu/combobox_taskmenu.cpp" line="+31"/>
         <source>Edit Items...</source>
-        <translation type="unfinished">Redigera poster...</translation>
+        <translation>Redigera objekt...</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Change Combobox Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra innehåll i kombinationsbox</translation>
     </message>
 </context>
 <context>
@@ -4134,12 +4140,12 @@ Class: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/components/taskmenu/listwidget_taskmenu.cpp" line="+30"/>
         <source>Edit Items...</source>
-        <translation type="unfinished">Redigera poster...</translation>
+        <translation>Redigera objekt...</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Change List Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra listinnehåll</translation>
     </message>
 </context>
 <context>
@@ -4147,17 +4153,17 @@ Class: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/components/taskmenu/listwidgeteditor.cpp" line="+30"/>
         <source>New Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt objekt</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Edit List Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera listwidget</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Edit Combobox</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera kombinationsruta</translation>
     </message>
 </context>
 <context>
@@ -4173,7 +4179,7 @@ Class: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/components/taskmenu/tablewidget_taskmenu.cpp" line="+27"/>
         <source>Edit Items...</source>
-        <translation type="unfinished">Redigera poster...</translation>
+        <translation>Redigera objekt...</translation>
     </message>
 </context>
 <context>
@@ -4220,12 +4226,12 @@ Class: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/components/widgetbox/widgetbox.cpp" line="+81"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location filename="../../qttools/src/designer/src/components/widgetbox/widgetbox_dnditem.cpp" line="+79"/>
         <source>Warning: Widget creation failed in the widget box. This could be caused by invalid custom widget XML.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varning: Widgetskapandet misslyckades i widgetboxen. Detta kan orsakas av ogiltig anpassad widget-XML.</translation>
     </message>
 </context>
 <context>
@@ -4238,7 +4244,7 @@ Class: %2</source>
     <message>
         <location line="+377"/>
         <source>Custom Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassade widgetar</translation>
     </message>
     <message>
         <location line="+262"/>
@@ -4253,12 +4259,12 @@ Class: %2</source>
     <message>
         <location line="+3"/>
         <source>List View</source>
-        <translation type="unfinished"></translation>
+        <translation>Listvy</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Icon View</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonvy</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -4268,7 +4274,7 @@ Class: %2</source>
     <message>
         <location line="+2"/>
         <source>Edit name</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera namn</translation>
     </message>
 </context>
 <context>
@@ -4347,32 +4353,32 @@ Class: %2</source>
     <message>
         <location line="+5"/>
         <source>Remove current font file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort aktuell typsnittsfil</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Remove all font files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort alla typsnittsfiler</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Add Font Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till typsnittsfiler</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Font files (*.ttf)</source>
-        <translation type="unfinished"></translation>
+        <translation>Typsnittsfiler (*.ttf)</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Error Adding Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel när typsnitt lades till</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Error Removing Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid borttagning av typsnitt</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -4382,7 +4388,7 @@ Class: %2</source>
     <message>
         <location line="+0"/>
         <source>Would you like to remove all fonts?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du ta bort alla typsnitt?</translation>
     </message>
 </context>
 <context>
@@ -4417,22 +4423,22 @@ Class: %2</source>
         <location filename="../../qttools/src/designer/src/designer/mainwindow.cpp" line="+87"/>
         <source>Main</source>
         <extracomment>Not currently used (main tool bar)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Huvud</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fil</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Edit</source>
-        <translation type="unfinished">Redigera</translation>
+        <translation>Redigera</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Tools</source>
-        <translation type="unfinished">Verktyg</translation>
+        <translation>Verktyg</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4442,7 +4448,7 @@ Class: %2</source>
     <message>
         <location line="+8"/>
         <source>Qt Widgets Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Widgets Designer</translation>
     </message>
 </context>
 <context>
@@ -4475,7 +4481,7 @@ Class: %2</source>
     <message>
         <location line="+6"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fil</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4569,12 +4575,12 @@ Class: %2</source>
     <message>
         <location line="+5"/>
         <source>Designer UI files (*.%1);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Designer gränssnittsfiler (*.%1);;Alla filer (*)</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Save Form As</source>
-        <translation type="unfinished">Spara formulär som</translation>
+        <translation>Spara formulär som</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -4589,38 +4595,38 @@ Class: %2</source>
     <message>
         <location line="+3"/>
         <source>&amp;Open...</source>
-        <translation type="unfinished">Ö&amp;ppna...</translation>
+        <translation>Ö&amp;ppna...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Spara</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara so&amp;m...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Save A&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara al&amp;lt</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Save As &amp;Template...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara som &amp;mall...</translation>
     </message>
     <message>
         <location line="+2"/>
         <location line="+855"/>
         <source>&amp;Close</source>
-        <translation type="unfinished">S&amp;täng</translation>
+        <translation>S&amp;täng</translation>
     </message>
     <message>
         <location line="-854"/>
         <source>Save &amp;Image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara &amp;bild...</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4630,22 +4636,22 @@ Class: %2</source>
     <message>
         <location line="+2"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;vsluta</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>View &amp;C++ Code...</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa &amp;C++-kod...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>View &amp;Python Code...</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa &amp;Python-kod...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Minimera</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4660,27 +4666,27 @@ Class: %2</source>
     <message>
         <location line="+1"/>
         <source>Additional Fonts...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytterligare typsnitt...</translation>
     </message>
     <message>
         <location line="+60"/>
         <source>ALT+CTRL+S</source>
-        <translation type="unfinished"></translation>
+        <translation>ALT+CTRL+S</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>CTRL+SHIFT+S</source>
-        <translation type="unfinished"></translation>
+        <translation>CTRL+SKIFT+S</translation>
     </message>
     <message>
         <location line="+127"/>
         <source>CTRL+R</source>
-        <translation type="unfinished"></translation>
+        <translation>CTRL+R</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>CTRL+M</source>
-        <translation type="unfinished"></translation>
+        <translation>CTRL+M</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -4695,7 +4701,7 @@ Class: %2</source>
     <message>
         <location line="+9"/>
         <source>About Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Om insticksmoduler</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -4711,28 +4717,28 @@ Class: %2</source>
     <message>
         <location line="+39"/>
         <source>Clear &amp;Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Töm m&amp;eny</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Recent Forms</source>
-        <translation type="unfinished">&amp;Senaste formulär</translation>
+        <translation>&amp;Senaste formulär</translation>
     </message>
     <message>
         <location line="+77"/>
         <location line="+185"/>
         <source>Open Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna formulär</translation>
     </message>
     <message>
         <location line="-57"/>
         <source>Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Designer</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Feature not implemented yet!</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktionen är inte implementerad än!</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -4753,27 +4759,27 @@ Do you want to update the file location or generate a new form?</source>
     <message>
         <location line="+3"/>
         <source>&amp;Update</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Uppdatera</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;New Form</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nytt formulär</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>Qt Widgets Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Widgets Designer</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Save Form?</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara formulär?</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Could not open file</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte öppna filen</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -4827,12 +4833,12 @@ Reason: %2</source>
     <message>
         <location line="+34"/>
         <source>Preview failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Förhandsvisning misslyckades</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Image files (*.%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildfiler (*.%1)</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -4843,12 +4849,12 @@ Reason: %2</source>
     <message>
         <location line="-4"/>
         <source>Saved image %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sparade bilder %1.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The file %1 could not be written.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen %1 kunde inte skrivas.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -4893,22 +4899,22 @@ Reason: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/designer/qdesigner_formwindow.cpp" line="+183"/>
         <source>%1 - %2[*]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - %2[*]</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Save Form?</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara formulär?</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Do you want to save the changes to this document before closing?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du spara ändringarna i detta dokument innan det stängs?</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>If you don&apos;t save, your changes will be lost.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om du inte sparar så kommer dina ändringar att förloras.</translation>
     </message>
 </context>
 <context>
@@ -4936,12 +4942,12 @@ Reason: %2</source>
     <message>
         <location line="+31"/>
         <source>Signal/Slot Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera signal/plats</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>Widget Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Widgetbox</translation>
     </message>
 </context>
 <context>
@@ -4949,57 +4955,57 @@ Reason: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/designer/qdesigner_workbench.cpp" line="+163"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Arkiv</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>R&amp;edigera</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>F&amp;orm</source>
-        <translation type="unfinished"></translation>
+        <translation>F&amp;ormulär</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Preview in</source>
-        <translation type="unfinished"></translation>
+        <translation>Förhandsvisa i</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Visa</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Inställningar</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fönster</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hjälp</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Toolbars</source>
-        <translation type="unfinished">Verktygsrader</translation>
+        <translation>Verktygsrader</translation>
     </message>
     <message>
         <location line="+187"/>
         <source>Widget Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Widgetruta</translation>
     </message>
     <message>
         <location line="+303"/>
         <source>Save Forms?</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara formulär?</translation>
     </message>
     <message numerus="yes">
         <location line="+1"/>
@@ -5017,12 +5023,12 @@ Reason: %2</source>
     <message>
         <location line="+1"/>
         <source>Discard Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Förkasta ändringar</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Review Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Granska ändringar</translation>
     </message>
     <message>
         <location line="+91"/>
@@ -5050,17 +5056,17 @@ Reason: %2</source>
     <message>
         <location line="+1"/>
         <source>Qt Widgets Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Widgets Designer</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&lt;br/&gt;Qt Widgets Designer is a graphical user interface designer for Qt applications.&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br/&gt;Qt Widgets Designer är en grafisk användargränssnittsdesigner för Qt-program.&lt;br/&gt;</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>%1&lt;br/&gt;Copyright (C) The Qt Company Ltd. and other contributors.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1&lt;br/&gt;Copyright (C) The Qt Company Ltd. och andra bidragsgivare.</translation>
     </message>
 </context>
 <context>
@@ -5078,27 +5084,27 @@ Reason: %2</source>
     <message>
         <location line="+1"/>
         <source>Go to slot...</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till plats...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Klipp ut</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Klistra in</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera allt</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5108,52 +5114,52 @@ Reason: %2</source>
     <message>
         <location line="+8"/>
         <source>Actions</source>
-        <translation type="unfinished">Åtgärder</translation>
+        <translation>Åtgärder</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Configure Action Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera åtgärdsredigerare</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Icon View</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonvy</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Detailed View</source>
-        <translation type="unfinished"></translation>
+        <translation>Detaljerad vy</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location line="+253"/>
         <source>New action</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny åtgärd</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Edit action</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera åtgärd</translation>
     </message>
     <message>
         <location line="+95"/>
         <source>Remove action &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort åtgärden &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Remove actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort åtgärder</translation>
     </message>
     <message>
         <location line="+241"/>
         <source>Used In</source>
-        <translation type="unfinished"></translation>
+        <translation>Används i</translation>
     </message>
 </context>
 <context>
@@ -5204,22 +5210,22 @@ Reason: %2</source>
     <message>
         <location line="+6"/>
         <source>Copy All</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera allt</translation>
     </message>
     <message>
         <location line="+86"/>
         <source>A temporary form file could not be created in %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>En temporär formulärfil kunde inte skapas i %1.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>The temporary form file %1 could not be written.</source>
-        <translation type="unfinished"></translation>
+        <translation>Temporära formulärfilen %1 kunde inte skrivas.</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>%1 - [%2 Code]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - [%2-kod]</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -5229,12 +5235,12 @@ Reason: %2</source>
     <message>
         <location line="+19"/>
         <source>The file %1 could not be opened: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen %1 kunde inte öppnas: %2</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>The file %1 could not be written: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen %1 kunde inte skrivas: %2</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -5247,12 +5253,12 @@ Reason: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/connectionedit.cpp" line="+1310"/>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera allt</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Deselect All</source>
-        <translation type="unfinished"></translation>
+        <translation>Avmarkera allt</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -5266,12 +5272,12 @@ Reason: %2</source>
         <location filename="../../qttools/src/designer/src/lib/shared/deviceprofile.cpp" line="+352"/>
         <source>&apos;%1&apos; is not a number.</source>
         <extracomment>Reading a number for an embedded device profile</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; är inte ett tal.</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>An invalid tag &lt;%1&gt; was encountered.</source>
-        <translation type="unfinished"></translation>
+        <translation>En ogiltig tagg &lt;%1&gt; påträffades.</translation>
     </message>
 </context>
 <context>
@@ -5279,7 +5285,7 @@ Reason: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/formlayoutmenu.cpp" line="+24"/>
         <source>Add form layout row...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg in rad för formulärlayout...</translation>
     </message>
 </context>
 <context>
@@ -5287,7 +5293,7 @@ Reason: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/formwindowbase.cpp" line="+426"/>
         <source>Delete &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -5297,7 +5303,7 @@ Reason: %2</source>
     <message>
         <location line="+105"/>
         <source>Invalid form</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt formulär</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -5318,97 +5324,97 @@ Reason: %2</source>
     <message>
         <location line="+70"/>
         <source>Normal Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal av</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Normal On</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal på</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Disabled Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktiverad av</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Disabled On</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktiverad på</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Active Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv av</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Active On</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv på</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Selected Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerad av</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Selected On</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerad på</translation>
     </message>
     <message>
         <location line="+132"/>
         <source>The pixmap file &apos;%1&apos; cannot be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixmapfilen &apos;%1&apos; kan inte läsas.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>The file &apos;%1&apos; does not appear to be a valid pixmap file: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen &apos;%1&apos; verkar inte vara en giltig pixmap-fil: %2</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The file &apos;%1&apos; could not be read: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen &apos;%1&apos; kunde inte läsas: %2</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>All Pixmaps (</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla pixmaps (</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Choose a Pixmap</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en pixmap</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Pixmap Read Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Läsfel för pixmap</translation>
     </message>
     <message>
         <location line="+54"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Choose Resource...</source>
-        <translation type="unfinished">Välj resurs...</translation>
+        <translation>Välj resurs...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Choose File...</source>
-        <translation type="unfinished">Välj fil...</translation>
+        <translation>Välj fil...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Reset</source>
-        <translation type="unfinished">Nollställ</translation>
+        <translation>Nollställ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Reset All</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ allt</translation>
     </message>
 </context>
 <context>
@@ -5416,7 +5422,7 @@ Reason: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/morphmenu.cpp" line="+262"/>
         <source>Morph into</source>
-        <translation type="unfinished"></translation>
+        <translation>Morfa in i</translation>
     </message>
 </context>
 <context>
@@ -5424,7 +5430,7 @@ Reason: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/plaintexteditor.cpp" line="+28"/>
         <source>Edit text</source>
-        <translation type="unfinished">Redigera text</translation>
+        <translation>Redigera text</translation>
     </message>
 </context>
 <context>
@@ -5638,7 +5644,7 @@ Reason: %2</source>
     <message>
         <location line="+1"/>
         <source>Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Användning</translation>
     </message>
 </context>
 <context>
@@ -5682,12 +5688,12 @@ Reason: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/qdesigner_formbuilder.cpp" line="+313"/>
         <source>The preview failed to build.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förhandsvisning misslyckades att byggas.</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Designer</translation>
     </message>
 </context>
 <context>
@@ -5700,33 +5706,33 @@ Reason: %2</source>
     <message>
         <location line="+3"/>
         <source>Add Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till avgränsare</translation>
     </message>
     <message>
         <location line="+372"/>
         <source>Insert separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga avgränsare</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Remove separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort avgränsare</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Remove action &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort åtgärden &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+25"/>
         <location line="+655"/>
         <source>Add separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till avgränsare</translation>
     </message>
     <message>
         <location line="-356"/>
         <source>Insert action</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga åtgärd</translation>
     </message>
 </context>
 <context>
@@ -5772,7 +5778,7 @@ Reason: %2</source>
     <message>
         <location line="+9"/>
         <source>Promoted Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>Promoterade widgetar</translation>
     </message>
     <message>
         <location line="+120"/>
@@ -5815,7 +5821,7 @@ Reason: %2</source>
     <message>
         <location line="+2"/>
         <source>New Promoted Class</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny promoterad klass</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -5850,7 +5856,7 @@ Reason: %2</source>
     <message>
         <location line="+15"/>
         <source>Reset</source>
-        <translation type="unfinished">Nollställ</translation>
+        <translation>Nollställ</translation>
     </message>
 </context>
 <context>
@@ -5858,22 +5864,22 @@ Reason: %2</source>
     <message>
         <location line="+89"/>
         <source>Promoted Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>Promoterade widgetar</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Promoted Classes</source>
-        <translation type="unfinished"></translation>
+        <translation>Promoterade klasser</translation>
     </message>
     <message>
         <location line="+64"/>
         <source>Promote</source>
-        <translation type="unfinished"></translation>
+        <translation>Promotera</translation>
     </message>
     <message>
         <location line="+149"/>
         <source>Change signals/slots...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra signaler/platser...</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -5998,12 +6004,12 @@ Reason: %2</source>
     <message>
         <location line="+64"/>
         <source>Layout Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Layoutjustering</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>No Horizontal Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen horisontell justering</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -6014,7 +6020,7 @@ Reason: %2</source>
     <message>
         <location line="-171"/>
         <source>Center Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrera horisontellt</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -6025,130 +6031,130 @@ Reason: %2</source>
     <message>
         <location line="-170"/>
         <source>No Vertical Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen vertikal justering</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Överkant</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrera vertikalt</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+169"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Nederkant</translation>
     </message>
     <message>
         <location line="-68"/>
         <source>Change objectName...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra ojektnamn...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Change toolTip...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra verktygstips...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Change whatsThis...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra Vad är det här...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Change styleSheet...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra stilmall...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Create Menu Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa menyrad</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Add Tool Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till verktygsrad</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Add Tool Bar to Other Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till verktygsrad till annan yta</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Create Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa statusrad</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Remove Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort statusrad</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Change signals/slots...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra signaler/platser...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Go to slot...</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till plats...</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Size Constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Storleksgränser</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Set Minimum Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in minimal bredd</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Set Minimum Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in minimal höjd</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Set Minimum Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in minimal storlek</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Set Maximum Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in maximal bredd</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Set Maximum Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in maximal höjd</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Set Maximum Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in maximal storlek</translation>
     </message>
     <message>
         <location line="+243"/>
         <source>Edit ToolTip</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera verktygstips</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Edit WhatsThis</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera Vad är det här</translation>
     </message>
     <message numerus="yes">
         <location line="+86"/>
         <source>Set size constraint on %n widget(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Ställ in storleksgräns för %n widget</numerusform>
+            <numerusform>Ställ in storleksgränser för %n widgetar</numerusform>
         </translation>
     </message>
 </context>
@@ -6167,7 +6173,7 @@ Reason: %2</source>
     <message>
         <location line="+12"/>
         <source>Remove action &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort åtgärd &apos;%1&apos;</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -6177,7 +6183,7 @@ Reason: %2</source>
     <message>
         <location line="+57"/>
         <source>Insert Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga avgränsare</translation>
     </message>
 </context>
 <context>
@@ -6223,12 +6229,12 @@ Reason: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/qdesigner_utils.cpp" line="-576"/>
         <source>%1 is not a valid enumeration value of &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är inte ett giltigt uppräknat värde för &apos;%2&apos;.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&apos;%1&apos; could not be converted to an enumeration value of type &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; kunde inte konverteras till ett uppräknat värde av typen &apos;%2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -6319,57 +6325,57 @@ Reason: %2</source>
     <message>
         <location line="+108"/>
         <source>Bold</source>
-        <translation type="unfinished">Fet stil</translation>
+        <translation>Fet stil</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>CTRL+B</source>
-        <translation type="unfinished"></translation>
+        <translation>CTRL+B</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Italic</source>
-        <translation type="unfinished">Kursiv stil</translation>
+        <translation>Kursiv stil</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>CTRL+I</source>
-        <translation type="unfinished"></translation>
+        <translation>CTRL+I</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Underline</source>
-        <translation type="unfinished">Understruken</translation>
+        <translation>Understruken</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>CTRL+U</source>
-        <translation type="unfinished"></translation>
+        <translation>CTRL+U</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Left Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänsterjusterad</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrera</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Right Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Högerjustera</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Right to Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Höger till vänster</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -6384,17 +6390,17 @@ Reason: %2</source>
     <message>
         <location line="+10"/>
         <source>Insert &amp;Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga &amp;länk</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Insert &amp;Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga &amp;bild</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Simplify Rich Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Förenkla rik text</translation>
     </message>
 </context>
 <context>
@@ -6438,12 +6444,12 @@ Reason: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/shared_settings.cpp" line="+51"/>
         <source>The template path %1 could not be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mallsökvägen %1 kunde inte skapas.</translation>
     </message>
     <message>
         <location line="+216"/>
         <source>An error has been encountered while parsing device profile XML: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett fel påträffades vid tolkning av enhetsprofilens XML: %1</translation>
     </message>
 </context>
 <context>
@@ -6475,12 +6481,12 @@ Reason: %2</source>
     <message>
         <location filename="../../qttools/src/designer/src/lib/shared/spacer_widget.cpp" line="+233"/>
         <source>Horizontal Spacer &apos;%1&apos;, %2 x %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Horisontell utfyllnadr &apos;%1&apos;, %2 x %3</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Vertical Spacer &apos;%1&apos;, %2 x %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal utfyllnad &apos;%1&apos;, %2 x %3</translation>
     </message>
 </context>
 <context>
@@ -6540,7 +6546,7 @@ Reason: %2</source>
     <message>
         <location line="-394"/>
         <source>A custom widget plugin whose class name (%1) matches that of an existing class has been found.</source>
-        <translation type="unfinished"></translation>
+        <translation>En anpassad widgetinstick vars klassnamn (%1) matchar det för en befintlig klass har hittats.</translation>
     </message>
 </context>
 <context>
@@ -6720,13 +6726,13 @@ This indicates an inconsistency in the ui-file.</source>
         <location filename="../../qttools/src/designer/src/lib/uilib/formbuilderextra.cpp" line="+215"/>
         <source>Invalid stretch value for &apos;%1&apos;: &apos;%2&apos;</source>
         <extracomment>Parsing layout stretch values</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt utsträckningsvärde för &apos;%1&apos;: &apos;%2&apos;</translation>
     </message>
     <message>
         <location line="+75"/>
         <source>Invalid minimum size for &apos;%1&apos;: &apos;%2&apos;</source>
         <extracomment>Parsing grid layout minimum size values</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig minimal storlek för &apos;%1&apos;: &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -7002,7 +7008,7 @@ This indicates an inconsistency in the ui-file.</source>
     <message>
         <location filename="../../qttools/src/shared/qtgradienteditor/qtgradientstopswidget.cpp" line="+893"/>
         <source>New Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt stopp</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -7012,27 +7018,27 @@ This indicates an inconsistency in the ui-file.</source>
     <message>
         <location line="+1"/>
         <source>Flip All</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänd allt</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera allt</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Zoom In</source>
-        <translation type="unfinished">Zooma in</translation>
+        <translation>Zooma in</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Zoom Out</source>
-        <translation type="unfinished">Zooma ut</translation>
+        <translation>Zooma ut</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Reset Zoom</source>
-        <translation type="unfinished">Nollställ zoom</translation>
+        <translation>Nollställ zoom</translation>
     </message>
 </context>
 <context>
@@ -7040,7 +7046,7 @@ This indicates an inconsistency in the ui-file.</source>
     <message>
         <location filename="../../qttools/src/shared/qtpropertybrowser/qteditorfactory.cpp" line="+1518"/>
         <source>Clear Char</source>
-        <translation type="unfinished"></translation>
+        <translation>Töm tecken</translation>
     </message>
 </context>
 <context>
@@ -7056,12 +7062,12 @@ This indicates an inconsistency in the ui-file.</source>
     <message>
         <location line="+199"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Select Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj typsnitt</translation>
     </message>
 </context>
 <context>
@@ -7069,7 +7075,7 @@ This indicates an inconsistency in the ui-file.</source>
     <message>
         <location filename="../../qttools/src/shared/qtpropertybrowser/qtpropertybrowserutils.cpp" line="+29"/>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pil</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -7084,7 +7090,7 @@ This indicates an inconsistency in the ui-file.</source>
     <message>
         <location line="+2"/>
         <source>Wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänta</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -7139,22 +7145,22 @@ This indicates an inconsistency in the ui-file.</source>
     <message>
         <location line="+2"/>
         <source>Forbidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Förbjuden</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Open Hand</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppen hand</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Closed Hand</source>
-        <translation type="unfinished"></translation>
+        <translation>Stängd hand</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>What&apos;s This</source>
-        <translation type="unfinished"></translation>
+        <translation>Vad är det här</translation>
     </message>
     <message>
         <location line="+2"/>
