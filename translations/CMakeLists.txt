@@ -2,6 +2,7 @@
 # SPDX-License-Identifier: BSD-3-Clause
 
 add_custom_target(ts-all)
+add_custom_target(ts-untranslated)
 
 set(repo_root_directory "${CMAKE_CURRENT_SOURCE_DIR}/../..")
 set(en_ts_file_dir "${CMAKE_CURRENT_BINARY_DIR}/en_ts")
@@ -134,6 +135,7 @@ function(add_ts_targets catalog)
         ${source_files_list_file}
         TS_FILES "${untranslated_ts_file}"
     )
+    add_dependencies(ts-untranslated ts-${catalog}-untranslated)
 
     # Create a ts-qtfoo-all target that updates all ts files for this catalog in one go.
     add_ts_target(ts-${catalog}-all
