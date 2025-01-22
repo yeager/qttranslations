@@ -3,6 +3,11 @@
 
 find_package(Python3 COMPONENTS Interpreter)
 
+# Avoid running xmllint on each ts file to extract the ts file language.
+# We only need to do that for qt apps, not the qt translations. Speeds up
+# configuration of the repo on macOS hosts.
+set(QT_SKIP_STORE_LANGUAGES_FROM_TS_FILES TRUE)
+
 add_custom_target(ts-all)
 add_custom_target(ts-untranslated)
 
@@ -250,4 +255,23 @@ add_custom_target(stage-ts
     COMMAND ${CMAKE_COMMAND} -DLCONVERT_BIN="$<TARGET_FILE:${QT_CMAKE_EXPORT_NAMESPACE}::lconvert>" -P ${CMAKE_CURRENT_SOURCE_DIR}/git-stage-script.cmake
     WORKING_DIRECTORY ${CMAKE_SOURCE_DIR}
     COMMAND_EXPAND_LISTS
+)
+
+qt_internal_add_sbom(Translations
+    TYPE QT_TRANSLATIONS
+    QT_LICENSE_ID "QT_COMMERCIAL_OR_BSD3"
+)
+
+qt_internal_sbom_add_files(Translations
+    FILES "${qm_files}"
+    SOURCE_FILES_PER_INPUT_FILE "${ts_files}"
+    FILE_TYPE "QT_TRANSLATION"
+    INSTALL_PATH "${INSTALL_TRANSLATIONSDIR}"
+)
+
+qt_internal_sbom_add_files(Translations
+    FILES "${catalogs_file}"
+    SOURCE_FILES "${catalogs_file}"
+    FILE_TYPE "QT_TRANSLATIONS_CATALOG"
+    INSTALL_PATH "${catalogs_file_install_dir}"
 )
