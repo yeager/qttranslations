@@ -12,10 +12,6 @@
         <translation>Kunde inte läsa in mediakällans spår</translation>
     </message>
     <message>
-        <source>No audio tracks found</source>
-        <translation>Inga ljudspår hittades</translation>
-    </message>
-    <message>
         <source>Unsupported source format</source>
         <translation>Källformatet stöds inte</translation>
     </message>

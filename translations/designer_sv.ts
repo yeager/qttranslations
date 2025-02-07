@@ -48,7 +48,7 @@
     </message>
     <message>
         <source>&amp;Pixmap Function</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pixmap-funktion</translation>
     </message>
     <message>
         <source>&amp;Author</source>
@@ -60,11 +60,11 @@
     </message>
     <message>
         <source>Layout &amp;Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg ut s&amp;tandard</translation>
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;vstånd:</translation>
     </message>
     <message>
         <source>&amp;Margin:</source>
@@ -72,7 +72,7 @@
     </message>
     <message>
         <source>&amp;Layout Function</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lägg ut funktion</translation>
     </message>
     <message>
         <source>Ma&amp;rgin:</source>
@@ -80,7 +80,7 @@
     </message>
     <message>
         <source>Spa&amp;cing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Avstå&amp;nd:</translation>
     </message>
     <message>
         <source>Connections</source>
@@ -88,7 +88,7 @@
     </message>
     <message>
         <source>Connect slots by name</source>
-        <translation>Anslut platser efter namn</translation>
+        <translation>Anslut slots efter namn</translation>
     </message>
 </context>
 <context>
@@ -122,7 +122,7 @@
     </message>
     <message>
         <source>horizontalSpacer</source>
-        <translation type="unfinished"></translation>
+        <translation>horizontalSpacer</translation>
     </message>
     <message>
         <source>Property Type</source>
@@ -135,12 +135,14 @@
     <message>
         <source>The current object already has a property named &apos;%1&apos;.
 Please select another, unique one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det aktuella objektet har redan ett egenskap med namnet &quot;%1&quot;.
+Välj ett annat och unikt namn.</translation>
     </message>
     <message>
         <source>The &apos;_q_&apos; prefix is reserved for the Qt library.
 Please select another name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prefixet &apos;_q_&apos; är reserverat för Qt-biblioteket.
+Välj ett annat namn.</translation>
     </message>
 </context>
 <context>
@@ -281,7 +283,7 @@ Please select another name.</source>
     <message>
         <source>Tristate CheckBox</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Trelägeskryssruta</translation>
     </message>
     <message>
         <source>PushButton</source>
@@ -306,7 +308,7 @@ Please select another name.</source>
     <message>
         <source>Item Views</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>Objektvyer</translation>
+        <translation>Postvyer</translation>
     </message>
     <message>
         <source>Column 1</source>
@@ -316,32 +318,32 @@ Please select another name.</source>
     <message>
         <source>Top Level 1</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Toppnivå 1</translation>
     </message>
     <message>
         <source>Nested Item 1</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>Nästlat objekt 1</translation>
+        <translation>Nästlad post 1</translation>
     </message>
     <message>
         <source>Nested Item 2</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>Nästlat objekt 2</translation>
+        <translation>Nästlad post 2</translation>
     </message>
     <message>
         <source>Nested Item 3</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>Nästlat objekt 3</translation>
+        <translation>Nästlad post 3</translation>
     </message>
     <message>
         <source>Simple Input Widgets</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Enkla inmatningswidgetar</translation>
     </message>
     <message>
         <source>LineEdit</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>LineEdit</translation>
     </message>
     <message>
         <source>ComboBox</source>
@@ -351,12 +353,12 @@ Please select another name.</source>
     <message>
         <source>Item1</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>Objekt1</translation>
+        <translation>Post1</translation>
     </message>
     <message>
         <source>Item2</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>Objekt2</translation>
+        <translation>Post2</translation>
     </message>
     <message>
         <source>Display Widgets</source>
@@ -445,18 +447,18 @@ Please select another name.</source>
     </message>
     <message>
         <source>Show signals and slots inherited from QWidget</source>
-        <translation>Visa signaler och platser ärvda från QWidget</translation>
+        <translation>Visa signaler och slots ärvda från QWidget</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::ItemListEditor</name>
     <message>
         <source>Items List</source>
-        <translation>Objektlista</translation>
+        <translation>Postlista</translation>
     </message>
     <message>
         <source>New Item</source>
-        <translation>Nytt objekt</translation>
+        <translation>Ny post</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -464,7 +466,7 @@ Please select another name.</source>
     </message>
     <message>
         <source>Delete Item</source>
-        <translation>Ta bort objekt</translation>
+        <translation>Ta bort post</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -472,7 +474,7 @@ Please select another name.</source>
     </message>
     <message>
         <source>Move Item Up</source>
-        <translation>Flytta objekt upp</translation>
+        <translation>Flytta post upp</translation>
     </message>
     <message>
         <source>U</source>
@@ -480,7 +482,7 @@ Please select another name.</source>
     </message>
     <message>
         <source>Move Item Down</source>
-        <translation>Flytta objekt ner</translation>
+        <translation>Flytta post ner</translation>
     </message>
     <message>
         <source>D</source>
@@ -503,11 +505,11 @@ Please select another name.</source>
     </message>
     <message>
         <source>&amp;Items</source>
-        <translation>&amp;Redigera</translation>
+        <translation>&amp;Poster</translation>
     </message>
     <message>
         <source>Table Items</source>
-        <translation>Tabellobjekt</translation>
+        <translation>Tabellposter</translation>
     </message>
     <message>
         <source>Properties &amp;&gt;&gt;</source>
@@ -542,11 +544,11 @@ Please select another name.</source>
     </message>
     <message>
         <source>&amp;Items</source>
-        <translation>&amp;Objekt</translation>
+        <translation>&amp;Poster</translation>
     </message>
     <message>
         <source>Tree Items</source>
-        <translation>Trädobjekt</translation>
+        <translation>Trädposter</translation>
     </message>
     <message>
         <source>1</source>
@@ -554,7 +556,7 @@ Please select another name.</source>
     </message>
     <message>
         <source>New Item</source>
-        <translation>Nytt objekt</translation>
+        <translation>Ny post</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -562,15 +564,15 @@ Please select another name.</source>
     </message>
     <message>
         <source>New Subitem</source>
-        <translation>Nytt underobjekt</translation>
+        <translation>Ny underpost</translation>
     </message>
     <message>
         <source>New &amp;Subitem</source>
-        <translation>Nytt &amp;underobjekt</translation>
+        <translation>Ny &amp;underpost</translation>
     </message>
     <message>
         <source>Delete Item</source>
-        <translation>Ta bort objekt</translation>
+        <translation>Ta bort post</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -578,7 +580,7 @@ Please select another name.</source>
     </message>
     <message>
         <source>Move Item Left (before Parent Item)</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta post åt vänster (före Förälder-post)</translation>
     </message>
     <message>
         <source>L</source>
@@ -586,7 +588,7 @@ Please select another name.</source>
     </message>
     <message>
         <source>Move Item Right (as a First Subitem of the Next Sibling Item)</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta post åt höger (som en Första underpost för Nästa syskon-post)</translation>
     </message>
     <message>
         <source>R</source>
@@ -594,7 +596,7 @@ Please select another name.</source>
     </message>
     <message>
         <source>Move Item Up</source>
-        <translation>Flytta objekt upp</translation>
+        <translation>Flytta post upp</translation>
     </message>
     <message>
         <source>U</source>
@@ -602,7 +604,7 @@ Please select another name.</source>
     </message>
     <message>
         <source>Move Item Down</source>
-        <translation>Flytta objekt ner</translation>
+        <translation>Flytta post ner</translation>
     </message>
     <message>
         <source>D</source>
@@ -622,7 +624,7 @@ Please select another name.</source>
     </message>
     <message>
         <source>Per column properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Per kolumn-egenskaper</translation>
     </message>
     <message>
         <source>Common properties</source>
@@ -856,7 +858,7 @@ Vill du skriva över mallen?</translation>
     </message>
     <message>
         <source>QVGA portrait (240x320)</source>
-        <translation>Stående QVGA  (240x320)</translation>
+        <translation>Stående QVGA (240x320)</translation>
     </message>
     <message>
         <source>QVGA landscape (320x240)</source>
@@ -1035,15 +1037,15 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>newPrefix</source>
-        <translation type="unfinished"></translation>
+        <translation>nyttPrefix</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;b&gt;Warning:&lt;/b&gt; The file&lt;/p&gt;&lt;p&gt;%1&lt;/p&gt;&lt;p&gt;is outside of the current resource file&apos;s parent directory.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Varning:&lt;/b&gt; Filen&lt;/p&gt;&lt;p&gt;%1&lt;/p&gt;&lt;p&gt;är utanför den aktuella resursfilens föräldrakatalog.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;To resolve the issue, press:&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Copy&lt;/th&gt;&lt;td&gt;to copy the file to the resource file&apos;s parent directory.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Copy As...&lt;/th&gt;&lt;td&gt;to copy the file into a subdirectory of the resource file&apos;s parent directory.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Keep&lt;/th&gt;&lt;td&gt;to use its current location.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;För att lösa problemen, tryck:&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Kopiera&lt;/th&gt;&lt;td&gt;för att kopiera filen till resursfilens föräldrakatalog.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Kopiera som...&lt;/th&gt;&lt;td&gt;för att kopiera filen till en underkatalog till resursfilens föräldrakatalog.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Behåll&lt;/th&gt;&lt;td&gt;för att använda dess aktuella plats.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</translation>
     </message>
     <message>
         <source>Add Files</source>
@@ -1076,7 +1078,8 @@ Vill du ersätta den?</translation>
     <message>
         <source>Enter the suffix which you want to add to the names of the cloned files.
 This could for example be a language extension like &quot;_de&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange suffixet som du vill lägga till namnen för de klonade filerna.
+Detta kan till exempel vara en språkändelse som &quot;_sv&quot;.</translation>
     </message>
     <message>
         <source>Copy As</source>
@@ -1084,7 +1087,7 @@ This could for example be a language extension like &quot;_de&quot;.</source>
     </message>
     <message>
         <source>&lt;p&gt;The selected file:&lt;/p&gt;&lt;p&gt;%1&lt;/p&gt;&lt;p&gt;is outside of the current resource file&apos;s directory:&lt;/p&gt;&lt;p&gt;%2&lt;/p&gt;&lt;p&gt;Please select another path within this directory.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Den markerade filen:&lt;/p&gt;&lt;p&gt;%1&lt;/p&gt;&lt;p&gt;är utanför den aktuella resursfilens katalog:&lt;/p&gt;&lt;p&gt;%2&lt;/p&gt;&lt;p&gt;Välj en annan sökväg inom denna katalog.&lt;p&gt;</translation>
     </message>
     <message>
         <source>Could not overwrite %1.</source>
@@ -1176,7 +1179,7 @@ till
     </message>
     <message>
         <source>&lt;html&gt;&lt;p&gt;&lt;b&gt;Warning:&lt;/b&gt; There have been problems while reloading the resources:&lt;/p&gt;&lt;pre&gt;%1&lt;/pre&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;p&gt;&lt;b&gt;Varning:&lt;/b&gt; Det har varit problem vid omläsning av resurserna:&lt;/p&gt;&lt;pre&gt;%1&lt;/pre&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Resource Warning</source>
@@ -1187,7 +1190,7 @@ till
     <name>SelectSignalDialog</name>
     <message>
         <source>Go to slot</source>
-        <translation>Gå till plats</translation>
+        <translation>Gå till slot</translation>
     </message>
     <message>
         <source>Select signal</source>
@@ -1206,11 +1209,11 @@ till
     <name>SignalSlotDialogClass</name>
     <message>
         <source>Signals and slots</source>
-        <translation>Signaler och platser</translation>
+        <translation>Signaler och slots</translation>
     </message>
     <message>
         <source>Slots</source>
-        <translation>Platser</translation>
+        <translation>Slots</translation>
     </message>
     <message>
         <source>Add</source>
@@ -1269,7 +1272,7 @@ till
     </message>
     <message>
         <source>This area shows a preview of the gradient being edited. It also allows you to edit parameters specific to the gradient&apos;s type such as start and final point, radius, etc. by drag &amp; drop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna yta visar en förhandsvisning av gradienten som redigeras. Den låter dig redigera parametrar specifika till gradientens typ såsom start- och slutpunkt, radie, etc. med dra och släpp.</translation>
     </message>
     <message>
         <source>1</source>
@@ -1293,11 +1296,11 @@ till
     </message>
     <message>
         <source>Gradient Stops Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigerare för gradientstopp</translation>
     </message>
     <message>
         <source>This area allows you to edit gradient stops. Double click on the existing stop handle to duplicate it. Double click outside of the existing stop handles to create a new stop. Drag &amp; drop the handle to reposition it. Use right mouse button to popup context menu with extra actions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna yta låter dig att redigera gradientstopp. Dubbelklicka på befintligt stopphandtag för att duplicera det. Dubbelklicka utanför befintligt stopphandtag för att skapa ett nytt stopp. Dra och släpp handtag för att positionera om det. Använd höger musknapp för att visa en kontextmeny med extraåtgärder.</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -1341,7 +1344,7 @@ till
     </message>
     <message>
         <source>Val</source>
-        <translation type="unfinished"></translation>
+        <translation>Vär</translation>
     </message>
     <message>
         <source>Alpha</source>
@@ -1357,7 +1360,7 @@ till
     </message>
     <message>
         <source>Spread</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprid</translation>
     </message>
     <message>
         <source>Color</source>
@@ -1365,7 +1368,7 @@ till
     </message>
     <message>
         <source>Current stop&apos;s color</source>
-        <translation type="unfinished"></translation>
+        <translation>Färg för aktuellt stopp</translation>
     </message>
     <message>
         <source>Show HSV specification</source>
@@ -1385,7 +1388,7 @@ till
     </message>
     <message>
         <source>Current stop&apos;s position</source>
-        <translation type="unfinished"></translation>
+        <translation>Position för aktuellt stopp</translation>
     </message>
     <message>
         <source>%</source>
@@ -1401,7 +1404,7 @@ till
     </message>
     <message>
         <source>Toggle details extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla detaljutökning</translation>
     </message>
     <message>
         <source>&gt;</source>
@@ -1425,15 +1428,15 @@ till
     </message>
     <message>
         <source>Pad Spread</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyll sprid</translation>
     </message>
     <message>
         <source>Repeat Spread</source>
-        <translation type="unfinished"></translation>
+        <translation>Upprepa sprid</translation>
     </message>
     <message>
         <source>Reflect Spread</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflektera sprid</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -1449,7 +1452,7 @@ till
     </message>
     <message>
         <source>Pad</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyll</translation>
     </message>
     <message>
         <source>Repeat</source>
@@ -1461,35 +1464,35 @@ till
     </message>
     <message>
         <source>Start X</source>
-        <translation type="unfinished"></translation>
+        <translation>Start X</translation>
     </message>
     <message>
         <source>Start Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Y</translation>
     </message>
     <message>
         <source>Final X</source>
-        <translation type="unfinished"></translation>
+        <translation>Slut X</translation>
     </message>
     <message>
         <source>Final Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Slut Y</translation>
     </message>
     <message>
         <source>Central X</source>
-        <translation type="unfinished"></translation>
+        <translation>Central X</translation>
     </message>
     <message>
         <source>Central Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Central Y</translation>
     </message>
     <message>
         <source>Focal X</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokal X</translation>
     </message>
     <message>
         <source>Focal Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokal Y</translation>
     </message>
     <message>
         <source>Radius</source>
@@ -1847,15 +1850,15 @@ till
     </message>
     <message>
         <source>Object Naming Convention</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnkonvention för objekt</translation>
     </message>
     <message>
         <source>Naming convention used for generating action object names from their text</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnkonvention att använda för att generera namn för åtgärdsobjekt från deras text</translation>
     </message>
     <message>
         <source>Camel Case</source>
-        <translation type="unfinished"></translation>
+        <translation>Kamelnotation</translation>
     </message>
     <message>
         <source>Underscore</source>
@@ -1882,11 +1885,11 @@ till
     </message>
     <message>
         <source>Key Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Key Resize</translation>
     </message>
     <message>
         <source>Key Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Key Move</translation>
     </message>
     <message numerus="yes">
         <source>Paste %n action(s)</source>
@@ -1908,11 +1911,11 @@ till
     </message>
     <message>
         <source>Cannot paste widgets. Designer could not find a container without a layout to paste into.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte klistra in widgetar. Designer kunde inte hitta en container utan en layout att klistra in i.</translation>
     </message>
     <message>
         <source>Break the layout of the container you want to paste into, select this container and then paste again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bryt layouten för containern som du vill klistra in i, välj denna container och klistra sedan in igen.</translation>
     </message>
     <message>
         <source>Paste error</source>
@@ -1920,15 +1923,15 @@ till
     </message>
     <message>
         <source>Raise widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>Höj widgetar</translation>
     </message>
     <message>
         <source>Lower widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>Sänk widgetar</translation>
     </message>
     <message>
         <source>Select Ancestor</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj anhörig</translation>
     </message>
     <message>
         <source>Lay out</source>
@@ -1936,11 +1939,11 @@ till
     </message>
     <message>
         <source>Drop widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Släpp widget</translation>
     </message>
     <message>
         <source>A QMainWindow-based form does not contain a central widget.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett QMainWindow-baserat formulär innehåller inte en central widget.</translation>
     </message>
 </context>
 <context>
@@ -2054,19 +2057,19 @@ till
     </message>
     <message>
         <source>Lay Out Horizontally in S&amp;plitter</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg ut horisontellt i s&amp;plitter</translation>
     </message>
     <message>
         <source>Lays out the selected widgets horizontally in a splitter</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger ut markerade widgetar horisontellt i en splitter</translation>
     </message>
     <message>
         <source>Lay Out Vertically in Sp&amp;litter</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg ut vertikalt i s&amp;plitter</translation>
     </message>
     <message>
         <source>Lays out the selected widgets vertically in a splitter</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger ut markerade widgetar vertikalt i en splitter</translation>
     </message>
     <message>
         <source>&amp;Break Layout</source>
@@ -2172,7 +2175,8 @@ till
     <message>
         <source>The container extension of the widget &apos;%1&apos; (%2) returned a widget not managed by Designer &apos;%3&apos; (%4) when queried for page #%5.
 Container pages should only be added by specifying them in XML returned by the domXml() method of the custom widget.</source>
-        <translation type="unfinished"></translation>
+        <translation>Containerutökningen för widgeten &apos;%1&apos; (%2) returnerade en widget som inte hanteras av Designer &apos;%3&apos; (%4) när frågade efter sida #%5.
+Containersidor bör endast läggas till genom att specifiera dem i XML returnerad av domXml()-metodeb för anpassade widgeten.</translation>
     </message>
     <message>
         <source>Unexpected element &lt;%1&gt;</source>
@@ -2182,12 +2186,12 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <source>Error while pasting clipboard contents at line %1, column %2: %3</source>
         <extracomment>Parsing clipboard contents</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid inklistring av urklippsinnehåll på rad %1, kolumn %2: %3</translation>
     </message>
     <message>
         <source>Error while pasting clipboard contents: The root element &lt;ui&gt; is missing.</source>
         <extracomment>Parsing clipboard contents</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid inklistring av urklippsinnehåll: Rotelementet &lt;ui&gt; saknas.</translation>
     </message>
 </context>
 <context>
@@ -2258,63 +2262,63 @@ Container pages should only be added by specifying them in XML returned by the d
     <name>BrushPropertyManager</name>
     <message>
         <source>No brush</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen pensel</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>Fast</translation>
     </message>
     <message>
         <source>Dense 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tät 1</translation>
     </message>
     <message>
         <source>Dense 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tät 2</translation>
     </message>
     <message>
         <source>Dense 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Tät 3</translation>
     </message>
     <message>
         <source>Dense 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Tät 4</translation>
     </message>
     <message>
         <source>Dense 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Tät 5</translation>
     </message>
     <message>
         <source>Dense 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Tät 6</translation>
     </message>
     <message>
         <source>Dense 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Tät 7</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horisontell</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <source>Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Kors</translation>
     </message>
     <message>
         <source>Backward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakvänd diagonal</translation>
     </message>
     <message>
         <source>Forward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Framåt diagonal</translation>
     </message>
     <message>
         <source>Crossing diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Korsande diagonal</translation>
     </message>
     <message>
         <source>Style</source>
@@ -2344,7 +2348,7 @@ Container pages should only be added by specifying them in XML returned by the d
     <name>qdesigner_internal::DesignerPropertyManager</name>
     <message>
         <source>disambiguation</source>
-        <translation type="unfinished"></translation>
+        <translation>disambiguering</translation>
     </message>
     <message>
         <source>id</source>
@@ -2352,31 +2356,31 @@ Container pages should only be added by specifying them in XML returned by the d
     </message>
     <message>
         <source>AlignLeft</source>
-        <translation type="unfinished"></translation>
+        <translation>AlignLeft</translation>
     </message>
     <message>
         <source>AlignHCenter</source>
-        <translation type="unfinished"></translation>
+        <translation>AlignHCenter</translation>
     </message>
     <message>
         <source>AlignRight</source>
-        <translation type="unfinished"></translation>
+        <translation>AlignRight</translation>
     </message>
     <message>
         <source>AlignJustify</source>
-        <translation type="unfinished"></translation>
+        <translation>AlignJustify</translation>
     </message>
     <message>
         <source>AlignTop</source>
-        <translation type="unfinished"></translation>
+        <translation>AlignTop</translation>
     </message>
     <message>
         <source>AlignVCenter</source>
-        <translation type="unfinished"></translation>
+        <translation>AlignVCenter</translation>
     </message>
     <message>
         <source>AlignBottom</source>
-        <translation type="unfinished"></translation>
+        <translation>AlignBottom</translation>
     </message>
     <message>
         <source>%1, %2</source>
@@ -2465,35 +2469,35 @@ Container pages should only be added by specifying them in XML returned by the d
     <name>FontPropertyManager</name>
     <message>
         <source>PreferDefault</source>
-        <translation type="unfinished"></translation>
+        <translation>PreferDefault</translation>
     </message>
     <message>
         <source>NoAntialias</source>
-        <translation type="unfinished"></translation>
+        <translation>NoAntialias</translation>
     </message>
     <message>
         <source>PreferAntialias</source>
-        <translation type="unfinished"></translation>
+        <translation>PreferAntialias</translation>
     </message>
     <message>
         <source>PreferDefaultHinting</source>
         <comment>QFont::StyleStrategy combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>PreferDefaultHinting</translation>
     </message>
     <message>
         <source>PreferNoHinting</source>
         <comment>QFont::StyleStrategy combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>PreferNoHinting</translation>
     </message>
     <message>
         <source>PreferVerticalHinting</source>
         <comment>QFont::StyleStrategy combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>PreferVerticalHinting</translation>
     </message>
     <message>
         <source>PreferFullHinting</source>
         <comment>QFont::StyleStrategy combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>PreferFullHinting</translation>
     </message>
     <message>
         <source>Antialiasing</source>
@@ -2501,7 +2505,7 @@ Container pages should only be added by specifying them in XML returned by the d
     </message>
     <message>
         <source>HintingPreference</source>
-        <translation type="unfinished"></translation>
+        <translation>HintingPreference</translation>
     </message>
     <message>
         <source>Thin</source>
@@ -2511,7 +2515,7 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <source>ExtraLight</source>
         <comment>QFont::Weight combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>ExtraLight</translation>
     </message>
     <message>
         <source>Light</source>
@@ -2531,7 +2535,7 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <source>DemiBold</source>
         <comment>QFont::Weight combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>DemiBold</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -2541,7 +2545,7 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <source>ExtraBold</source>
         <comment>QFont::Weight combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>ExtraBold</translation>
     </message>
     <message>
         <source>Black</source>
@@ -2637,7 +2641,7 @@ Container pages should only be added by specifying them in XML returned by the d
     </message>
     <message>
         <source>%1 (fallback)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (fall tillbaka)</translation>
     </message>
 </context>
 <context>
@@ -2674,7 +2678,7 @@ rulla, rulla liten bulla.</translation>
     </message>
     <message>
         <source>Drop Down Button View</source>
-        <translation type="unfinished"></translation>
+        <translation>Rullgardinsknappvy</translation>
     </message>
     <message>
         <source>String...</source>
@@ -2682,11 +2686,11 @@ rulla, rulla liten bulla.</translation>
     </message>
     <message>
         <source>Bool...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bool...</translation>
     </message>
     <message>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>Annan...</translation>
     </message>
     <message>
         <source>Configure Property Editor</source>
@@ -2714,7 +2718,7 @@ Klass: %2</translation>
     <name>SignalSlotConnection</name>
     <message>
         <source>SENDER(%1), SIGNAL(%2), RECEIVER(%3), SLOT(%4)</source>
-        <translation>AVSÄNDARE(%1), SIGNAL(%2), MOTTAGARE (%3), PLATS(%4)</translation>
+        <translation>AVSÄNDARE(%1), SIGNAL(%2), MOTTAGARE (%3), SLOT(%4)</translation>
     </message>
 </context>
 <context>
@@ -2725,11 +2729,11 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Change slot</source>
-        <translation>Ändra plats</translation>
+        <translation>Ändra slot</translation>
     </message>
     <message>
         <source>Change signal-slot connection</source>
-        <translation>Ändra signal-plats-anslutning</translation>
+        <translation>Ändra signal-slot-anslutning</translation>
     </message>
     <message>
         <source>Change sender</source>
@@ -2816,7 +2820,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Reparent &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny förälder för &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Promote to custom widget</source>
@@ -2824,7 +2828,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Demote from custom widget</source>
-        <translation>Demotera från anpassad widget</translation>
+        <translation>Degradera från anpassad widget</translation>
     </message>
     <message>
         <source>Lay out using grid</source>
@@ -2896,11 +2900,11 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Change Form Layout Item Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra formulärlayoutpost för geometri</translation>
     </message>
     <message>
         <source>Change Layout Item Geometry</source>
-        <translation>Ändra layoutobjektets geometri</translation>
+        <translation>Ändra layoutpostens geometri</translation>
     </message>
     <message>
         <source>Delete Subwindow</source>
@@ -3020,14 +3024,14 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Change signals/slots</source>
-        <translation>Ändra signaler/platser</translation>
+        <translation>Ändra signaler/slots</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::SignalSlotEditorPlugin</name>
     <message>
         <source>Edit Signals/Slots</source>
-        <translation>Redigera signaler/platser</translation>
+        <translation>Redigera signaler/slots</translation>
     </message>
     <message>
         <source>F4</source>
@@ -3038,7 +3042,7 @@ Klass: %2</translation>
     <name>qdesigner_internal::SignalSlotEditorTool</name>
     <message>
         <source>Edit Signals/Slots</source>
-        <translation>Redigera signaler/platser</translation>
+        <translation>Redigera signaler/slots</translation>
     </message>
 </context>
 <context>
@@ -3057,7 +3061,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Slot</source>
-        <translation>Plats</translation>
+        <translation>Slot</translation>
     </message>
     <message>
         <source>&lt;sender&gt;</source>
@@ -3073,7 +3077,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>&lt;slot&gt;</source>
-        <translation>&lt;plats&gt;</translation>
+        <translation>&lt;slot&gt;</translation>
     </message>
     <message>
         <source>The connection already exists!&lt;br&gt;%1</source>
@@ -3081,7 +3085,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Signal and Slot Editor</source>
-        <translation>Redigera signal och platser</translation>
+        <translation>Redigera signal och slots</translation>
     </message>
 </context>
 <context>
@@ -3096,7 +3100,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>&lt;slot&gt;</source>
-        <translation>&lt;plats&gt;</translation>
+        <translation>&lt;slot&gt;</translation>
     </message>
 </context>
 <context>
@@ -3185,7 +3189,7 @@ Klass: %2</translation>
     <name>qdesigner_internal::ComboBoxTaskMenu</name>
     <message>
         <source>Edit Items...</source>
-        <translation>Redigera objekt...</translation>
+        <translation>Redigera poster...</translation>
     </message>
     <message>
         <source>Change Combobox Contents</source>
@@ -3250,11 +3254,11 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Bricka</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation>Cascade</translation>
     </message>
 </context>
 <context>
@@ -3269,7 +3273,7 @@ Klass: %2</translation>
     <message>
         <source>XX Icon Selected off</source>
         <extracomment>Sample string to determinate the width for the first column of the list item property browser</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>XX-ikon markerad av</translation>
     </message>
 </context>
 <context>
@@ -3284,15 +3288,15 @@ Klass: %2</translation>
     </message>
     <message>
         <source>DragEnabled</source>
-        <translation type="unfinished"></translation>
+        <translation>DragEnabled</translation>
     </message>
     <message>
         <source>DropEnabled</source>
-        <translation type="unfinished"></translation>
+        <translation>DropEnabled</translation>
     </message>
     <message>
         <source>UserCheckable</source>
-        <translation type="unfinished"></translation>
+        <translation>UserCheckable</translation>
     </message>
     <message>
         <source>Enabled</source>
@@ -3300,15 +3304,15 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Tristate</source>
-        <translation type="unfinished"></translation>
+        <translation>Treläge</translation>
     </message>
     <message>
         <source>Unchecked</source>
-        <translation type="unfinished"></translation>
+        <translation>Avmarkerad</translation>
     </message>
     <message>
         <source>PartiallyChecked</source>
-        <translation type="unfinished"></translation>
+        <translation>PartiallyChecked</translation>
     </message>
     <message>
         <source>Checked</source>
@@ -3337,7 +3341,7 @@ Klass: %2</translation>
     <name>qdesigner_internal::ListWidgetTaskMenu</name>
     <message>
         <source>Edit Items...</source>
-        <translation>Redigera objekt...</translation>
+        <translation>Redigera poster...</translation>
     </message>
     <message>
         <source>Change List Contents</source>
@@ -3348,7 +3352,7 @@ Klass: %2</translation>
     <name>qdesigner_internal::ListWidgetEditor</name>
     <message>
         <source>New Item</source>
-        <translation>Nytt objekt</translation>
+        <translation>Ny post</translation>
     </message>
     <message>
         <source>Edit List Widget</source>
@@ -3370,7 +3374,7 @@ Klass: %2</translation>
     <name>qdesigner_internal::TableWidgetTaskMenu</name>
     <message>
         <source>Edit Items...</source>
-        <translation>Redigera objekt...</translation>
+        <translation>Redigera poster...</translation>
     </message>
 </context>
 <context>
@@ -3421,7 +3425,7 @@ Klass: %2</translation>
     <name>qdesigner_internal::WidgetBoxTreeWidget</name>
     <message>
         <source>Scratchpad</source>
-        <translation type="unfinished"></translation>
+        <translation>Skissblock</translation>
     </message>
     <message>
         <source>Custom Widgets</source>
@@ -3429,11 +3433,11 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Expand all</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäll ut alla</translation>
     </message>
     <message>
         <source>Collapse all</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäll in alla</translation>
     </message>
     <message>
         <source>List View</source>
@@ -3479,7 +3483,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>The font file &apos;%1&apos; does not have read permissions.</source>
-        <translation>Typsnittsfilen &quot;%1&quot; har inte läsbehärigheter.</translation>
+        <translation>Typsnittsfilen &quot;%1&quot; har inte läsbehörigheter.</translation>
     </message>
     <message>
         <source>The font file &apos;%1&apos; is already loaded.</source>
@@ -3491,15 +3495,15 @@ Klass: %2</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is not a valid font id.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; är inte ett giltigt typsnitts-id.</translation>
     </message>
     <message>
         <source>There is no loaded font matching the id &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det finns inget inläst typsnitt som matchar id &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The font &apos;%1&apos; (%2) could not be unloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Typsnittet &quot;%1&quot; (%2) kunde inte läsas ur.</translation>
     </message>
 </context>
 <context>
@@ -3549,14 +3553,14 @@ Klass: %2</translation>
     <name>AppFontDialog</name>
     <message>
         <source>Additional Fonts</source>
-        <translation>Ytterligare typsnitt</translation>
+        <translation>Fler typsnitt</translation>
     </message>
 </context>
 <context>
     <name>AssistantClient</name>
     <message>
         <source>Unable to send request: Assistant is not responding.</source>
-        <translation>Kunde inte skicka begäran. Assistent svarar inte.</translation>
+        <translation>Kunde inte skicka begäran: Assistent svarar inte.</translation>
     </message>
     <message>
         <source>The binary &apos;%1&apos; does not exist.</source>
@@ -3939,7 +3943,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Multiple Top-Level Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Flera toppnivåfönster</translation>
     </message>
     <message>
         <source>Toolwindow Font</source>
@@ -3993,7 +3997,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Signal/Slot Editor</source>
-        <translation>Redigera signal/plats</translation>
+        <translation>Redigera signal/slot</translation>
     </message>
     <message>
         <source>Widget Box</source>
@@ -4109,7 +4113,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Go to slot...</source>
-        <translation>Gå till plats...</translation>
+        <translation>Gå till slot...</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -4292,7 +4296,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>&lt;p&gt;This file contains top level spacers.&lt;br/&gt;They will &lt;b&gt;not&lt;/b&gt; be saved.&lt;/p&gt;&lt;p&gt;Perhaps you forgot to create a layout?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Denna fil innehåller toppnivå-spacers.&lt;br/&gt;De kommer &lt;b&gt;inte&lt;/b&gt; att sparas.&lt;/p&gt;&lt;p&gt;Kanske du glömde att skapa en layout?&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -4427,7 +4431,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Qt Widgets Designer found the following plugins</source>
-        <translation>Qt Widgets Designer hittades följande insticksmoduler</translation>
+        <translation>Qt Widgets Designer hittade följande insticksmoduler</translation>
     </message>
     <message>
         <source>New custom widget plugins have been found.</source>
@@ -4443,7 +4447,7 @@ Anledning: %2</translation>
     <name>QDesignerPluginManager</name>
     <message>
         <source>An XML error was encountered when parsing the XML of the custom widget %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett XML-fel påträffades vid tolkning av XML för anpassade widgeten %1: %2</translation>
     </message>
     <message>
         <source>A required attribute (&apos;%1&apos;) is missing.</source>
@@ -4451,23 +4455,23 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is not a valid string property specification.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; är inte en giltig specifikation för string-egenskap.</translation>
     </message>
     <message>
         <source>An invalid property specification (&apos;%1&apos;) was encountered. Supported types: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>En ogiltig egenskapsspecifikation (&quot;%1&quot;) påträffades. Typer som stöds: %2</translation>
     </message>
     <message>
         <source>The XML of the custom widget %1 does not contain any of the elements &lt;widget&gt; or &lt;ui&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>XML för anpassad widget %1 innehåller inte något av elementet &lt;widget&gt; eller &lt;ui&gt;.</translation>
     </message>
     <message>
         <source>The class attribute for the class %1 is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassattributet för klassen %1 saknas.</translation>
     </message>
     <message>
         <source>The class attribute for the class %1 does not match the class name %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassattributet för klassen %1 stämmer inte överens med klassnamnet %2.</translation>
     </message>
 </context>
 <context>
@@ -4585,7 +4589,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Change signals/slots...</source>
-        <translation>Ändra signaler/platser...</translation>
+        <translation>Ändra signaler/slots...</translation>
     </message>
     <message>
         <source>Promote to</source>
@@ -4593,7 +4597,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Demote to %1</source>
-        <translation>Demotera till %1</translation>
+        <translation>Degradera till %1</translation>
     </message>
 </context>
 <context>
@@ -4727,19 +4731,19 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Header file for C++ classes or module name for Qt for Python.</source>
-        <translation type="unfinished"></translation>
+        <translation>Header-fil för C++-klasser eller modulnamn för Qt for Python.</translation>
     </message>
     <message>
         <source>Header file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Header-fil:</translation>
     </message>
     <message>
         <source>Indicates that the header file is a global header file. Does not have any effect on Qt for Python.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indikerar att header-filen är en global header-fil. Har inte någon effekt på Qt for Python.</translation>
     </message>
     <message>
         <source>Global include</source>
-        <translation type="unfinished"></translation>
+        <translation>Global include</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -4762,7 +4766,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Change signals/slots...</source>
-        <translation>Ändra signaler/platser...</translation>
+        <translation>Ändra signaler/slots...</translation>
     </message>
     <message>
         <source>%1 - Error</source>
@@ -4936,11 +4940,11 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Change signals/slots...</source>
-        <translation>Ändra signaler/platser...</translation>
+        <translation>Ändra signaler/slots...</translation>
     </message>
     <message>
         <source>Go to slot...</source>
-        <translation>Gå till plats...</translation>
+        <translation>Gå till slot...</translation>
     </message>
     <message>
         <source>Size Constraints</source>
@@ -5171,11 +5175,11 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Upphöjt</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedsänkt</translation>
     </message>
     <message>
         <source>Insert &amp;Link</source>
@@ -5235,7 +5239,7 @@ Anledning: %2</translation>
     <name>qdesigner_internal::SignalSlotDialog</name>
     <message>
         <source>There is already a slot with the signature &apos;%1&apos;.</source>
-        <translation>Det finns redan en plats med signaturen &apos;%1&apos;.</translation>
+        <translation>Det finns redan en slot med signaturen &apos;%1&apos;.</translation>
     </message>
     <message>
         <source>There is already a signal with the signature &apos;%1&apos;.</source>
@@ -5247,14 +5251,14 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Signals/Slots of %1</source>
-        <translation>Signaler/Platser för %1</translation>
+        <translation>Signaler/Slots för %1</translation>
     </message>
 </context>
 <context>
     <name>Spacer</name>
     <message>
         <source>Horizontal Spacer &apos;%1&apos;, %2 x %3</source>
-        <translation>Horisontell utfyllnadr &apos;%1&apos;, %2 x %3</translation>
+        <translation>Horisontell utfyllnad &apos;%1&apos;, %2 x %3</translation>
     </message>
     <message>
         <source>Vertical Spacer &apos;%1&apos;, %2 x %3</source>
@@ -5296,11 +5300,11 @@ Anledning: %2</translation>
     <name>WidgetDataBase</name>
     <message>
         <source>Abstract base class that cannot be instantiated. For promotion/custom widget usage only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstrakt basklass som inte kan instansieras. Endast för promotion/anpassad widget-användning.</translation>
     </message>
     <message>
         <source>The file contains a custom widget &apos;%1&apos; whose base class (%2) differs from the current entry in the widget database (%3). The widget database is left unchanged.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen innehåller en anpassad widget &apos;%1&apos; vars basklass (%2) skiljer sig från aktuell post i widgetdatabasen (%3). Widgetdatabasen lämnas oförändrad.</translation>
     </message>
 </context>
 <context>
@@ -5314,24 +5318,25 @@ Anledning: %2</translation>
     <name>qdesigner_internal::WidgetFactory</name>
     <message>
         <source>The custom widget factory registered for widgets of class %1 returned 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassad widget factory registererad för widgetar av klassen %1 returnerade 0.</translation>
     </message>
     <message>
         <source>A class name mismatch occurred when creating a widget using the custom widget factory registered for widgets of class %1. It returned a widget of class %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett klassnamn stämmer inte överens inträffade vid skapandet av widget med anpassad widget factory registererad för widgetar av klassen %1. Den returnerade en widget av klassen %2.</translation>
     </message>
     <message>
         <source>%1 Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-widget</translation>
     </message>
     <message>
         <source>The current page of the container &apos;%1&apos; (%2) could not be determined while creating a layout.This indicates an inconsistency in the ui-file, probably a layout being constructed on a container widget.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell sida för containern &apos;%1&apos; (%2) kunde inte bestämmas vid skapandet av en layout. Detta indikerar en inkonsistens i ui-filen, antagligen en layout som blir konstruerad på en containerwidget.</translation>
     </message>
     <message>
         <source>Attempt to add a layout to a widget &apos;%1&apos; (%2) which already has an unmanaged layout of type %3.
 This indicates an inconsistency in the ui-file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Försök att lägga till en layout till en widget &apos;%1&apos; (%2) som redan har en ohanterad layout av typen %3.
+Detta indikerar en inkonsistens i ui-filen.</translation>
     </message>
     <message>
         <source>Cannot create style &apos;%1&apos;.</source>
@@ -5350,28 +5355,29 @@ This indicates an inconsistency in the ui-file.</source>
     <name>QAbstractFormBuilder</name>
     <message>
         <source>The creation of a widget of the class &apos;%1&apos; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapandet av en widget av klassen &quot;%1&quot; misslyckades.</translation>
     </message>
     <message>
         <source>Attempt to add child that is not of class QWizardPage to QWizard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Försökte lägga till barn som inte är av klassen QWizardPage till QWizard.</translation>
     </message>
     <message>
         <source>Attempt to add a layout to a widget &apos;%1&apos; (%2) which already has a layout of non-box type %3.
 This indicates an inconsistency in the ui-file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Försökte att lägga till en layout till en widget &apos;%1&apos; (%2) som redan har en layout av non-box-typen %3.
+Detta indikerar en inkonsistens i ui-filen.</translation>
     </message>
     <message>
         <source>Empty widget item in %1 &apos;%2&apos;.</source>
-        <translation>Tomt widget-objekt i %1 &apos;%2&apos;.</translation>
+        <translation>Tom widget-post i %1 &apos;%2&apos;.</translation>
     </message>
     <message>
         <source>Flags property are not supported yet.</source>
-        <translation>Flags-egenskaper stöd inte än.</translation>
+        <translation>Flags-egenskaper stöds inte än.</translation>
     </message>
     <message>
         <source>While applying tab stops: The widget &apos;%1&apos; could not be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vid tillämpning av tabulatorstopp: Widgeten &quot;%1&quot; kunde inte hittas.</translation>
     </message>
     <message>
         <source>Invalid QButtonGroup reference &apos;%1&apos; referenced by &apos;%2&apos;.</source>
@@ -5379,7 +5385,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>An error has occurred while reading the UI file at line %1, column %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett fel har inträffat vid läsning av UI-filen på rad %1, kolumn %2: %3</translation>
     </message>
     <message>
         <source>This file was created using Designer from Qt-%1 and cannot be read.</source>
@@ -5391,7 +5397,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Invalid UI file: The root element &lt;ui&gt; is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig UI-fil: Rotelementet &lt;ui&gt; saknas.</translation>
     </message>
     <message>
         <source>Invalid UI file</source>
@@ -5403,7 +5409,7 @@ This indicates an inconsistency in the ui-file.</source>
     <message>
         <source>An empty class name was passed on to %1 (object name: &apos;%2&apos;).</source>
         <extracomment>Empty class name passed to widget factory method</extracomment>
-        <translation>En  tomt klassnamn skickades vidare till %1 (objektnamn: &apos;%2&apos;).</translation>
+        <translation>En tomt klassnamn skickades vidare till %1 (objektnamn: &apos;%2&apos;).</translation>
     </message>
     <message>
         <source>QFormBuilder was unable to create a custom widget of the class &apos;%1&apos;; defaulting to base class &apos;%2&apos;.</source>
@@ -5419,7 +5425,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>The set-type property %1 could not be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskapen set-type %1 kunde inte läsas.</translation>
     </message>
     <message>
         <source>The value &quot;%1&quot; of the set-type property %2 could not be read.</source>
@@ -5427,11 +5433,11 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>The enumeration-type property %1 could not be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskapen enumeration-type %1 kunde inte läsas.</translation>
     </message>
     <message>
         <source>The value &quot;%1&quot; of the enum-type property %2 could not be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdet &quot;%1&quot; för egenskapen enum-type %2 kunde inte läsas.</translation>
     </message>
     <message>
         <source>Reading properties of the type %1 is not supported yet.</source>
@@ -5439,11 +5445,11 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>The property %1 could not be written. The type %2 is not supported yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskapen %1 kunde inte skrivas. Typen %2 stöds inte än.</translation>
     </message>
     <message>
         <source>The enumeration-value &apos;%1&apos; is invalid. The default value &apos;%2&apos; will be used instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>enumeration-value &apos;%1&apos; är ogiltig. Standardvärdet &apos;%2&apos; kommer att användas istället.</translation>
     </message>
     <message>
         <source>The flag-value &apos;%1&apos; is invalid. Zero will be used instead.</source>
@@ -5467,49 +5473,49 @@ This indicates an inconsistency in the ui-file.</source>
     <name>QAxWidgetPlugin</name>
     <message>
         <source>ActiveX control</source>
-        <translation type="unfinished"></translation>
+        <translation>ActiveX-kontroll</translation>
     </message>
     <message>
         <source>ActiveX control widget</source>
-        <translation type="unfinished"></translation>
+        <translation>ActiveX-kontrollwidget</translation>
     </message>
 </context>
 <context>
     <name>QDesignerAxWidget</name>
     <message>
         <source>Reset control</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ kontroll</translation>
     </message>
     <message>
         <source>Set control</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in kontroll</translation>
     </message>
     <message>
         <source>Control loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroll inläst</translation>
     </message>
     <message>
         <source>A COM exception occurred when executing a meta call of type %1, index %2 of &quot;%3&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett COM-undantag inträffade vid körning av en meta call av typen %1, index %2 av &quot;%3&quot;.</translation>
     </message>
 </context>
 <context>
     <name>QAxWidgetTaskMenu</name>
     <message>
         <source>Set Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in kontroll</translation>
     </message>
     <message>
         <source>Reset Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ kontroll</translation>
     </message>
     <message>
         <source>Licensed Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Licensierad kontroll</translation>
     </message>
     <message>
         <source>The control requires a design-time license</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroller kräver en designtidslicens</translation>
     </message>
 </context>
 <context>
@@ -5542,7 +5548,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>The skin configuration file &apos;%1&apos; could not be read: %2</source>
-        <translation>Skalkonfigurationsfilen &quot;%1&quot; kunde inte öppnas: %2</translation>
+        <translation>Skalkonfigurationsfilen &quot;%1&quot; kunde inte läsas: %2</translation>
     </message>
     <message>
         <source>Syntax error: %1</source>
@@ -5550,19 +5556,19 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>The skin &quot;up&quot; image file &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildfilen för skalet &quot;up&quot; &quot;%1&quot; finns inte.</translation>
     </message>
     <message>
         <source>The skin &quot;down&quot; image file &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildfilen för skalet &quot;down&quot; &quot;%1&quot; finns inte.</translation>
     </message>
     <message>
         <source>The skin &quot;closed&quot; image file &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildfilen för skalet &quot;closed&quot; &quot;%1&quot; finns inte.</translation>
     </message>
     <message>
         <source>The skin cursor image file &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildfilen för skalets markör &quot;%1&quot; finns inte.</translation>
     </message>
     <message>
         <source>Syntax error in area definition: %1</source>
@@ -5570,7 +5576,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Mismatch in number of areas, expected %1, got %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal ytor stämmer inte, förväntade %1, fick %2.</translation>
     </message>
 </context>
 <context>
@@ -5746,11 +5752,11 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Up Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pil upp</translation>
     </message>
     <message>
         <source>Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Kors</translation>
     </message>
     <message>
         <source>Wait</source>
@@ -5758,43 +5764,43 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>IBeam</source>
-        <translation type="unfinished"></translation>
+        <translation>I-balk</translation>
     </message>
     <message>
         <source>Size Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Storlek vertikal</translation>
     </message>
     <message>
         <source>Size Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Storlek horisontell</translation>
     </message>
     <message>
         <source>Size Backslash</source>
-        <translation type="unfinished"></translation>
+        <translation>Storlek omvänt snedstreck</translation>
     </message>
     <message>
         <source>Size Slash</source>
-        <translation type="unfinished"></translation>
+        <translation>Storlek backsteg</translation>
     </message>
     <message>
         <source>Size All</source>
-        <translation type="unfinished"></translation>
+        <translation>Storlek alla</translation>
     </message>
     <message>
         <source>Blank</source>
-        <translation type="unfinished"></translation>
+        <translation>Tom</translation>
     </message>
     <message>
         <source>Split Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Dela vertikalt</translation>
     </message>
     <message>
         <source>Split Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Dela horisontellt</translation>
     </message>
     <message>
         <source>Pointing Hand</source>
-        <translation type="unfinished"></translation>
+        <translation>Pekande hand</translation>
     </message>
     <message>
         <source>Forbidden</source>
@@ -5814,7 +5820,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Upptagen</translation>
     </message>
 </context>
 <context>
@@ -6019,7 +6025,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation>Kursiv stil</translation>
+        <translation>Kursiv</translation>
     </message>
     <message>
         <source>Underline</source>

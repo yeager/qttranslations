@@ -192,7 +192,7 @@
     </message>
     <message>
         <source>Audio/Video Remote Control Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio/Video Remote Control Target</translation>
     </message>
     <message>
         <source>Advanced Audio Distribution</source>
@@ -200,139 +200,139 @@
     </message>
     <message>
         <source>Audio/Video Remote Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio/Video Remote Control</translation>
     </message>
     <message>
         <source>Audio/Video Remote Control Controller</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio/Video Remote Control Controller</translation>
     </message>
     <message>
         <source>Headset AG</source>
-        <translation type="unfinished"></translation>
+        <translation>Headset AG</translation>
     </message>
     <message>
         <source>Personal Area Networking (PANU)</source>
-        <translation type="unfinished"></translation>
+        <translation>Personal Area Networking (PANU)</translation>
     </message>
     <message>
         <source>Personal Area Networking (NAP)</source>
-        <translation type="unfinished"></translation>
+        <translation>Personal Area Networking (NAP)</translation>
     </message>
     <message>
         <source>Personal Area Networking (GN)</source>
-        <translation type="unfinished"></translation>
+        <translation>Personal Area Networking (GN)</translation>
     </message>
     <message>
         <source>Basic Direct Printing (BPP)</source>
-        <translation type="unfinished"></translation>
+        <translation>Basic Direct Printing (BPP)</translation>
     </message>
     <message>
         <source>Basic Reference Printing (BPP)</source>
-        <translation type="unfinished"></translation>
+        <translation>Basic Reference Printing (BPP)</translation>
     </message>
     <message>
         <source>Basic Imaging Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Basic Imaging Profile</translation>
     </message>
     <message>
         <source>Basic Imaging Responder</source>
-        <translation type="unfinished"></translation>
+        <translation>Basic Imaging Responder</translation>
     </message>
     <message>
         <source>Basic Imaging Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Basic Imaging Archive</translation>
     </message>
     <message>
         <source>Basic Imaging Ref Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Basic Imaging Ref Objects</translation>
     </message>
     <message>
         <source>Hands-Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Hands-Free</translation>
     </message>
     <message>
         <source>Hands-Free AG</source>
-        <translation type="unfinished"></translation>
+        <translation>Hands-Free AG</translation>
     </message>
     <message>
         <source>Basic Printing RefObject Service</source>
-        <translation type="unfinished"></translation>
+        <translation>Basic Printing RefObject Service</translation>
     </message>
     <message>
         <source>Basic Printing Reflected UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Basic Printing Reflected UI</translation>
     </message>
     <message>
         <source>Basic Printing</source>
-        <translation type="unfinished"></translation>
+        <translation>Basic Printing</translation>
     </message>
     <message>
         <source>Basic Printing Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Basic Printing Status</translation>
     </message>
     <message>
         <source>Human Interface Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Human Interface Device</translation>
     </message>
     <message>
         <source>Hardcopy Cable Replacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardcopy Cable Replacement</translation>
     </message>
     <message>
         <source>Hardcopy Cable Replacement Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardcopy Cable Replacement Print</translation>
     </message>
     <message>
         <source>Hardcopy Cable Replacement Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardcopy Cable Replacement Scan</translation>
     </message>
     <message>
         <source>SIM Access Server</source>
-        <translation type="unfinished"></translation>
+        <translation>SIM Access Server</translation>
     </message>
     <message>
         <source>Phonebook Access PCE</source>
-        <translation type="unfinished"></translation>
+        <translation>Phonebook Access PCE</translation>
     </message>
     <message>
         <source>Phonebook Access PSE</source>
-        <translation type="unfinished"></translation>
+        <translation>Phonebook Access PSE</translation>
     </message>
     <message>
         <source>Phonebook Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefonboksåtkomst</translation>
     </message>
     <message>
         <source>Headset HS</source>
-        <translation type="unfinished"></translation>
+        <translation>Headset HS</translation>
     </message>
     <message>
         <source>Message Access Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Message Access Server</translation>
     </message>
     <message>
         <source>Message Notification Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Message Notification Server</translation>
     </message>
     <message>
         <source>Message Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Meddelandeåtkomst</translation>
     </message>
     <message>
         <source>Global Navigation Satellite System</source>
-        <translation type="unfinished"></translation>
+        <translation>Global Navigation Satellite System</translation>
     </message>
     <message>
         <source>Global Navigation Satellite System Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Global Navigation Satellite System Server</translation>
     </message>
     <message>
         <source>3D Synchronization Display</source>
-        <translation type="unfinished"></translation>
+        <translation>3D-synkroniseringsskärm</translation>
     </message>
     <message>
         <source>3D Synchronization Glasses</source>
-        <translation type="unfinished"></translation>
+        <translation>3D-synkroniseringsglasögon</translation>
     </message>
     <message>
         <source>3D Synchronization</source>
@@ -340,11 +340,11 @@
     </message>
     <message>
         <source>Multi-Profile Specification (Profile)</source>
-        <translation type="unfinished"></translation>
+        <translation>Multi-Profile Specification (Profil)</translation>
     </message>
     <message>
         <source>Multi-Profile Specification</source>
-        <translation type="unfinished"></translation>
+        <translation>Multi-Profile Specification</translation>
     </message>
     <message>
         <source>Device Identification</source>
@@ -352,7 +352,7 @@
     </message>
     <message>
         <source>Generic Networking</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmänt nätverk</translation>
     </message>
     <message>
         <source>Generic File Transfer</source>
@@ -372,7 +372,7 @@
     </message>
     <message>
         <source>Video Sink</source>
-        <translation type="unfinished"></translation>
+        <translation>Videosink</translation>
     </message>
     <message>
         <source>Video Distribution</source>
@@ -380,15 +380,15 @@
     </message>
     <message>
         <source>Health Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Hälsoenhet</translation>
     </message>
     <message>
         <source>Health Device Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Hälsoenhet källa</translation>
     </message>
     <message>
         <source>Health Device Sink</source>
-        <translation type="unfinished"></translation>
+        <translation>Sink för hälsoenhet</translation>
     </message>
     <message>
         <source>Generic Access</source>
@@ -396,19 +396,19 @@
     </message>
     <message>
         <source>Generic Attribute</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmänt attribut</translation>
     </message>
     <message>
         <source>Immediate Alert</source>
-        <translation type="unfinished"></translation>
+        <translation>Omedelbart larm</translation>
     </message>
     <message>
         <source>Link Loss</source>
-        <translation type="unfinished"></translation>
+        <translation>Länkförlust</translation>
     </message>
     <message>
         <source>Tx Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Tx Power</translation>
     </message>
     <message>
         <source>Current Time Service</source>
@@ -416,19 +416,19 @@
     </message>
     <message>
         <source>Reference Time Update Service</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdateringstjänst för referenstid</translation>
     </message>
     <message>
         <source>Next DST Change Service</source>
-        <translation type="unfinished"></translation>
+        <translation>Next DST Change Service</translation>
     </message>
     <message>
         <source>Glucose</source>
-        <translation type="unfinished"></translation>
+        <translation>Glukos</translation>
     </message>
     <message>
         <source>Health Thermometer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hälsotermometer</translation>
     </message>
     <message>
         <source>Device Information</source>
@@ -440,11 +440,11 @@
     </message>
     <message>
         <source>Phone Alert Status Service</source>
-        <translation type="unfinished"></translation>
+        <translation>Phone Alert Status Service</translation>
     </message>
     <message>
         <source>Battery Service</source>
-        <translation type="unfinished"></translation>
+        <translation>Batteriservice</translation>
     </message>
     <message>
         <source>Blood Pressure</source>
@@ -452,35 +452,35 @@
     </message>
     <message>
         <source>Alert Notification Service</source>
-        <translation type="unfinished"></translation>
+        <translation>Larmnotieringstjänst</translation>
     </message>
     <message>
         <source>Scan Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Scan Parameters</translation>
     </message>
     <message>
         <source>Running Speed and Cadence</source>
-        <translation type="unfinished"></translation>
+        <translation>Löphastighet och kadens</translation>
     </message>
     <message>
         <source>Cycling Speed and Cadence</source>
-        <translation type="unfinished"></translation>
+        <translation>Cykling hastighet och kadens</translation>
     </message>
     <message>
         <source>Cycling Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Cykelkraft</translation>
     </message>
     <message>
         <source>Location and Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Plats och navigering</translation>
     </message>
     <message>
         <source>Environmental Sensing</source>
-        <translation type="unfinished"></translation>
+        <translation>Miljöavkänning</translation>
     </message>
     <message>
         <source>Body Composition</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroppssammansättning</translation>
     </message>
     <message>
         <source>User Data</source>
@@ -493,43 +493,43 @@
     <message>
         <source>Bond Management</source>
         <extracomment>Connection management (Bluetooth)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bindningshantering</translation>
     </message>
     <message>
         <source>Continuous Glucose Monitoring</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontinuerlig glukosövervakning</translation>
     </message>
     <message>
         <source>Service Discovery Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Service Discovery Protocol</translation>
     </message>
     <message>
         <source>User Datagram Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>User Datagram Protocol</translation>
     </message>
     <message>
         <source>Radio Frequency Communication</source>
-        <translation type="unfinished"></translation>
+        <translation>Radio Frequency Communication</translation>
     </message>
     <message>
         <source>Transmission Control Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Transmission Control Protocol</translation>
     </message>
     <message>
         <source>Telephony Control Specification - Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Telephony Control Specification - Binary</translation>
     </message>
     <message>
         <source>Telephony Control Specification - AT</source>
-        <translation type="unfinished"></translation>
+        <translation>Telephony Control Specification - AT</translation>
     </message>
     <message>
         <source>Attribute Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributprotokoll</translation>
     </message>
     <message>
         <source>Object Exchange Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Object Exchange Protocol</translation>
     </message>
     <message>
         <source>Internet Protocol</source>
@@ -537,63 +537,63 @@
     </message>
     <message>
         <source>File Transfer Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>File Transfer Protocol</translation>
     </message>
     <message>
         <source>Hypertext Transfer Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Hypertext Transfer Protocol</translation>
     </message>
     <message>
         <source>Wireless Short Packet Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Wireless Short Packet Protocol</translation>
     </message>
     <message>
         <source>Bluetooth Network Encapsulation Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth Network Encapsulation Protocol</translation>
     </message>
     <message>
         <source>Extended Service Discovery Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Extended Service Discovery Protocol</translation>
     </message>
     <message>
         <source>Human Interface Device Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Human Interface Device Protocol</translation>
     </message>
     <message>
         <source>Hardcopy Control Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardcopy Control Channel</translation>
     </message>
     <message>
         <source>Hardcopy Data Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardcopy Data Channel</translation>
     </message>
     <message>
         <source>Hardcopy Notification</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardcopy Notification</translation>
     </message>
     <message>
         <source>Audio/Video Control Transport Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Transportprotokoll för ljud/videokontroll</translation>
     </message>
     <message>
         <source>Audio/Video Distribution Transport Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Transportprotokoll för ljud/videodistribution</translation>
     </message>
     <message>
         <source>Common ISDN Access Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanligt ISDN Access Protocol</translation>
     </message>
     <message>
         <source>UdiCPlain</source>
-        <translation type="unfinished"></translation>
+        <translation>UdiCPlain</translation>
     </message>
     <message>
         <source>Multi-Channel Adaptation Protocol - Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Multi-Channel Adaptation Protocol - Control</translation>
     </message>
     <message>
         <source>Multi-Channel Adaptation Protocol - Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Multi-Channel Adaptation Protocol - Data</translation>
     </message>
     <message>
         <source>Layer 2 Control Protocol</source>
@@ -602,31 +602,31 @@
     <message>
         <source>GAP Device Name</source>
         <extracomment>GAP: Generic Access Profile (Bluetooth)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>GAP Device Name</translation>
     </message>
     <message>
         <source>GAP Appearance</source>
         <extracomment>GAP: Generic Access Profile (Bluetooth)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>GAP Appearance</translation>
     </message>
     <message>
         <source>GAP Peripheral Privacy Flag</source>
         <extracomment>GAP: Generic Access Profile (Bluetooth)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>GAP Peripheral Privacy Flag</translation>
     </message>
     <message>
         <source>GAP Reconnection Address</source>
         <extracomment>GAP: Generic Access Profile (Bluetooth)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>GAP Reconnection Address</translation>
     </message>
     <message>
         <source>GAP Peripheral Preferred Connection Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>GAP Peripheral Preferred Connection Parameters</translation>
     </message>
     <message>
         <source>GATT Service Changed</source>
         <extracomment>GATT: _G_eneric _Att_ribute Profile (Bluetooth)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>GATT Service Changed</translation>
     </message>
     <message>
         <source>Alert Level</source>
@@ -634,11 +634,11 @@
     </message>
     <message>
         <source>TX Power</source>
-        <translation type="unfinished"></translation>
+        <translation>TX Power</translation>
     </message>
     <message>
         <source>Date Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum-tid</translation>
     </message>
     <message>
         <source>Day Of Week</source>
@@ -646,15 +646,15 @@
     </message>
     <message>
         <source>Day Date Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Dag-datum-tid</translation>
     </message>
     <message>
         <source>Exact Time 256</source>
-        <translation type="unfinished"></translation>
+        <translation>Exakt tid 256</translation>
     </message>
     <message>
         <source>DST Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>DST-förskjutning</translation>
     </message>
     <message>
         <source>Time Zone</source>
@@ -662,7 +662,7 @@
     </message>
     <message>
         <source>Local Time Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokal tidsinformation</translation>
     </message>
     <message>
         <source>Time With DST</source>
@@ -670,7 +670,7 @@
     </message>
     <message>
         <source>Time Accuracy</source>
-        <translation type="unfinished"></translation>
+        <translation>Noggrannhetstid</translation>
     </message>
     <message>
         <source>Time Source</source>
@@ -678,19 +678,19 @@
     </message>
     <message>
         <source>Reference Time Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Information om referenstid</translation>
     </message>
     <message>
         <source>Time Update Control Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Time Update Control Point</translation>
     </message>
     <message>
         <source>Time Update State</source>
-        <translation type="unfinished"></translation>
+        <translation>Time Update State</translation>
     </message>
     <message>
         <source>Glucose Measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>Glukosmätning</translation>
     </message>
     <message>
         <source>Battery Level</source>
@@ -698,7 +698,7 @@
     </message>
     <message>
         <source>Temperature Measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>Temperaturmätning</translation>
     </message>
     <message>
         <source>Temperature Type</source>
@@ -706,7 +706,7 @@
     </message>
     <message>
         <source>Intermediate Temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>Mellantemperatur</translation>
     </message>
     <message>
         <source>Measurement Interval</source>
@@ -714,39 +714,39 @@
     </message>
     <message>
         <source>Boot Keyboard Input Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Boot Keyboard Input Report</translation>
     </message>
     <message>
         <source>System ID</source>
-        <translation type="unfinished"></translation>
+        <translation>System ID</translation>
     </message>
     <message>
         <source>Model Number String</source>
-        <translation type="unfinished"></translation>
+        <translation>Modellnummersträng</translation>
     </message>
     <message>
         <source>Serial Number String</source>
-        <translation type="unfinished"></translation>
+        <translation>Serienummerssträng</translation>
     </message>
     <message>
         <source>Firmware Revision String</source>
-        <translation type="unfinished"></translation>
+        <translation>Firmware Revision String</translation>
     </message>
     <message>
         <source>Hardware Revision String</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardware Revision String</translation>
     </message>
     <message>
         <source>Software Revision String</source>
-        <translation type="unfinished"></translation>
+        <translation>Programrevisionssträng</translation>
     </message>
     <message>
         <source>Manufacturer Name String</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillverkarens namnsträng</translation>
     </message>
     <message>
         <source>IEEE 11073 20601 Regulatory Certification Data List</source>
-        <translation type="unfinished"></translation>
+        <translation>IEEE 11073 20601 Regulatory Certification Data List</translation>
     </message>
     <message>
         <source>Current Time</source>
@@ -754,67 +754,67 @@
     </message>
     <message>
         <source>Scan Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Scan Refresh</translation>
     </message>
     <message>
         <source>Boot Keyboard Output Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Boot Keyboard Output Report</translation>
     </message>
     <message>
         <source>Boot Mouse Input Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Boot Mouse Input Report</translation>
     </message>
     <message>
         <source>Glucose Measurement Context</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontext för glukosmätning</translation>
     </message>
     <message>
         <source>Blood Pressure Measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>Blodtrycksmätning</translation>
     </message>
     <message>
         <source>Intermediate Cuff Pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Blodtrycksmanschett</translation>
     </message>
     <message>
         <source>Heart Rate Measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulsmätning</translation>
     </message>
     <message>
         <source>Body Sensor Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroppssensor plats</translation>
     </message>
     <message>
         <source>Heart Rate Control Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Puls kontrollpunkt</translation>
     </message>
     <message>
         <source>Alert Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Larmstatus</translation>
     </message>
     <message>
         <source>Ringer Control Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Ringer Control Point</translation>
     </message>
     <message>
         <source>Ringer Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ringer Setting</translation>
     </message>
     <message>
         <source>Alert Category ID Bit Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitmask för larmkategori id</translation>
     </message>
     <message>
         <source>Alert Category ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Larmkategori id</translation>
     </message>
     <message>
         <source>Alert Notification Control Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Larmnotifiering kontrollpunkt</translation>
     </message>
     <message>
         <source>Unread Alert Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Unread Alert Status</translation>
     </message>
     <message>
         <source>New Alert</source>
@@ -822,29 +822,29 @@
     </message>
     <message>
         <source>Supported New Alert Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Supported New Alert Category</translation>
     </message>
     <message>
         <source>Supported Unread Alert Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Supported Unread Alert Category</translation>
     </message>
     <message>
         <source>Blood Pressure Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Blodtrycksfunktion</translation>
     </message>
     <message>
         <source>HID Information</source>
         <extracomment>HID: Human Interface Device Profile (Bluetooth)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>HID Information</translation>
     </message>
     <message>
         <source>Report Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapportkarta</translation>
     </message>
     <message>
         <source>HID Control Point</source>
         <extracomment>HID: Human Interface Device Profile (Bluetooth)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>HID Control Point</translation>
     </message>
     <message>
         <source>Report</source>
@@ -856,68 +856,68 @@
     </message>
     <message>
         <source>Scan Interval Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Scan Interval Window</translation>
     </message>
     <message>
         <source>PnP ID</source>
-        <translation type="unfinished"></translation>
+        <translation>PnP ID</translation>
     </message>
     <message>
         <source>Glucose Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Glukosfunktion</translation>
     </message>
     <message>
         <source>Record Access Control Point</source>
         <extracomment>Glucose Sensor patient record database.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Record Access Control Point</translation>
     </message>
     <message>
         <source>RSC Measurement</source>
         <extracomment>RSC: Running Speed and Cadence</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>RSC Measurement</translation>
     </message>
     <message>
         <source>RSC Feature</source>
         <extracomment>RSC: Running Speed and Cadence</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>RSC Feature</translation>
     </message>
     <message>
         <source>SC Control Point</source>
-        <translation type="unfinished"></translation>
+        <translation>SC Control Point</translation>
     </message>
     <message>
         <source>CSC Measurement</source>
         <extracomment>CSC: Cycling Speed and Cadence</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>CSC-mätning</translation>
     </message>
     <message>
         <source>CSC Feature</source>
         <extracomment>CSC: Cycling Speed and Cadence</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>CSC-funktion</translation>
     </message>
     <message>
         <source>Sensor Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Sensorplats</translation>
     </message>
     <message>
         <source>Cycling Power Measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>Cykelkraftmätning</translation>
     </message>
     <message>
         <source>Cycling Power Vector</source>
-        <translation type="unfinished"></translation>
+        <translation>Cykelkraft vektor</translation>
     </message>
     <message>
         <source>Cycling Power Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Cykelkraftfunktion</translation>
     </message>
     <message>
         <source>Cycling Power Control Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Cykelkraft kontrollpunkt</translation>
     </message>
     <message>
         <source>Location And Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Plats och hastighet</translation>
     </message>
     <message>
         <source>Navigation</source>
@@ -925,25 +925,25 @@
     </message>
     <message>
         <source>Position Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Positionskvalitet</translation>
     </message>
     <message>
         <source>LN Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>LN Feature</translation>
     </message>
     <message>
         <source>LN Control Point</source>
-        <translation type="unfinished"></translation>
+        <translation>LN Control Point</translation>
     </message>
     <message>
         <source>Magnetic Declination</source>
         <extracomment>Angle between geographic and magnetic north</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Magnetisk deklination</translation>
     </message>
     <message>
         <source>Elevation</source>
         <extracomment>Above/below sea level</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Höjdmeter</translation>
     </message>
     <message>
         <source>Pressure</source>
@@ -955,42 +955,42 @@
     </message>
     <message>
         <source>Humidity</source>
-        <translation type="unfinished"></translation>
+        <translation>Luftfuktighet</translation>
     </message>
     <message>
         <source>True Wind Speed</source>
         <extracomment>Wind speed while standing</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sann vindhastighet</translation>
     </message>
     <message>
         <source>True Wind Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Sann vindriktning</translation>
     </message>
     <message>
         <source>Apparent Wind Speed</source>
         <extracomment>Wind speed while observer is moving</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Faktisk vindhastighet</translation>
     </message>
     <message>
         <source>Apparent Wind Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Faktisk vindriktning</translation>
     </message>
     <message>
         <source>Gust Factor</source>
         <extracomment>Factor by which wind gust is stronger than average wind</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Gustfaktor</translation>
     </message>
     <message>
         <source>Pollen Concentration</source>
-        <translation type="unfinished"></translation>
+        <translation>Pollenkoncentration</translation>
     </message>
     <message>
         <source>UV Index</source>
-        <translation type="unfinished"></translation>
+        <translation>UV-index</translation>
     </message>
     <message>
         <source>Irradiance</source>
-        <translation type="unfinished"></translation>
+        <translation>Irradians</translation>
     </message>
     <message>
         <source>Rainfall</source>
@@ -998,32 +998,32 @@
     </message>
     <message>
         <source>Wind Chill</source>
-        <translation type="unfinished"></translation>
+        <translation>Vindkyla</translation>
     </message>
     <message>
         <source>Heat Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Värmeindex</translation>
     </message>
     <message>
         <source>Dew Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Daggpunkt</translation>
     </message>
     <message>
         <source>Descriptor Value Changed</source>
         <extracomment>Environmental sensing related</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Beskrivarvärdet ändrat</translation>
     </message>
     <message>
         <source>Aerobic Heart Rate Lower Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Aerobisk puls lägre gräns</translation>
     </message>
     <message>
         <source>Aerobic Heart Rate Upper Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Aerobisk puls övre gräns</translation>
     </message>
     <message>
         <source>Aerobic Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Aerobiskt tröskelvärde</translation>
     </message>
     <message>
         <source>Age</source>
@@ -1032,15 +1032,15 @@
     </message>
     <message>
         <source>Anaerobic Heart Rate Lower Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Anaerobisk puls lägre gräns</translation>
     </message>
     <message>
         <source>Anaerobic Heart Rate Upper Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Anaerobisk puls övre gräns</translation>
     </message>
     <message>
         <source>Anaerobic Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Anaerobiskt tröskelvärde</translation>
     </message>
     <message>
         <source>Date Of Birth</source>
@@ -1048,7 +1048,7 @@
     </message>
     <message>
         <source>Date Of Threshold Assessment</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum för tröskelvärdesvärdering</translation>
     </message>
     <message>
         <source>Email Address</source>
@@ -1056,11 +1056,11 @@
     </message>
     <message>
         <source>Fat Burn Heart Rate Lower Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Fettbränning puls lägre gräns</translation>
     </message>
     <message>
         <source>Fat Burn Heart Rate Upper Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Fettbränning puls övre gräns</translation>
     </message>
     <message>
         <source>First Name</source>
@@ -1068,7 +1068,7 @@
     </message>
     <message>
         <source>5-Zone Heart Rate Limits</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulszon 5</translation>
     </message>
     <message>
         <source>Gender</source>
@@ -1076,7 +1076,7 @@
     </message>
     <message>
         <source>Heart Rate Maximum</source>
-        <translation type="unfinished"></translation>
+        <translation>Puls maximum</translation>
     </message>
     <message>
         <source>Height</source>
@@ -1085,7 +1085,7 @@
     </message>
     <message>
         <source>Hip Circumference</source>
-        <translation type="unfinished"></translation>
+        <translation>Höftomkrets</translation>
     </message>
     <message>
         <source>Last Name</source>
@@ -1093,31 +1093,31 @@
     </message>
     <message>
         <source>Maximum Recommended Heart Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximal rekommenderad puls</translation>
     </message>
     <message>
         <source>Resting Heart Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Vilopuls</translation>
     </message>
     <message>
         <source>Sport Type For Aerobic/Anaerobic Thresholds</source>
-        <translation type="unfinished"></translation>
+        <translation>Sporttyp för aerobisk/anerobiskt tröskelvärde</translation>
     </message>
     <message>
         <source>3-Zone Heart Rate Limits</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulszon 3</translation>
     </message>
     <message>
         <source>2-Zone Heart Rate Limits</source>
-        <translation type="unfinished"></translation>
+        <translation>2-zons pulsgränser</translation>
     </message>
     <message>
         <source>Oxygen Uptake</source>
-        <translation type="unfinished"></translation>
+        <translation>Syreupptagning</translation>
     </message>
     <message>
         <source>Waist Circumference</source>
-        <translation type="unfinished"></translation>
+        <translation>Midjeomkrets</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -1126,7 +1126,7 @@
     <message>
         <source>Database Change Increment</source>
         <extracomment>Environmental sensing related</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Databasändringsinkrement</translation>
     </message>
     <message>
         <source>User Index</source>
@@ -1134,11 +1134,11 @@
     </message>
     <message>
         <source>Body Composition Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroppssammansättningsfunktion</translation>
     </message>
     <message>
         <source>Body Composition Measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroppssammansättningsmätning</translation>
     </message>
     <message>
         <source>Weight Measurement</source>
@@ -1146,19 +1146,19 @@
     </message>
     <message>
         <source>Weight Scale Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Vågfunktion</translation>
     </message>
     <message>
         <source>User Control Point</source>
-        <translation type="unfinished"></translation>
+        <translation>User Control Point</translation>
     </message>
     <message>
         <source>Magnetic Flux Density 2D</source>
-        <translation type="unfinished"></translation>
+        <translation>Magnetic Flux Density 2D</translation>
     </message>
     <message>
         <source>Magnetic Flux Density 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>Magnetic Flux Density 3D</translation>
     </message>
     <message>
         <source>Language</source>
@@ -1166,31 +1166,31 @@
     </message>
     <message>
         <source>Barometric Pressure Trend</source>
-        <translation type="unfinished"></translation>
+        <translation>Trend för barometriskt lufttryck</translation>
     </message>
     <message>
         <source>Characteristic Extended Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Characteristic Extended Properties</translation>
     </message>
     <message>
         <source>Characteristic User Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Characteristic User Description</translation>
     </message>
     <message>
         <source>Client Characteristic Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Client Characteristic Configuration</translation>
     </message>
     <message>
         <source>Server Characteristic Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Server Characteristic Configuration</translation>
     </message>
     <message>
         <source>Characteristic Presentation Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Characteristic Presentation Format</translation>
     </message>
     <message>
         <source>Characteristic Aggregate Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Characteristic Aggregate Format</translation>
     </message>
     <message>
         <source>Valid Range</source>
@@ -1198,23 +1198,23 @@
     </message>
     <message>
         <source>External Report Reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Extern rapportreferens</translation>
     </message>
     <message>
         <source>Report Reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapportreferens</translation>
     </message>
     <message>
         <source>Environmental Sensing Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguration för miljöavkänning</translation>
     </message>
     <message>
         <source>Environmental Sensing Measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>Mätning för miljöavkänning</translation>
     </message>
     <message>
         <source>Environmental Sensing Trigger Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Utlösningsinställning för miljöavkänning</translation>
     </message>
     <message>
         <source>Unknown Service</source>
